@@ -1,0 +1,1 @@
+CC=/home/vagrant/touch_of_death/AFL/afl-clang-fast CXX=/home/vagrant/touch_of_death/AFL/afl-clang-fast++ CFLAGS="-g -O0 -rtlib=compiler-rt -lgcc_s" CXXFLAGS="-g -O0 -rtlib=compiler-rt -lgcc_s" ../configure --disable-shared --with-harfbuzz=no --with-bzip2=no --with-png=no --without-zlib

@@ -1,0 +1,69 @@
+{
+   "3336957" : {
+      "conditional_var_id" : 3336957,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/libarchive-3.4.3/libarchive/archive_read_add_passphrase.c",
+      "funname" : "archive_read_add_passphrase",
+      "newbbs" : 0,
+      "numcolumn" : 2,
+      "numline" : 93,
+      "size" : 32,
+      "var_id" : 3336957,
+      "variablename" : "magic_test",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/libarchive-3.4.3/libarchive/archive_read_add_passphrase.c:93:2",
+      "varlabel" : -1
+   },
+   "3338577" : {
+      "conditional_var_id" : 3338577,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/libarchive-3.4.3/libarchive/archive_read_add_passphrase.c",
+      "funname" : "archive_read_set_passphrase_callback",
+      "newbbs" : 0,
+      "numcolumn" : 2,
+      "numline" : 116,
+      "size" : 32,
+      "var_id" : 3338577,
+      "variablename" : "magic_test",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/libarchive-3.4.3/libarchive/archive_read_add_passphrase.c:116:2",
+      "varlabel" : -1
+   },
+   "3339650" : {
+      "conditional_var_id" : 3339650,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/libarchive-3.4.3/libarchive/archive_read_add_passphrase.c",
+      "funname" : "__archive_read_next_passphrase",
+      "newbbs" : 0,
+      "numcolumn" : 21,
+      "numline" : 144,
+      "size" : 32,
+      "var_id" : 3339650,
+      "variablename" : "a",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/libarchive-3.4.3/libarchive/archive_read_add_passphrase.c:144:21",
+      "varlabel" : -1
+   },
+   "3340008" : {
+      "conditional_var_id" : 3340008,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/libarchive-3.4.3/libarchive/archive_read_add_passphrase.c",
+      "funname" : "__archive_read_next_passphrase",
+      "newbbs" : 0,
+      "numcolumn" : 28,
+      "numline" : 152,
+      "size" : 32,
+      "var_id" : 3340008,
+      "variablename" : "a",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/libarchive-3.4.3/libarchive/archive_read_add_passphrase.c:152:28",
+      "varlabel" : -1
+   },
+   "3340291" : {
+      "conditional_var_id" : 3340291,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/libarchive-3.4.3/libarchive/archive_read_add_passphrase.c",
+      "funname" : "__archive_read_next_passphrase",
+      "newbbs" : 0,
+      "numcolumn" : 28,
+      "numline" : 159,
+      "size" : 32,
+      "var_id" : 3340291,
+      "variablename" : "a",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/libarchive-3.4.3/libarchive/archive_read_add_passphrase.c:159:28",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 5,
+   "variable_count" : 5
+}

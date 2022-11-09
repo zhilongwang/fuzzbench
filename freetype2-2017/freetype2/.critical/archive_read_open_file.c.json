@@ -1,0 +1,56 @@
+{
+   "11122293" : {
+      "conditional_var_id" : 11122293,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/libarchive-3.4.3/libarchive/archive_read_open_file.c",
+      "funname" : "file_read",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 116,
+      "size" : 32,
+      "var_id" : 11122293,
+      "variablename" : "bytes_read",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/libarchive-3.4.3/libarchive/archive_read_open_file.c:116:6",
+      "varlabel" : -1
+   },
+   "11122670" : {
+      "conditional_var_id" : 11122670,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/libarchive-3.4.3/libarchive/archive_read_open_file.c",
+      "funname" : "file_read",
+      "newbbs" : 0,
+      "numcolumn" : 25,
+      "numline" : 116,
+      "size" : 32,
+      "var_id" : 11122670,
+      "variablename" : "mine",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/libarchive-3.4.3/libarchive/archive_read_open_file.c:116:25",
+      "varlabel" : -1
+   },
+   "11123180" : {
+      "conditional_var_id" : 11123180,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/libarchive-3.4.3/libarchive/archive_read_open_file.c",
+      "funname" : "file_skip",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 141,
+      "size" : 8,
+      "var_id" : 11123180,
+      "variablename" : "mine",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/libarchive-3.4.3/libarchive/archive_read_open_file.c:141:13",
+      "varlabel" : -1
+   },
+   "11123312" : {
+      "conditional_var_id" : 11123312,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/libarchive-3.4.3/libarchive/archive_read_open_file.c",
+      "funname" : "file_skip",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 143,
+      "size" : 64,
+      "var_id" : 11123312,
+      "variablename" : "request",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/libarchive-3.4.3/libarchive/archive_read_open_file.c:143:6",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 4
+}

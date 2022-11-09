@@ -1,0 +1,43 @@
+{
+   "1248242" : {
+      "conditional_var_id" : 1248242,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/libarchive-3.4.3/libarchive/archive_write_set_format.c",
+      "funname" : "archive_write_set_format",
+      "newbbs" : 0,
+      "numcolumn" : 23,
+      "numline" : 72,
+      "size" : 32,
+      "var_id" : 1248242,
+      "variablename" : "codes",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/libarchive-3.4.3/libarchive/archive_write_set_format.c:72:23",
+      "varlabel" : -1
+   },
+   "1248679" : {
+      "conditional_var_id" : 1248679,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/libarchive-3.4.3/libarchive/archive_write_set_format.c",
+      "funname" : "archive_write_set_format",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 73,
+      "size" : 32,
+      "var_id" : 1248679,
+      "variablename" : "code",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/libarchive-3.4.3/libarchive/archive_write_set_format.c:73:7",
+      "varlabel" : -1
+   },
+   "1248820" : {
+      "conditional_var_id" : 1248820,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/libarchive-3.4.3/libarchive/archive_write_set_format.c",
+      "funname" : "archive_write_set_format",
+      "newbbs" : 0,
+      "numcolumn" : 24,
+      "numline" : 73,
+      "size" : 32,
+      "var_id" : 1248242,
+      "variablename" : "codes",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/libarchive-3.4.3/libarchive/archive_write_set_format.c:73:24",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 2
+}

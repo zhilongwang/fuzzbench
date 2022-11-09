@@ -1,0 +1,17 @@
+{
+   "8467487" : {
+      "conditional_var_id" : 8467487,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/libarchive-3.4.3/libarchive/archive_read_support_format_by_code.c",
+      "funname" : "archive_read_support_format_by_code",
+      "newbbs" : 0,
+      "numcolumn" : 2,
+      "numline" : 35,
+      "size" : 32,
+      "var_id" : 8467487,
+      "variablename" : "magic_test",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/libarchive-3.4.3/libarchive/archive_read_support_format_by_code.c:35:2",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

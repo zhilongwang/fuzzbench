@@ -1,0 +1,17 @@
+{
+   "13871546" : {
+      "conditional_var_id" : 13871546,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/freetype2//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/freetype2/src/base/ftgasp.c",
+      "funname" : "FT_Get_Gasp",
+      "newbbs" : 0,
+      "numcolumn" : 17,
+      "numline" : 42,
+      "size" : 32,
+      "var_id" : 13871546,
+      "variablename" : "ppem",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/freetype2//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/freetype2-2017/freetype2/src/base/ftgasp.c:42:17",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}
