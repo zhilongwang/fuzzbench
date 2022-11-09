@@ -1,0 +1,43 @@
+{
+   "10333599" : {
+      "conditional_var_id" : 10333599,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/src/test-would-substitute.cc",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 52,
+      "size" : 32,
+      "var_id" : 10333599,
+      "variablename" : "argc",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/src/test-would-substitute.cc:52:7",
+      "varlabel" : -1
+   },
+   "10334272" : {
+      "conditional_var_id" : 10334272,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/src/test-would-substitute.cc",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 20,
+      "numline" : 52,
+      "size" : 32,
+      "var_id" : 10333599,
+      "variablename" : "argc",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/src/test-would-substitute.cc:52:20",
+      "varlabel" : -1
+   },
+   "10335157" : {
+      "conditional_var_id" : 10335157,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/src/test-would-substitute.cc",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 8,
+      "numline" : 102,
+      "size" : 32,
+      "var_id" : 10333599,
+      "variablename" : "argc",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/src/test-would-substitute.cc:102:8",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 1
+}

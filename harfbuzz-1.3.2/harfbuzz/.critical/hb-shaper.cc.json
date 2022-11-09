@@ -1,0 +1,56 @@
+{
+   "15884017" : {
+      "conditional_var_id" : 15884017,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/src/hb-shaper.cc",
+      "funname" : "_Z15_hb_shapers_getv",
+      "newbbs" : 0,
+      "numcolumn" : 11,
+      "numline" : 60,
+      "size" : 8,
+      "var_id" : 15884017,
+      "variablename" : "null",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/src/hb-shaper.cc:60:11",
+      "varlabel" : -1
+   },
+   "15884684" : {
+      "conditional_var_id" : 15884684,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/src/hb-shaper.cc",
+      "funname" : "_Z15_hb_shapers_getv",
+      "newbbs" : 0,
+      "numcolumn" : 18,
+      "numline" : 61,
+      "size" : 8,
+      "var_id" : 15884684,
+      "variablename" : "env",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/src/hb-shaper.cc:61:18",
+      "varlabel" : -1
+   },
+   "15885186" : {
+      "conditional_var_id" : 15885186,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/src/hb-shaper.cc",
+      "funname" : "_Z15_hb_shapers_getv",
+      "newbbs" : 0,
+      "numcolumn" : 32,
+      "numline" : 83,
+      "size" : 32,
+      "var_id" : 15885186,
+      "variablename" : "j",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/src/hb-shaper.cc:83:32",
+      "varlabel" : -1
+   },
+   "15885544" : {
+      "conditional_var_id" : 15885544,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/src/hb-shaper.cc",
+      "funname" : "_Z15_hb_shapers_getv",
+      "newbbs" : 0,
+      "numcolumn" : 12,
+      "numline" : 94,
+      "size" : 8,
+      "var_id" : 15885544,
+      "variablename" : "end",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/src/hb-shaper.cc:94:12",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 4
+}

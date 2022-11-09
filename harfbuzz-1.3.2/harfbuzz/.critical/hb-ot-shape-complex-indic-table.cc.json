@@ -1,0 +1,30 @@
+{
+   "9566425" : {
+      "conditional_var_id" : 9566425,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/src/hb-ot-shape-complex-indic-table.cc",
+      "funname" : "_Z23hb_indic_get_categoriesj",
+      "newbbs" : 0,
+      "numcolumn" : 11,
+      "numline" : 404,
+      "size" : 32,
+      "var_id" : 9566425,
+      "variablename" : "u",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/src/hb-ot-shape-complex-indic-table.cc:404:11",
+      "varlabel" : -1
+   },
+   "9567460" : {
+      "conditional_var_id" : 9567460,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/src/hb-ot-shape-complex-indic-table.cc",
+      "funname" : "_Z23hb_indic_get_categoriesj",
+      "newbbs" : 0,
+      "numcolumn" : 11,
+      "numline" : 416,
+      "size" : 32,
+      "var_id" : 9566425,
+      "variablename" : "u",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/src/hb-ot-shape-complex-indic-table.cc:416:11",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 2,
+   "variable_count" : 1
+}

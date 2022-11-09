@@ -1,0 +1,17 @@
+{
+   "9603530" : {
+      "conditional_var_id" : 9603530,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/src/./hb-unicode-private.hh",
+      "funname" : "_ZN18hb_unicode_funcs_t20is_default_ignorableEj",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 174,
+      "size" : 32,
+      "var_id" : 9603530,
+      "variablename" : "plane",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/src/./hb-unicode-private.hh:174:9",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

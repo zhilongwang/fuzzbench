@@ -1,0 +1,82 @@
+{
+   "291717" : {
+      "conditional_var_id" : 291717,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/util/view-cairo.cc",
+      "funname" : "_ZN12view_cairo_t6renderEPK14font_options_t",
+      "newbbs" : 0,
+      "numcolumn" : 8,
+      "numline" : 84,
+      "size" : 32,
+      "var_id" : 291717,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/util/view-cairo.cc:84:8",
+      "varlabel" : -1
+   },
+   "292231" : {
+      "conditional_var_id" : 292231,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/util/view-cairo.cc",
+      "funname" : "_ZN12view_cairo_t6renderEPK14font_options_t",
+      "newbbs" : 0,
+      "numcolumn" : 8,
+      "numline" : 88,
+      "size" : 32,
+      "var_id" : 292231,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/util/view-cairo.cc:88:8",
+      "varlabel" : -1
+   },
+   "292594" : {
+      "conditional_var_id" : 292594,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/util/view-cairo.cc",
+      "funname" : "_ZN12view_cairo_t6renderEPK14font_options_t",
+      "newbbs" : 0,
+      "numcolumn" : 8,
+      "numline" : 89,
+      "size" : 32,
+      "var_id" : 291717,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/util/view-cairo.cc:89:8",
+      "varlabel" : -1
+   },
+   "292826" : {
+      "conditional_var_id" : 292826,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/util/view-cairo.cc",
+      "funname" : "_ZN12view_cairo_t6renderEPK14font_options_t",
+      "newbbs" : 0,
+      "numcolumn" : 22,
+      "numline" : 100,
+      "size" : 32,
+      "var_id" : 292826,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/util/view-cairo.cc:100:22",
+      "varlabel" : -1
+   },
+   "292952" : {
+      "conditional_var_id" : 292952,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/util/view-cairo.cc",
+      "funname" : "_ZN12view_cairo_t6renderEPK14font_options_t",
+      "newbbs" : 0,
+      "numcolumn" : 28,
+      "numline" : 107,
+      "size" : 32,
+      "var_id" : 292952,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/util/view-cairo.cc:107:28",
+      "varlabel" : -1
+   },
+   "293081" : {
+      "conditional_var_id" : 293081,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/util/view-cairo.cc",
+      "funname" : "_ZN12view_cairo_t6renderEPK14font_options_t",
+      "newbbs" : 0,
+      "numcolumn" : 18,
+      "numline" : 120,
+      "size" : 32,
+      "var_id" : 293081,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/harfbuzz-1.3.2/harfbuzz/util/view-cairo.cc:120:18",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 6,
+   "variable_count" : 5
+}
