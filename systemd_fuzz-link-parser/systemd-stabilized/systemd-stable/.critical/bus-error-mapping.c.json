@@ -1,0 +1,43 @@
+{
+   "6894072" : {
+      "conditional_var_id" : 6894072,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-bus/bus-error-mapping.c",
+      "funname" : "bus_error_mapping_lookup",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 154,
+      "size" : 32,
+      "var_id" : 6894072,
+      "variablename" : "len",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-bus/bus-error-mapping.c:154:7",
+      "varlabel" : -1
+   },
+   "6895288" : {
+      "conditional_var_id" : 6895288,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-bus/bus-error-mapping.c",
+      "funname" : "bus_error_mapping_lookup",
+      "newbbs" : 0,
+      "numcolumn" : 33,
+      "numline" : 154,
+      "size" : 32,
+      "var_id" : 6894072,
+      "variablename" : "len",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-bus/bus-error-mapping.c:154:33",
+      "varlabel" : -1
+   },
+   "6895588" : {
+      "conditional_var_id" : 6895588,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-bus/bus-error-mapping.c",
+      "funname" : "bus_error_mapping_lookup",
+      "newbbs" : 0,
+      "numcolumn" : 11,
+      "numline" : 158,
+      "size" : 32,
+      "var_id" : 6895588,
+      "variablename" : "key",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-bus/bus-error-mapping.c:158:11",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 2
+}

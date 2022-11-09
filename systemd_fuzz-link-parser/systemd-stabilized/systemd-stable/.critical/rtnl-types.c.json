@@ -1,0 +1,69 @@
+{
+   "1914307" : {
+      "conditional_var_id" : 1914307,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-rtnl/rtnl-types.c",
+      "funname" : "nl_union_link_info_data_to_string",
+      "newbbs" : 0,
+      "numcolumn" : 1,
+      "numline" : 192,
+      "size" : 32,
+      "var_id" : 1914307,
+      "variablename" : "i",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-rtnl/rtnl-types.c:192:1",
+      "varlabel" : -1
+   },
+   "1915073" : {
+      "conditional_var_id" : 1915073,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-rtnl/rtnl-types.c",
+      "funname" : "nl_union_link_info_data_to_string",
+      "newbbs" : 0,
+      "numcolumn" : 1,
+      "numline" : 192,
+      "size" : 32,
+      "var_id" : 1914307,
+      "variablename" : "i",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-rtnl/rtnl-types.c:192:1",
+      "varlabel" : -1
+   },
+   "1917311" : {
+      "conditional_var_id" : 1917311,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-rtnl/rtnl-types.c",
+      "funname" : "type_system_get_type_system",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 389,
+      "size" : 32,
+      "var_id" : 1917311,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-rtnl/rtnl-types.c:389:13",
+      "varlabel" : -1
+   },
+   "1918376" : {
+      "conditional_var_id" : 1918376,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-rtnl/rtnl-types.c",
+      "funname" : "type_system_get_type_system_union",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 408,
+      "size" : 32,
+      "var_id" : 1918376,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-rtnl/rtnl-types.c:408:13",
+      "varlabel" : -1
+   },
+   "1919656" : {
+      "conditional_var_id" : 1919656,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-rtnl/rtnl-types.c",
+      "funname" : "type_system_union_get_type_system",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 430,
+      "size" : 32,
+      "var_id" : 1919656,
+      "variablename" : "type",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-rtnl/rtnl-types.c:430:13",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 5,
+   "variable_count" : 4
+}

@@ -1,0 +1,56 @@
+{
+   "3225209" : {
+      "conditional_var_id" : 3225209,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-kmod.c",
+      "funname" : "builtin_kmod",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 82,
+      "size" : 32,
+      "var_id" : 3225209,
+      "variablename" : "argc",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-kmod.c:82:13",
+      "varlabel" : -1
+   },
+   "3228583" : {
+      "conditional_var_id" : 3228583,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-kmod.c",
+      "funname" : "load_module",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 43,
+      "size" : 32,
+      "var_id" : 3228583,
+      "variablename" : "err",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-kmod.c:43:13",
+      "varlabel" : -1
+   },
+   "3229026" : {
+      "conditional_var_id" : 3229026,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-kmod.c",
+      "funname" : "load_module",
+      "newbbs" : 0,
+      "numcolumn" : 21,
+      "numline" : 53,
+      "size" : 32,
+      "var_id" : 3228583,
+      "variablename" : "err",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-kmod.c:53:21",
+      "varlabel" : -1
+   },
+   "3229444" : {
+      "conditional_var_id" : 3229444,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-kmod.c",
+      "funname" : "load_module",
+      "newbbs" : 0,
+      "numcolumn" : 26,
+      "numline" : 55,
+      "size" : 32,
+      "var_id" : 3228583,
+      "variablename" : "err",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-kmod.c:55:26",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 2
+}

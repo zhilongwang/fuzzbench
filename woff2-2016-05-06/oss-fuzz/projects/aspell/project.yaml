@@ -1,0 +1,11 @@
+homepage: "https://github.com/GNUAspell/aspell"
+language: c++
+primary_contact: "kevina@gnu.org"
+auto_ccs:
+  - "kevinatkn@gmail.com"
+  - "cmeister2@gmail.com"
+sanitizers:
+  - address
+  - undefined
+  - memory:
+      experimental: true

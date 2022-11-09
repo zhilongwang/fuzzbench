@@ -1,0 +1,69 @@
+{
+   "5658879" : {
+      "conditional_var_id" : 5658879,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-uaccess.c",
+      "funname" : "builtin_uaccess",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 56,
+      "size" : 32,
+      "var_id" : 5658879,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-uaccess.c:56:13",
+      "varlabel" : -1
+   },
+   "5659878" : {
+      "conditional_var_id" : 5659878,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-uaccess.c",
+      "funname" : "builtin_uaccess",
+      "newbbs" : 0,
+      "numcolumn" : 20,
+      "numline" : 60,
+      "size" : 32,
+      "var_id" : 5658879,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-uaccess.c:60:20",
+      "varlabel" : -1
+   },
+   "5660352" : {
+      "conditional_var_id" : 5660352,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-uaccess.c",
+      "funname" : "builtin_uaccess",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 66,
+      "size" : 32,
+      "var_id" : 5658879,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-uaccess.c:66:13",
+      "varlabel" : -1
+   },
+   "5660979" : {
+      "conditional_var_id" : 5660979,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-uaccess.c",
+      "funname" : "builtin_uaccess",
+      "newbbs" : 0,
+      "numcolumn" : 21,
+      "numline" : 80,
+      "size" : 32,
+      "var_id" : 5660979,
+      "variablename" : "k",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-uaccess.c:80:21",
+      "varlabel" : -1
+   },
+   "5661286" : {
+      "conditional_var_id" : 5661286,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-uaccess.c",
+      "funname" : "builtin_uaccess",
+      "newbbs" : 0,
+      "numcolumn" : 29,
+      "numline" : 82,
+      "size" : 32,
+      "var_id" : 5658879,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-uaccess.c:82:29",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 5,
+   "variable_count" : 2
+}

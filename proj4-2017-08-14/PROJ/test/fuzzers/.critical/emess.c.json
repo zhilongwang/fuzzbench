@@ -1,0 +1,56 @@
+{
+   "15936866" : {
+      "conditional_var_id" : 15936866,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/emess.c",
+      "funname" : "emess",
+      "newbbs" : 0,
+      "numcolumn" : 17,
+      "numline" : 32,
+      "size" : 32,
+      "var_id" : 15936866,
+      "variablename" : "emess_dat",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/emess.c:32:17",
+      "varlabel" : -1
+   },
+   "15937730" : {
+      "conditional_var_id" : 15937730,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/emess.c",
+      "funname" : "emess",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 39,
+      "size" : 32,
+      "var_id" : 15937730,
+      "variablename" : "code",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/emess.c:39:6",
+      "varlabel" : -1
+   },
+   "15937902" : {
+      "conditional_var_id" : 15937902,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/emess.c",
+      "funname" : "emess",
+      "newbbs" : 0,
+      "numcolumn" : 19,
+      "numline" : 39,
+      "size" : 32,
+      "var_id" : 15937730,
+      "variablename" : "code",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/emess.c:39:19",
+      "varlabel" : -1
+   },
+   "15938246" : {
+      "conditional_var_id" : 15938246,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/emess.c",
+      "funname" : "emess",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 56,
+      "size" : 32,
+      "var_id" : 15937730,
+      "variablename" : "code",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/emess.c:56:6",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 2
+}

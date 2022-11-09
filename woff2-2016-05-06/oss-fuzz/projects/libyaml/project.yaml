@@ -1,0 +1,18 @@
+homepage: https://github.com/yaml/libyaml
+language: c++
+primary_contact: "sigmavirus24@gmail.com"
+auto_ccs:
+  - "alex.gaynor@gmail.com"
+fuzzing_engines:
+  - libfuzzer
+  - afl
+  - honggfuzz
+  - dataflow
+sanitizers:
+  - address
+  - dataflow
+  - memory
+  - undefined
+architectures:
+  - x86_64
+  - i386

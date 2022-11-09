@@ -1,0 +1,17 @@
+{
+   "2972464" : {
+      "conditional_var_id" : 2972464,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/core/dbus-busname.c",
+      "funname" : "property_get_result",
+      "newbbs" : 0,
+      "numcolumn" : 8,
+      "numline" : 28,
+      "size" : 32,
+      "var_id" : 2972464,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/core/dbus-busname.c:28:8",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

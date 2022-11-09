@@ -1,0 +1,43 @@
+{
+   "15029351" : {
+      "conditional_var_id" : 15029351,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/Zend/Optimizer/nop_removal.c",
+      "funname" : "zend_optimizer_nop_removal",
+      "newbbs" : 0,
+      "numcolumn" : 8,
+      "numline" : 64,
+      "size" : 32,
+      "var_id" : 15029351,
+      "variablename" : "shift",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/Zend/Optimizer/nop_removal.c:64:8",
+      "varlabel" : -1
+   },
+   "15030080" : {
+      "conditional_var_id" : 15030080,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/Zend/Optimizer/nop_removal.c",
+      "funname" : "zend_optimizer_nop_removal",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 74,
+      "size" : 32,
+      "var_id" : 15029351,
+      "variablename" : "shift",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/Zend/Optimizer/nop_removal.c:74:6",
+      "varlabel" : -1
+   },
+   "15030416" : {
+      "conditional_var_id" : 15030416,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/Zend/Optimizer/nop_removal.c",
+      "funname" : "zend_optimizer_nop_removal",
+      "newbbs" : 0,
+      "numcolumn" : 37,
+      "numline" : 87,
+      "size" : 32,
+      "var_id" : 15030416,
+      "variablename" : "op_array",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/Zend/Optimizer/nop_removal.c:87:37",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 2
+}

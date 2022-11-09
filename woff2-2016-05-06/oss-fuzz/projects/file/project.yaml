@@ -1,0 +1,10 @@
+homepage: "http://www.darwinsys.com/file/"
+language: c++
+primary_contact: "zoulasc@gmail.com"
+sanitizers:
+  - address
+  - memory
+  - undefined
+architectures:
+  - x86_64
+  - i386

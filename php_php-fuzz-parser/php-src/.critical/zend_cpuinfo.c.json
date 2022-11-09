@@ -1,0 +1,43 @@
+{
+   "211523" : {
+      "conditional_var_id" : 211523,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/Zend/zend_cpuinfo.c",
+      "funname" : "zend_cpu_startup",
+      "newbbs" : 0,
+      "numcolumn" : 15,
+      "numline" : 116,
+      "size" : 32,
+      "var_id" : 211523,
+      "variablename" : "cpuinfo",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/Zend/zend_cpuinfo.c:116:15",
+      "varlabel" : -1
+   },
+   "212080" : {
+      "conditional_var_id" : 212080,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/Zend/zend_cpuinfo.c",
+      "funname" : "zend_cpu_startup",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 123,
+      "size" : 32,
+      "var_id" : 212080,
+      "variablename" : "max_feature",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/Zend/zend_cpuinfo.c:123:7",
+      "varlabel" : -1
+   },
+   "212218" : {
+      "conditional_var_id" : 212218,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/Zend/zend_cpuinfo.c",
+      "funname" : "zend_cpu_startup",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 130,
+      "size" : 32,
+      "var_id" : 212080,
+      "variablename" : "max_feature",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/Zend/zend_cpuinfo.c:130:7",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 2
+}

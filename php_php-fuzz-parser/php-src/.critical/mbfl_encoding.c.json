@@ -1,0 +1,30 @@
+{
+   "169045" : {
+      "conditional_var_id" : 169045,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/ext/mbstring/libmbfl/mbfl/mbfl_encoding.c",
+      "funname" : "mbfl_no2encoding",
+      "newbbs" : 0,
+      "numcolumn" : 20,
+      "numline" : 206,
+      "size" : 32,
+      "var_id" : 169045,
+      "variablename" : "encoding",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/ext/mbstring/libmbfl/mbfl/mbfl_encoding.c:206:20",
+      "varlabel" : -1
+   },
+   "169527" : {
+      "conditional_var_id" : 169527,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/ext/mbstring/libmbfl/mbfl/mbfl_encoding.c",
+      "funname" : "mbfl_no2encoding",
+      "newbbs" : 0,
+      "numcolumn" : 35,
+      "numline" : 206,
+      "size" : 32,
+      "var_id" : 169527,
+      "variablename" : "no_encoding",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/ext/mbstring/libmbfl/mbfl/mbfl_encoding.c:206:35",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 2,
+   "variable_count" : 2
+}

@@ -1,0 +1,69 @@
+{
+   "5500006" : {
+      "conditional_var_id" : 5500006,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2/src/woff2_common.cc",
+      "funname" : "_ZN5woff215ComputeULongSumEPKhj",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 41,
+      "size" : 32,
+      "var_id" : 5500006,
+      "variablename" : "size",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2/src/woff2_common.cc:41:7",
+      "varlabel" : -1
+   },
+   "5500710" : {
+      "conditional_var_id" : 5500710,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2/src/woff2_common.cc",
+      "funname" : "_ZN5woff215ComputeULongSumEPKhj",
+      "newbbs" : 0,
+      "numcolumn" : 15,
+      "numline" : 41,
+      "size" : 32,
+      "var_id" : 5500710,
+      "variablename" : "aligned_size",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2/src/woff2_common.cc:41:15",
+      "varlabel" : -1
+   },
+   "5501133" : {
+      "conditional_var_id" : 5501133,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2/src/woff2_common.cc",
+      "funname" : "_ZN5woff220CollectionHeaderSizeEjj",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 54,
+      "size" : 32,
+      "var_id" : 5501133,
+      "variablename" : "header_version",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2/src/woff2_common.cc:54:7",
+      "varlabel" : -1
+   },
+   "5501270" : {
+      "conditional_var_id" : 5501270,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2/src/woff2_common.cc",
+      "funname" : "_ZN5woff220CollectionHeaderSizeEjj",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 57,
+      "size" : 32,
+      "var_id" : 5501133,
+      "variablename" : "header_version",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2/src/woff2_common.cc:57:7",
+      "varlabel" : -1
+   },
+   "5501360" : {
+      "conditional_var_id" : 5501360,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2/src/woff2_common.cc",
+      "funname" : "_ZN5woff220CollectionHeaderSizeEjj",
+      "newbbs" : 0,
+      "numcolumn" : 39,
+      "numline" : 57,
+      "size" : 32,
+      "var_id" : 5501133,
+      "variablename" : "header_version",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2/src/woff2_common.cc:57:39",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 5,
+   "variable_count" : 3
+}

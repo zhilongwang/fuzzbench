@@ -1,0 +1,56 @@
+{
+   "4962824" : {
+      "conditional_var_id" : 4962824,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd-network/ipv4ll-network.c",
+      "funname" : "arp_network_send_raw_socket",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 34,
+      "size" : 32,
+      "var_id" : 4962824,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd-network/ipv4ll-network.c:34:13",
+      "varlabel" : -1
+   },
+   "4964566" : {
+      "conditional_var_id" : 4964566,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd-network/ipv4ll-network.c",
+      "funname" : "arp_network_bind_raw_socket",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 69,
+      "size" : 32,
+      "var_id" : 4964566,
+      "variablename" : "s",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd-network/ipv4ll-network.c:69:13",
+      "varlabel" : -1
+   },
+   "4964933" : {
+      "conditional_var_id" : 4964933,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd-network/ipv4ll-network.c",
+      "funname" : "arp_network_bind_raw_socket",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 73,
+      "size" : 32,
+      "var_id" : 4964933,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd-network/ipv4ll-network.c:73:13",
+      "varlabel" : -1
+   },
+   "4965233" : {
+      "conditional_var_id" : 4965233,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd-network/ipv4ll-network.c",
+      "funname" : "arp_network_bind_raw_socket",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 83,
+      "size" : 32,
+      "var_id" : 4964933,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd-network/ipv4ll-network.c:83:13",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 3
+}

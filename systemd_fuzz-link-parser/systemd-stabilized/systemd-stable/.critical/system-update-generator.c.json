@@ -1,0 +1,56 @@
+{
+   "1050368" : {
+      "conditional_var_id" : 1050368,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/system-update-generator/system-update-generator.c",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 60,
+      "size" : 32,
+      "var_id" : 1050368,
+      "variablename" : "argc",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/system-update-generator/system-update-generator.c:60:13",
+      "varlabel" : -1
+   },
+   "1051473" : {
+      "conditional_var_id" : 1051473,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/system-update-generator/system-update-generator.c",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 25,
+      "numline" : 60,
+      "size" : 32,
+      "var_id" : 1050368,
+      "variablename" : "argc",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/system-update-generator/system-update-generator.c:60:25",
+      "varlabel" : -1
+   },
+   "1051870" : {
+      "conditional_var_id" : 1051870,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/system-update-generator/system-update-generator.c",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 65,
+      "size" : 32,
+      "var_id" : 1050368,
+      "variablename" : "argc",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/system-update-generator/system-update-generator.c:65:13",
+      "varlabel" : -1
+   },
+   "1052769" : {
+      "conditional_var_id" : 1052769,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/system-update-generator/system-update-generator.c",
+      "funname" : "generate_symlink",
+      "newbbs" : 0,
+      "numcolumn" : 21,
+      "numline" : 41,
+      "size" : 32,
+      "var_id" : 1052769,
+      "variablename" : "null",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/system-update-generator/system-update-generator.c:41:21",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 2
+}

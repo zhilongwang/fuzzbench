@@ -1,0 +1,30 @@
+{
+   "2133675" : {
+      "conditional_var_id" : 2133675,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/vorbis-2017-12-11/vorbis/lib/window.c",
+      "funname" : "_vorbis_apply_window",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 2104,
+      "size" : 32,
+      "var_id" : 2133675,
+      "variablename" : "W",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/vorbis-2017-12-11/vorbis/lib/window.c:2104:7",
+      "varlabel" : -1
+   },
+   "2134451" : {
+      "conditional_var_id" : 2134451,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/vorbis-2017-12-11/vorbis/lib/window.c",
+      "funname" : "_vorbis_apply_window",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 2105,
+      "size" : 32,
+      "var_id" : 2133675,
+      "variablename" : "W",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/vorbis-2017-12-11/vorbis/lib/window.c:2105:7",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 2,
+   "variable_count" : 1
+}

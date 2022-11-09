@@ -1,0 +1,56 @@
+{
+   "14166882" : {
+      "conditional_var_id" : 14166882,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/ssl_ciphersuites.c",
+      "funname" : "mbedtls_ssl_ciphersuite_from_string",
+      "newbbs" : 0,
+      "numcolumn" : 17,
+      "numline" : 2231,
+      "size" : 32,
+      "var_id" : 14166882,
+      "variablename" : "cur",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/ssl_ciphersuites.c:2231:17",
+      "varlabel" : -1
+   },
+   "14182817" : {
+      "conditional_var_id" : 14182817,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/ssl_ciphersuites.c",
+      "funname" : "mbedtls_ssl_ciphersuite_from_id",
+      "newbbs" : 0,
+      "numcolumn" : 17,
+      "numline" : 2246,
+      "size" : 32,
+      "var_id" : 14182817,
+      "variablename" : "cur",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/ssl_ciphersuites.c:2246:17",
+      "varlabel" : -1
+   },
+   "14196977" : {
+      "conditional_var_id" : 14196977,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/ssl_ciphersuites.c",
+      "funname" : "mbedtls_ssl_ciphersuite_from_id",
+      "newbbs" : 0,
+      "numcolumn" : 18,
+      "numline" : 2248,
+      "size" : 32,
+      "var_id" : 14196977,
+      "variablename" : "cur",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/ssl_ciphersuites.c:2248:18",
+      "varlabel" : -1
+   },
+   "14211462" : {
+      "conditional_var_id" : 14211462,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/ssl_ciphersuites.c",
+      "funname" : "mbedtls_ssl_ciphersuite_from_id",
+      "newbbs" : 0,
+      "numcolumn" : 24,
+      "numline" : 2248,
+      "size" : 32,
+      "var_id" : 14211462,
+      "variablename" : "ciphersuite",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/ssl_ciphersuites.c:2248:24",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 4
+}

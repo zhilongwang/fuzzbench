@@ -1,0 +1,14 @@
+homepage: "https://xiph.org/flac/"
+language: c++
+primary_contact: "guidovranken@gmail.com"
+auto_ccs:
+ - "erik.de.castro.lopo@gmail.com"
+vendor_ccs:
+ - "twsmith@mozilla.com"
+sanitizers:
+ - address
+ - undefined
+ - memory
+architectures:
+ - x86_64
+ - i386

@@ -1,0 +1,43 @@
+{
+   "6666130" : {
+      "conditional_var_id" : 6666130,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-btrfs.c",
+      "funname" : "builtin_btrfs",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 44,
+      "size" : 32,
+      "var_id" : 6666130,
+      "variablename" : "argc",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-btrfs.c:44:13",
+      "varlabel" : -1
+   },
+   "6667051" : {
+      "conditional_var_id" : 6667051,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-btrfs.c",
+      "funname" : "builtin_btrfs",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 48,
+      "size" : 32,
+      "var_id" : 6667051,
+      "variablename" : "fd",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-btrfs.c:48:13",
+      "varlabel" : -1
+   },
+   "6667307" : {
+      "conditional_var_id" : 6667307,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-btrfs.c",
+      "funname" : "builtin_btrfs",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 53,
+      "size" : 32,
+      "var_id" : 6667307,
+      "variablename" : "err",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-btrfs.c:53:13",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 3
+}

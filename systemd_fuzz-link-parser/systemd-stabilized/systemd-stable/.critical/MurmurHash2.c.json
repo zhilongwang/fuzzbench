@@ -1,0 +1,17 @@
+{
+   "15531716" : {
+      "conditional_var_id" : 15531716,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/shared/MurmurHash2.c",
+      "funname" : "MurmurHash2",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 53,
+      "size" : 32,
+      "var_id" : 15531716,
+      "variablename" : "len",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/shared/MurmurHash2.c:53:9",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

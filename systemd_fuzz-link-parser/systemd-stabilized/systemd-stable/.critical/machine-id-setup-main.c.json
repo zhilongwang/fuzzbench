@@ -1,0 +1,43 @@
+{
+   "15736478" : {
+      "conditional_var_id" : 15736478,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/machine-id-setup/machine-id-setup-main.c",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 104,
+      "size" : 32,
+      "var_id" : 15736478,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/machine-id-setup/machine-id-setup-main.c:104:13",
+      "varlabel" : -1
+   },
+   "15738875" : {
+      "conditional_var_id" : 15738875,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/machine-id-setup/machine-id-setup-main.c",
+      "funname" : "parse_argv",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 89,
+      "size" : 32,
+      "var_id" : 15738875,
+      "variablename" : "null",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/machine-id-setup/machine-id-setup-main.c:89:13",
+      "varlabel" : -1
+   },
+   "15739164" : {
+      "conditional_var_id" : 15739164,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/machine-id-setup/machine-id-setup-main.c",
+      "funname" : "parse_argv",
+      "newbbs" : 0,
+      "numcolumn" : 22,
+      "numline" : 89,
+      "size" : 32,
+      "var_id" : 15739164,
+      "variablename" : "argc",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/machine-id-setup/machine-id-setup-main.c:89:22",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 3
+}

@@ -1,0 +1,30 @@
+{
+   "10563710" : {
+      "conditional_var_id" : 10563710,
+      "filename" : "/home/vagrant/touch_of_death/AFL/llvm_mode/../test-instr.c",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 54,
+      "size" : 32,
+      "var_id" : 10563710,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/AFL/llvm_mode/../test-instr.c:54:7",
+      "varlabel" : -1
+   },
+   "10564067" : {
+      "conditional_var_id" : 10564067,
+      "filename" : "/home/vagrant/touch_of_death/AFL/llvm_mode/../test-instr.c",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 57,
+      "size" : 8,
+      "var_id" : 10564067,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/AFL/llvm_mode/../test-instr.c:57:7",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 2,
+   "variable_count" : 2
+}

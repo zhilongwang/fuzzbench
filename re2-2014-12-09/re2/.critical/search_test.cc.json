@@ -1,0 +1,17 @@
+{
+   "15557038" : {
+      "conditional_var_id" : 15557038,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/re2-2014-12-09/re2/re2/testing/search_test.cc",
+      "funname" : "_ZN3re217RegexpSearchTestsEv",
+      "newbbs" : 0,
+      "numcolumn" : 3,
+      "numline" : 322,
+      "size" : 32,
+      "var_id" : 15557038,
+      "variablename" : "failures",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/re2-2014-12-09/re2/re2/testing/search_test.cc:322:3",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

@@ -1,0 +1,17 @@
+{
+   "6704823" : {
+      "conditional_var_id" : 6704823,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_fouc_s.c",
+      "funname" : "s_inverse",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 41,
+      "size" : 32,
+      "var_id" : 6704823,
+      "variablename" : "i",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_fouc_s.c:41:14",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

@@ -1,0 +1,43 @@
+{
+   "6770711" : {
+      "conditional_var_id" : 6770711,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-bus/bus-slot.c",
+      "funname" : "bus_slot_disconnect",
+      "newbbs" : 0,
+      "numcolumn" : 42,
+      "numline" : 77,
+      "size" : 64,
+      "var_id" : 6770711,
+      "variablename" : "slot",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-bus/bus-slot.c:77:42",
+      "varlabel" : -1
+   },
+   "6771299" : {
+      "conditional_var_id" : 6771299,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-bus/bus-slot.c",
+      "funname" : "bus_slot_disconnect",
+      "newbbs" : 0,
+      "numcolumn" : 42,
+      "numline" : 80,
+      "size" : 64,
+      "var_id" : 6771299,
+      "variablename" : "slot",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-bus/bus-slot.c:80:42",
+      "varlabel" : -1
+   },
+   "6773981" : {
+      "conditional_var_id" : 6773981,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-bus/bus-slot.c",
+      "funname" : "sd_bus_slot_unref",
+      "newbbs" : 0,
+      "numcolumn" : 19,
+      "numline" : 205,
+      "size" : 32,
+      "var_id" : 6773981,
+      "variablename" : "slot",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-bus/bus-slot.c:205:19",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 3
+}

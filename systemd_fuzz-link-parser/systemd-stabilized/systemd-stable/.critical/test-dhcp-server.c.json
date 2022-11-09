@@ -1,0 +1,30 @@
+{
+   "1716070" : {
+      "conditional_var_id" : 1716070,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd-network/test-dhcp-server.c",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 244,
+      "size" : 32,
+      "var_id" : 1716070,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd-network/test-dhcp-server.c:244:13",
+      "varlabel" : -1
+   },
+   "1720633" : {
+      "conditional_var_id" : 1720633,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd-network/test-dhcp-server.c",
+      "funname" : "test_basic",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 70,
+      "size" : 32,
+      "var_id" : 1720633,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd-network/test-dhcp-server.c:70:13",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 2,
+   "variable_count" : 2
+}

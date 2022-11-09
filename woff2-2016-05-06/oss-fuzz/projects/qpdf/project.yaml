@@ -1,0 +1,7 @@
+homepage: "http://qpdf.sourceforge.net/"
+language: c++
+primary_contact: "qberkenbilt@gmail.com"
+sanitizers:
+  - address
+  - undefined
+  - memory

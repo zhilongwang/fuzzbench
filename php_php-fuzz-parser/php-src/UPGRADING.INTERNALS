@@ -1,0 +1,69 @@
+PHP 8.2 INTERNALS UPGRADE NOTES
+
+1. Internal API changes
+
+2. Build system changes
+
+3. Module changes
+
+4. OpCode changes
+
+5. SAPI changes
+
+========================
+1. Internal API changes
+========================
+
+* Removed zend_binary_zval_str(n)casecmp() APIs. These were thin wrappers
+  around zend_binary_str(n)casecmp_l() -- rather than
+  zend_binary_str(n)casecmp() as one would expect. Call the appropriate
+  wrapped function directly instead.
+* Removed the (ZEND_)WRONG_PARAM_COUNT_WITH_RETVAL() macros.
+* php_stristr() no longer lowercases the haystack and needle as a side effect.
+  Call zend_str_tolower() yourself if necessary. You no longer need to copy
+  the haystack and needle before passing them to php_stristr().
+* zend_register_module_ex() no longer copies the module entry.
+* The main/php_stdint.h header has been removed.
+  Include the standard <inttypes.h> and/or <stdint.h> headers instead.
+  Replace usage of u_char by the standard C99 uint8_t type.
+* A new ZEND_THREEWAY_COMPARE() macro has been introduced which does a
+  three-way comparison of two integers and returns -1, 0 or 1 if the LHS is
+  smaller, equal or larger than the RHS
+
+========================
+2. Build system changes
+========================
+
+========================
+3. Module changes
+========================
+
+  a. ext/standard
+    - The PHP APIs string_natural_compare_function_ex(),
+      string_natural_case_compare_function(), and string_natural_compare_function()
+      have been removed. They always returned SUCCESS and were a wrapper around
+      strnatcmp_ex(). Use strnatcmp_ex() directly instead.
+  b. ext/pdo
+    - pdo_raise_impl_error()'s parameter sqlstate has been changed from
+      const char * to pdo_error_type (aka char [6]).
+
+========================
+4. OpCode changes
+========================
+
+* The ZEND_INIT_FCALL opcode now asserts that the function exists in the symbol
+  table as the function's existence is checked at compile time.
+  For extensions modifying the function symbol table, setting
+  CG(compiler_options) |= ZEND_COMPILE_IGNORE_USER_FUNCTIONS | ZEND_COMPILE_IGNORE_INTERNAL_FUNCTIONS;
+  will produce ZEND_INIT_FCALL_BY_NAME opcodes instead which check for the
+  existence of the function at runtime.
+
+========================
+5. SAPI changes
+========================
+
+ * The signature of php_module_startup() has changed from
+   int php_module_startup(sapi_module_struct *sf, zend_module_entry *additional_modules, uint32_t num_additional_modules)
+   to
+   zend_result php_module_startup(sapi_module_struct *sf, zend_module_entry *additional_module)
+   as only one additional module was ever provided.

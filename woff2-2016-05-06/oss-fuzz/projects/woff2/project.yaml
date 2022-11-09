@@ -1,0 +1,20 @@
+homepage: "https://github.com/google/woff2"
+language: c++
+primary_contact: "rsheeter@google.com"
+auto_ccs:
+  - "grieger@google.com"
+  - "nyshadhr@google.com"
+  - "ewa@google.com"
+  - "williamsnathan@google.com"
+vendor_ccs:
+  - "jkew@mozilla.com"
+  - "jmuizelaar@mozilla.com"
+  - "lsalzman@mozilla.com"
+  - "twsmith@mozilla.com"
+fuzzing_engines:
+  - libfuzzer
+  - afl
+sanitizers:
+  - address
+  - memory
+  - undefined

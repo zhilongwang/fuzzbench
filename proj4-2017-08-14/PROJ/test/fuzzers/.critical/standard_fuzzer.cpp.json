@@ -1,0 +1,82 @@
+{
+   "13740314" : {
+      "conditional_var_id" : 13740314,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/test/fuzzers/standard_fuzzer.cpp",
+      "funname" : "LLVMFuzzerTestOneInput",
+      "newbbs" : 0,
+      "numcolumn" : 80,
+      "numline" : 108,
+      "size" : 32,
+      "var_id" : 13740314,
+      "variablename" : "len",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/test/fuzzers/standard_fuzzer.cpp:108:80",
+      "varlabel" : -1
+   },
+   "13742338" : {
+      "conditional_var_id" : 13742338,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/test/fuzzers/standard_fuzzer.cpp",
+      "funname" : "LLVMFuzzerTestOneInput",
+      "newbbs" : 0,
+      "numcolumn" : 85,
+      "numline" : 115,
+      "size" : 32,
+      "var_id" : 13740314,
+      "variablename" : "len",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/test/fuzzers/standard_fuzzer.cpp:115:85",
+      "varlabel" : -1
+   },
+   "13744304" : {
+      "conditional_var_id" : 13744304,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/test/fuzzers/standard_fuzzer.cpp",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 161,
+      "size" : 32,
+      "var_id" : 13744304,
+      "variablename" : "argc",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/test/fuzzers/standard_fuzzer.cpp:161:9",
+      "varlabel" : -1
+   },
+   "13744736" : {
+      "conditional_var_id" : 13744736,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/test/fuzzers/standard_fuzzer.cpp",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 166,
+      "size" : 32,
+      "var_id" : 13744736,
+      "variablename" : "ret",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/test/fuzzers/standard_fuzzer.cpp:166:13",
+      "varlabel" : -1
+   },
+   "13745047" : {
+      "conditional_var_id" : 13745047,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/test/fuzzers/standard_fuzzer.cpp",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 172,
+      "size" : 32,
+      "var_id" : 13744736,
+      "variablename" : "ret",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/test/fuzzers/standard_fuzzer.cpp:172:13",
+      "varlabel" : -1
+   },
+   "13745389" : {
+      "conditional_var_id" : 13745389,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/test/fuzzers/standard_fuzzer.cpp",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 178,
+      "size" : 32,
+      "var_id" : 13744736,
+      "variablename" : "ret",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/test/fuzzers/standard_fuzzer.cpp:178:13",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 6,
+   "variable_count" : 3
+}

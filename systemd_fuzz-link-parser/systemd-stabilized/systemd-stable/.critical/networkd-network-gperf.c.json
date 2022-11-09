@@ -1,0 +1,43 @@
+{
+   "1505371" : {
+      "conditional_var_id" : 1505371,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/network/networkd-network-gperf.c",
+      "funname" : "network_network_gperf_lookup",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 168,
+      "size" : 32,
+      "var_id" : 1505371,
+      "variablename" : "len",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/network/networkd-network-gperf.c:168:7",
+      "varlabel" : -1
+   },
+   "1506019" : {
+      "conditional_var_id" : 1506019,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/network/networkd-network-gperf.c",
+      "funname" : "network_network_gperf_lookup",
+      "newbbs" : 0,
+      "numcolumn" : 33,
+      "numline" : 168,
+      "size" : 32,
+      "var_id" : 1505371,
+      "variablename" : "len",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/network/networkd-network-gperf.c:168:33",
+      "varlabel" : -1
+   },
+   "1506259" : {
+      "conditional_var_id" : 1506259,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/network/networkd-network-gperf.c",
+      "funname" : "network_network_gperf_lookup",
+      "newbbs" : 0,
+      "numcolumn" : 11,
+      "numline" : 172,
+      "size" : 32,
+      "var_id" : 1506259,
+      "variablename" : "key",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/network/networkd-network-gperf.c:172:11",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 2
+}

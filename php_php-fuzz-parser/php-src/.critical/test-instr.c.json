@@ -1,0 +1,17 @@
+{
+   "6749553" : {
+      "conditional_var_id" : 6749553,
+      "filename" : "/home/vagrant/touch_of_death/AFL/llvm_mode/../test-instr.c",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 54,
+      "size" : 32,
+      "var_id" : 6749553,
+      "variablename" : "argc",
+      "varkey" : "/home/vagrant/touch_of_death/AFL/llvm_mode/../test-instr.c:54:7",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

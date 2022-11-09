@@ -1,0 +1,82 @@
+{
+   "15847375" : {
+      "conditional_var_id" : 15847375,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_stere.c",
+      "funname" : "pj_projection_specific_setup_stere",
+      "newbbs" : 0,
+      "numcolumn" : 56,
+      "numline" : 297,
+      "size" : 32,
+      "var_id" : 15847375,
+      "variablename" : "null",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_stere.c:297:56",
+      "varlabel" : -1
+   },
+   "15852145" : {
+      "conditional_var_id" : 15852145,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_stere.c",
+      "funname" : "e_inverse",
+      "newbbs" : 0,
+      "numcolumn" : 20,
+      "numline" : 163,
+      "size" : 32,
+      "var_id" : 15852145,
+      "variablename" : "Q",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_stere.c:163:20",
+      "varlabel" : -1
+   },
+   "15853385" : {
+      "conditional_var_id" : 15853385,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_stere.c",
+      "funname" : "e_forward",
+      "newbbs" : 0,
+      "numcolumn" : 12,
+      "numline" : 43,
+      "size" : 32,
+      "var_id" : 15853385,
+      "variablename" : "Q",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_stere.c:43:12",
+      "varlabel" : -1
+   },
+   "15853577" : {
+      "conditional_var_id" : 15853577,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_stere.c",
+      "funname" : "e_forward",
+      "newbbs" : 0,
+      "numcolumn" : 32,
+      "numline" : 43,
+      "size" : 32,
+      "var_id" : 15853577,
+      "variablename" : "Q",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_stere.c:43:32",
+      "varlabel" : -1
+   },
+   "15855345" : {
+      "conditional_var_id" : 15855345,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_stere.c",
+      "funname" : "s_inverse",
+      "newbbs" : 0,
+      "numcolumn" : 31,
+      "numline" : 208,
+      "size" : 32,
+      "var_id" : 15855345,
+      "variablename" : "Q",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_stere.c:208:31",
+      "varlabel" : -1
+   },
+   "15856402" : {
+      "conditional_var_id" : 15856402,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_stere.c",
+      "funname" : "s_forward",
+      "newbbs" : 0,
+      "numcolumn" : 21,
+      "numline" : 105,
+      "size" : 32,
+      "var_id" : 15856402,
+      "variablename" : "Q",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_stere.c:105:21",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 6,
+   "variable_count" : 6
+}

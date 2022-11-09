@@ -1,0 +1,17 @@
+{
+   "15384111" : {
+      "conditional_var_id" : 15384111,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/ecp_curves.c",
+      "funname" : "ecp_mod_p256",
+      "newbbs" : 0,
+      "numcolumn" : 61,
+      "numline" : 1092,
+      "size" : 32,
+      "var_id" : 15384111,
+      "variablename" : "N",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/ecp_curves.c:1092:61",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

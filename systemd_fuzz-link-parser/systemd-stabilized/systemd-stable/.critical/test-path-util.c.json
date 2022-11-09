@@ -1,0 +1,56 @@
+{
+   "7277016" : {
+      "conditional_var_id" : 7277016,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-path-util.c",
+      "funname" : "test_path",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 69,
+      "size" : 32,
+      "var_id" : 7277016,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-path-util.c:69:9",
+      "varlabel" : -1
+   },
+   "7278814" : {
+      "conditional_var_id" : 7278814,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-path-util.c",
+      "funname" : "test_path",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 70,
+      "size" : 32,
+      "var_id" : 7278814,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-path-util.c:70:9",
+      "varlabel" : -1
+   },
+   "7279450" : {
+      "conditional_var_id" : 7279450,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-path-util.c",
+      "funname" : "test_path",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 71,
+      "size" : 32,
+      "var_id" : 7279450,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-path-util.c:71:9",
+      "varlabel" : -1
+   },
+   "7280020" : {
+      "conditional_var_id" : 7280020,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-path-util.c",
+      "funname" : "test_path",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 72,
+      "size" : 32,
+      "var_id" : 7280020,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-path-util.c:72:9",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 4
+}

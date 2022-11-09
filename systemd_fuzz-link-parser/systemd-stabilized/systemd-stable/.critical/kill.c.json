@@ -1,0 +1,56 @@
+{
+   "12088953" : {
+      "conditional_var_id" : 12088953,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/core/kill.c",
+      "funname" : "kill_mode_to_string",
+      "newbbs" : 0,
+      "numcolumn" : 1,
+      "numline" : 59,
+      "size" : 32,
+      "var_id" : 12088953,
+      "variablename" : "i",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/core/kill.c:59:1",
+      "varlabel" : -1
+   },
+   "12089725" : {
+      "conditional_var_id" : 12089725,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/core/kill.c",
+      "funname" : "kill_mode_to_string",
+      "newbbs" : 0,
+      "numcolumn" : 1,
+      "numline" : 59,
+      "size" : 32,
+      "var_id" : 12088953,
+      "variablename" : "i",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/core/kill.c:59:1",
+      "varlabel" : -1
+   },
+   "12091056" : {
+      "conditional_var_id" : 12091056,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/core/kill.c",
+      "funname" : "kill_who_to_string",
+      "newbbs" : 0,
+      "numcolumn" : 1,
+      "numline" : 67,
+      "size" : 32,
+      "var_id" : 12091056,
+      "variablename" : "i",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/core/kill.c:67:1",
+      "varlabel" : -1
+   },
+   "12091221" : {
+      "conditional_var_id" : 12091221,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/core/kill.c",
+      "funname" : "kill_who_to_string",
+      "newbbs" : 0,
+      "numcolumn" : 1,
+      "numline" : 67,
+      "size" : 32,
+      "var_id" : 12091056,
+      "variablename" : "i",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/core/kill.c:67:1",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 2
+}

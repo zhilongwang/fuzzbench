@@ -1,0 +1,56 @@
+{
+   "14329133" : {
+      "conditional_var_id" : 14329133,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_igh.c",
+      "funname" : "s_inverse",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 95,
+      "size" : 32,
+      "var_id" : 14329133,
+      "variablename" : "z",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_igh.c:95:9",
+      "varlabel" : -1
+   },
+   "14331191" : {
+      "conditional_var_id" : 14331191,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_igh.c",
+      "funname" : "s_inverse",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 123,
+      "size" : 32,
+      "var_id" : 14331191,
+      "variablename" : "ok",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_igh.c:123:13",
+      "varlabel" : -1
+   },
+   "14331680" : {
+      "conditional_var_id" : 14331680,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_igh.c",
+      "funname" : "s_inverse",
+      "newbbs" : 0,
+      "numcolumn" : 10,
+      "numline" : 126,
+      "size" : 32,
+      "var_id" : 14329133,
+      "variablename" : "z",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_igh.c:126:10",
+      "varlabel" : -1
+   },
+   "14331852" : {
+      "conditional_var_id" : 14331852,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_igh.c",
+      "funname" : "s_inverse",
+      "newbbs" : 0,
+      "numcolumn" : 10,
+      "numline" : 127,
+      "size" : 32,
+      "var_id" : 14329133,
+      "variablename" : "z",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_igh.c:127:10",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 2
+}

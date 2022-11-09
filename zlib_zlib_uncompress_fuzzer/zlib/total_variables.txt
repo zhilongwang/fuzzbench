@@ -1,0 +1,22 @@
+total variable:0
+total variable:0
+total variable:18
+total variable:18
+total variable:1 6933505
+total variable:2 5472696
+total variable:3 5470616
+total variable:4 5470806
+total variable:5 5471358
+total variable:6 5469949
+total variable:7 5472890
+total variable:8 6934084
+total variable:9 6934252
+total variable:10 6934436
+total variable:11 6934769
+total variable:12 5480238
+total variable:13 5480378
+total variable:14 5480486
+total variable:15 5499090
+total variable:16 5499288
+total variable:17 5500081
+total variable:18 5500186

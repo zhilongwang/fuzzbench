@@ -1,0 +1,7 @@
+homepage: "https://github.com/darktable-org/rawspeed"
+language: c++
+primary_contact: "lebedev.ri@gmail.com"
+sanitizers:
+- address
+- undefined
+- memory

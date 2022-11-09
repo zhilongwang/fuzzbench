@@ -1,0 +1,30 @@
+{
+   "7378109" : {
+      "conditional_var_id" : 7378109,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/re2-2014-12-09/re2/re2/testing/mimics_pcre_test.cc",
+      "funname" : "_ZN3re221MimicsPCRESimpleTestsEv",
+      "newbbs" : 0,
+      "numcolumn" : 21,
+      "numline" : 62,
+      "size" : 32,
+      "var_id" : 7378109,
+      "variablename" : "j",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/re2-2014-12-09/re2/re2/testing/mimics_pcre_test.cc:62:21",
+      "varlabel" : -1
+   },
+   "7378726" : {
+      "conditional_var_id" : 7378726,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/re2-2014-12-09/re2/re2/testing/mimics_pcre_test.cc",
+      "funname" : "_ZN3re221MimicsPCRESimpleTestsEv",
+      "newbbs" : 0,
+      "numcolumn" : 11,
+      "numline" : 64,
+      "size" : 32,
+      "var_id" : 7378109,
+      "variablename" : "j",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/re2-2014-12-09/re2/re2/testing/mimics_pcre_test.cc:64:11",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 2,
+   "variable_count" : 1
+}

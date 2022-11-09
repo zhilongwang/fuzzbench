@@ -1,0 +1,69 @@
+{
+   "1125797" : {
+      "conditional_var_id" : 1125797,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2/src/woff2_decompress.cc",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 27,
+      "size" : 32,
+      "var_id" : 1125797,
+      "variablename" : "argc",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2/src/woff2_decompress.cc:27:7",
+      "varlabel" : -1
+   },
+   "1127995" : {
+      "conditional_var_id" : 1127995,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/stl_algobase.h",
+      "funname" : "_ZSt3minIjERKT_S2_S2_",
+      "newbbs" : 0,
+      "numcolumn" : 11,
+      "numline" : 200,
+      "size" : 32,
+      "var_id" : 1127995,
+      "variablename" : "__b",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/stl_algobase.h:200:11",
+      "varlabel" : -1
+   },
+   "1128123" : {
+      "conditional_var_id" : 1128123,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/stl_algobase.h",
+      "funname" : "_ZSt3minIjERKT_S2_S2_",
+      "newbbs" : 0,
+      "numcolumn" : 17,
+      "numline" : 200,
+      "size" : 32,
+      "var_id" : 1128123,
+      "variablename" : "__a",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/stl_algobase.h:200:17",
+      "varlabel" : -1
+   },
+   "1130222" : {
+      "conditional_var_id" : 1130222,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/basic_string.tcc",
+      "funname" : "_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructISt19istreambuf_iteratorIcS2_EEEvT_S8_St18input_iterator_tag",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 180,
+      "size" : 32,
+      "var_id" : 1130222,
+      "variablename" : "__len",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/basic_string.tcc:180:7",
+      "varlabel" : -1
+   },
+   "1130367" : {
+      "conditional_var_id" : 1130367,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/basic_string.tcc",
+      "funname" : "_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructISt19istreambuf_iteratorIcS2_EEEvT_S8_St18input_iterator_tag",
+      "newbbs" : 0,
+      "numcolumn" : 16,
+      "numline" : 180,
+      "size" : 32,
+      "var_id" : 1130367,
+      "variablename" : "__capacity",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/basic_string.tcc:180:16",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 5,
+   "variable_count" : 5
+}

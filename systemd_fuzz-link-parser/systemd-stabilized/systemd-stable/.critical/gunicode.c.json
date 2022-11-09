@@ -1,0 +1,56 @@
+{
+   "9090264" : {
+      "conditional_var_id" : 9090264,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/shared/gunicode.c",
+      "funname" : "interval_compare",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 46,
+      "size" : 32,
+      "var_id" : 9090264,
+      "variablename" : "c",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/shared/gunicode.c:46:7",
+      "varlabel" : -1
+   },
+   "9090964" : {
+      "conditional_var_id" : 9090964,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/shared/gunicode.c",
+      "funname" : "interval_compare",
+      "newbbs" : 0,
+      "numcolumn" : 21,
+      "numline" : 46,
+      "size" : 32,
+      "var_id" : 9090964,
+      "variablename" : "interval",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/shared/gunicode.c:46:21",
+      "varlabel" : -1
+   },
+   "9091186" : {
+      "conditional_var_id" : 9091186,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/shared/gunicode.c",
+      "funname" : "interval_compare",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 48,
+      "size" : 32,
+      "var_id" : 9090264,
+      "variablename" : "c",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/shared/gunicode.c:48:7",
+      "varlabel" : -1
+   },
+   "9091354" : {
+      "conditional_var_id" : 9091354,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/shared/gunicode.c",
+      "funname" : "interval_compare",
+      "newbbs" : 0,
+      "numcolumn" : 21,
+      "numline" : 48,
+      "size" : 32,
+      "var_id" : 9091354,
+      "variablename" : "interval",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/shared/gunicode.c:48:21",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 3
+}

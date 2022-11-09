@@ -1,0 +1,43 @@
+{
+   "14717989" : {
+      "conditional_var_id" : 14717989,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/re2-2014-12-09/re2/re2/testing/required_prefix_test.cc",
+      "funname" : "_ZN3re225RequiredPrefixSimpleTestsEv",
+      "newbbs" : 0,
+      "numcolumn" : 21,
+      "numline" : 42,
+      "size" : 32,
+      "var_id" : 14717989,
+      "variablename" : "j",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/re2-2014-12-09/re2/re2/testing/required_prefix_test.cc:42:21",
+      "varlabel" : -1
+   },
+   "14718712" : {
+      "conditional_var_id" : 14718712,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/re2-2014-12-09/re2/re2/testing/required_prefix_test.cc",
+      "funname" : "_ZN3re225RequiredPrefixSimpleTestsEv",
+      "newbbs" : 0,
+      "numcolumn" : 11,
+      "numline" : 44,
+      "size" : 32,
+      "var_id" : 14717989,
+      "variablename" : "j",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/re2-2014-12-09/re2/re2/testing/required_prefix_test.cc:44:11",
+      "varlabel" : -1
+   },
+   "14722966" : {
+      "conditional_var_id" : 14722966,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/re2-2014-12-09/re2//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/char_traits.h",
+      "funname" : "_ZNSt11char_traitsIcE7compareEPKcS2_j",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 310,
+      "size" : 32,
+      "var_id" : 14722966,
+      "variablename" : "__n",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/re2-2014-12-09/re2//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/char_traits.h:310:6",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 2
+}

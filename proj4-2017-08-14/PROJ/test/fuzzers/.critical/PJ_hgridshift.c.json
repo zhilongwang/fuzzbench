@@ -1,0 +1,17 @@
+{
+   "7020731" : {
+      "conditional_var_id" : 7020731,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_hgridshift.c",
+      "funname" : "pj_projection_specific_setup_hgridshift",
+      "newbbs" : 0,
+      "numcolumn" : 48,
+      "numline" : 72,
+      "size" : 32,
+      "var_id" : 7020731,
+      "variablename" : "null",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_hgridshift.c:72:48",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

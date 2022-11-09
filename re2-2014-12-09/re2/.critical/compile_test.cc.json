@@ -1,0 +1,56 @@
+{
+   "5438995" : {
+      "conditional_var_id" : 5438995,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/re2-2014-12-09/re2/re2/testing/compile_test.cc",
+      "funname" : "_ZN3re229TestRegexpCompileToProgSimpleEv",
+      "newbbs" : 0,
+      "numcolumn" : 3,
+      "numline" : 132,
+      "size" : 32,
+      "var_id" : 5438995,
+      "variablename" : "failed",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/re2-2014-12-09/re2/re2/testing/compile_test.cc:132:3",
+      "varlabel" : -1
+   },
+   "5441992" : {
+      "conditional_var_id" : 5441992,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/re2-2014-12-09/re2/re2/testing/compile_test.cc",
+      "funname" : "_ZN3re221TestCompileByteRangesEv",
+      "newbbs" : 0,
+      "numcolumn" : 36,
+      "numline" : 165,
+      "size" : 32,
+      "var_id" : 5441992,
+      "variablename" : "j",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/re2-2014-12-09/re2/re2/testing/compile_test.cc:165:36",
+      "varlabel" : -1
+   },
+   "5442189" : {
+      "conditional_var_id" : 5442189,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/re2-2014-12-09/re2/re2/testing/compile_test.cc",
+      "funname" : "_ZN3re221TestCompileByteRangesEv",
+      "newbbs" : 0,
+      "numcolumn" : 55,
+      "numline" : 165,
+      "size" : 32,
+      "var_id" : 5442189,
+      "variablename" : "utf8ranges",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/re2-2014-12-09/re2/re2/testing/compile_test.cc:165:55",
+      "varlabel" : -1
+   },
+   "5442334" : {
+      "conditional_var_id" : 5442334,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/re2-2014-12-09/re2/re2/testing/compile_test.cc",
+      "funname" : "_ZN3re221TestCompileByteRangesEv",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 166,
+      "size" : 32,
+      "var_id" : 5442334,
+      "variablename" : "i",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/re2-2014-12-09/re2/re2/testing/compile_test.cc:166:7",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 4
+}
