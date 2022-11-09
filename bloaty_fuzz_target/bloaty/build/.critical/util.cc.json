@@ -1,0 +1,43 @@
+{
+   "6793614" : {
+      "conditional_var_id" : 6793614,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/string_view",
+      "funname" : "_ZNKSt17basic_string_viewIcSt11char_traitsIcEE8_M_checkEjPKc",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 391,
+      "size" : 32,
+      "var_id" : 6793614,
+      "variablename" : "__pos",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/string_view:391:6",
+      "varlabel" : -1
+   },
+   "6794610" : {
+      "conditional_var_id" : 6794610,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/stl_algobase.h",
+      "funname" : "_ZSt3minIjERKT_S2_S2_",
+      "newbbs" : 0,
+      "numcolumn" : 11,
+      "numline" : 200,
+      "size" : 32,
+      "var_id" : 6794610,
+      "variablename" : "__b",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/stl_algobase.h:200:11",
+      "varlabel" : -1
+   },
+   "6794773" : {
+      "conditional_var_id" : 6794773,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/stl_algobase.h",
+      "funname" : "_ZSt3minIjERKT_S2_S2_",
+      "newbbs" : 0,
+      "numcolumn" : 17,
+      "numline" : 200,
+      "size" : 32,
+      "var_id" : 6794773,
+      "variablename" : "__a",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/stl_algobase.h:200:17",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 3
+}

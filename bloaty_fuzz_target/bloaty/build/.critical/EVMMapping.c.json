@@ -1,0 +1,69 @@
+{
+   "6546441" : {
+      "conditional_var_id" : 6546441,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/EVM/EVMMapping.c",
+      "funname" : "EVM_get_insn_id",
+      "newbbs" : 0,
+      "numcolumn" : 10,
+      "numline" : 39,
+      "size" : 32,
+      "var_id" : 6546441,
+      "variablename" : "h",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/EVM/EVMMapping.c:39:10",
+      "varlabel" : -1
+   },
+   "6547456" : {
+      "conditional_var_id" : 6547456,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/EVM/EVMMapping.c",
+      "funname" : "evm_insn_find",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 23,
+      "size" : 32,
+      "var_id" : 6547456,
+      "variablename" : "id",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/EVM/EVMMapping.c:23:6",
+      "varlabel" : -1
+   },
+   "6547600" : {
+      "conditional_var_id" : 6547600,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/EVM/EVMMapping.c",
+      "funname" : "evm_insn_find",
+      "newbbs" : 0,
+      "numcolumn" : 12,
+      "numline" : 23,
+      "size" : 32,
+      "var_id" : 6547600,
+      "variablename" : "max",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/EVM/EVMMapping.c:23:12",
+      "varlabel" : -1
+   },
+   "6548036" : {
+      "conditional_var_id" : 6548036,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/EVM/EVMMapping.c",
+      "funname" : "evm_insn_find",
+      "newbbs" : 0,
+      "numcolumn" : 16,
+      "numline" : 26,
+      "size" : 32,
+      "var_id" : 6548036,
+      "variablename" : "insns",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/EVM/EVMMapping.c:26:16",
+      "varlabel" : -1
+   },
+   "6548385" : {
+      "conditional_var_id" : 6548385,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/EVM/EVMMapping.c",
+      "funname" : "EVM_insn_name",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 310,
+      "size" : 32,
+      "var_id" : 6548385,
+      "variablename" : "id",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/EVM/EVMMapping.c:310:6",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 5,
+   "variable_count" : 5
+}

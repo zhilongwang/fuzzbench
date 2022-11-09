@@ -1,0 +1,17 @@
+{
+   "12954576" : {
+      "conditional_var_id" : 12954576,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/protobuf/src/google/protobuf/io/strtod.cc",
+      "funname" : "_ZN6google8protobuf2io12_GLOBAL__N_113LocalizeRadixB5cxx11EPKcS4_",
+      "newbbs" : 0,
+      "numcolumn" : 3,
+      "numline" : 69,
+      "size" : 32,
+      "var_id" : 12954576,
+      "variablename" : "size",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/protobuf/src/google/protobuf/io/strtod.cc:69:3",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

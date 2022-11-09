@@ -1,0 +1,43 @@
+{
+   "16581988" : {
+      "conditional_var_id" : 16581988,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/protobuf/src/google/protobuf/compiler/java/java_message_builder_lite.cc",
+      "funname" : "_ZN6google8protobuf8compiler4java27MessageBuilderLiteGenerator8GenerateEPNS0_2io7PrinterE",
+      "newbbs" : 0,
+      "numcolumn" : 19,
+      "numline" : 91,
+      "size" : 32,
+      "var_id" : 16581988,
+      "variablename" : "i",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/protobuf/src/google/protobuf/compiler/java/java_message_builder_lite.cc:91:19",
+      "varlabel" : -1
+   },
+   "16583822" : {
+      "conditional_var_id" : 16583822,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/protobuf/src/google/protobuf/compiler/java/java_message_builder_lite.cc",
+      "funname" : "_ZN6google8protobuf8compiler4java27MessageBuilderLiteGenerator8GenerateEPNS0_2io7PrinterE",
+      "newbbs" : 0,
+      "numcolumn" : 19,
+      "numline" : 115,
+      "size" : 32,
+      "var_id" : 16583822,
+      "variablename" : "i",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/protobuf/src/google/protobuf/compiler/java/java_message_builder_lite.cc:115:19",
+      "varlabel" : -1
+   },
+   "16595477" : {
+      "conditional_var_id" : 16595477,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/ext/new_allocator.h",
+      "funname" : "_ZN9__gnu_cxx13new_allocatorISt13_Rb_tree_nodeISt4pairIKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES8_EEE8allocateEjPKv",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 101,
+      "size" : 32,
+      "var_id" : 16595477,
+      "variablename" : "__n",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/ext/new_allocator.h:101:6",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 3
+}

@@ -1,0 +1,43 @@
+{
+   "11454300" : {
+      "conditional_var_id" : 11454300,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/stl_vector.h",
+      "funname" : "_ZNSt12_Vector_baseIcSaIcEE11_M_allocateEj",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 296,
+      "size" : 32,
+      "var_id" : 11454300,
+      "variablename" : "__n",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/stl_vector.h:296:9",
+      "varlabel" : -1
+   },
+   "11455238" : {
+      "conditional_var_id" : 11455238,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/ext/new_allocator.h",
+      "funname" : "_ZN9__gnu_cxx13new_allocatorIcE8allocateEjPKv",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 101,
+      "size" : 32,
+      "var_id" : 11455238,
+      "variablename" : "__n",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/ext/new_allocator.h:101:6",
+      "varlabel" : -1
+   },
+   "11456405" : {
+      "conditional_var_id" : 11456405,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/stl_algobase.h",
+      "funname" : "_ZSt8__fill_aIcEN9__gnu_cxx11__enable_ifIXsr9__is_byteIT_EE7__valueEvE6__typeEPS2_S5_RKS2_",
+      "newbbs" : 0,
+      "numcolumn" : 24,
+      "numline" : 706,
+      "size" : 32,
+      "var_id" : 11456405,
+      "variablename" : "__len",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/stl_algobase.h:706:24",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 3
+}

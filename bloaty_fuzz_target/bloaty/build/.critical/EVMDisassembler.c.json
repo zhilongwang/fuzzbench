@@ -1,0 +1,56 @@
+{
+   "4833892" : {
+      "conditional_var_id" : 4833892,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/EVM/EVMDisassembler.c",
+      "funname" : "EVM_getInstruction",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 275,
+      "size" : 32,
+      "var_id" : 4833892,
+      "variablename" : "code_len",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/EVM/EVMDisassembler.c:275:6",
+      "varlabel" : -1
+   },
+   "4834800" : {
+      "conditional_var_id" : 4834800,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/EVM/EVMDisassembler.c",
+      "funname" : "EVM_getInstruction",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 290,
+      "size" : 32,
+      "var_id" : 4833892,
+      "variablename" : "code_len",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/EVM/EVMDisassembler.c:290:7",
+      "varlabel" : -1
+   },
+   "4835093" : {
+      "conditional_var_id" : 4835093,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/EVM/EVMDisassembler.c",
+      "funname" : "EVM_getInstruction",
+      "newbbs" : 0,
+      "numcolumn" : 34,
+      "numline" : 304,
+      "size" : 8,
+      "var_id" : 4835093,
+      "variablename" : "MI",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/EVM/EVMDisassembler.c:304:34",
+      "varlabel" : -1
+   },
+   "4835398" : {
+      "conditional_var_id" : 4835398,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/EVM/EVMDisassembler.c",
+      "funname" : "EVM_getInstruction",
+      "newbbs" : 0,
+      "numcolumn" : 34,
+      "numline" : 309,
+      "size" : 8,
+      "var_id" : 4835398,
+      "variablename" : "MI",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/EVM/EVMDisassembler.c:309:34",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 3
+}

@@ -1,0 +1,43 @@
+{
+   "214967" : {
+      "conditional_var_id" : 214967,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/protobuf/src/google/protobuf/parse_context.h",
+      "funname" : "_ZN6google8protobuf8internal18EpsCopyInputStream13DoneWithCheckEPPKci",
+      "newbbs" : 0,
+      "numcolumn" : 33,
+      "numline" : 211,
+      "size" : 32,
+      "var_id" : 214967,
+      "variablename" : "this",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/protobuf/src/google/protobuf/parse_context.h:211:33",
+      "varlabel" : -1
+   },
+   "216888" : {
+      "conditional_var_id" : 216888,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/protobuf/src/google/protobuf/io/coded_stream.h",
+      "funname" : "_ZN6google8protobuf2io19EpsCopyOutputStream8WriteRawEPKviPh",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 694,
+      "size" : 32,
+      "var_id" : 216888,
+      "variablename" : "size",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/protobuf/src/google/protobuf/io/coded_stream.h:694:9",
+      "varlabel" : -1
+   },
+   "217502" : {
+      "conditional_var_id" : 217502,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/mutex",
+      "funname" : "_ZSt9call_onceIRFvvEJEEvRSt9once_flagOT_DpOT0_",
+      "newbbs" : 0,
+      "numcolumn" : 11,
+      "numline" : 697,
+      "size" : 32,
+      "var_id" : 217502,
+      "variablename" : "__e",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/mutex:697:11",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 3
+}

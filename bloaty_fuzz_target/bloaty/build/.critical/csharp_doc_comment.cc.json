@@ -1,0 +1,43 @@
+{
+   "192946" : {
+      "conditional_var_id" : 192946,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/ext/new_allocator.h",
+      "funname" : "_ZN9__gnu_cxx13new_allocatorISt13_Rb_tree_nodeISt4pairIKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES8_EEE8allocateEjPKv",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 101,
+      "size" : 32,
+      "var_id" : 192946,
+      "variablename" : "__n",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/ext/new_allocator.h:101:6",
+      "varlabel" : -1
+   },
+   "199332" : {
+      "conditional_var_id" : 199332,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/stl_vector.h",
+      "funname" : "_ZNSt12_Vector_baseINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE11_M_allocateEj",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 296,
+      "size" : 32,
+      "var_id" : 199332,
+      "variablename" : "__n",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/stl_vector.h:296:9",
+      "varlabel" : -1
+   },
+   "199944" : {
+      "conditional_var_id" : 199944,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/ext/new_allocator.h",
+      "funname" : "_ZN9__gnu_cxx13new_allocatorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE8allocateEjPKv",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 101,
+      "size" : 32,
+      "var_id" : 199944,
+      "variablename" : "__n",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/ext/new_allocator.h:101:6",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 3
+}

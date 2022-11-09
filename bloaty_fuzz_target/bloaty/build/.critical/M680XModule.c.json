@@ -1,0 +1,30 @@
+{
+   "3949119" : {
+      "conditional_var_id" : 3949119,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/M680X/M680XModule.c",
+      "funname" : "M680X_global_init",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 21,
+      "size" : 32,
+      "var_id" : 3949119,
+      "variablename" : "errcode",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/M680X/M680XModule.c:21:6",
+      "varlabel" : -1
+   },
+   "3949992" : {
+      "conditional_var_id" : 3949992,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/M680X/M680XModule.c",
+      "funname" : "M680X_global_init",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 26,
+      "size" : 32,
+      "var_id" : 3949119,
+      "variablename" : "errcode",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/M680X/M680XModule.c:26:6",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 2,
+   "variable_count" : 1
+}

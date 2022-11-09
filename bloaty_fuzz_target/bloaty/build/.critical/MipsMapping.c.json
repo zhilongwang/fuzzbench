@@ -1,0 +1,82 @@
+{
+   "7799815" : {
+      "conditional_var_id" : 7799815,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/Mips/MipsMapping.c",
+      "funname" : "Mips_reg_name",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 204,
+      "size" : 32,
+      "var_id" : 7799815,
+      "variablename" : "reg",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/Mips/MipsMapping.c:204:6",
+      "varlabel" : -1
+   },
+   "7800915" : {
+      "conditional_var_id" : 7800915,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/Mips/MipsMapping.c",
+      "funname" : "Mips_get_insn_id",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 231,
+      "size" : 32,
+      "var_id" : 7800915,
+      "variablename" : "i",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/Mips/MipsMapping.c:231:6",
+      "varlabel" : -1
+   },
+   "7801135" : {
+      "conditional_var_id" : 7801135,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/Mips/MipsMapping.c",
+      "funname" : "Mips_get_insn_id",
+      "newbbs" : 0,
+      "numcolumn" : 10,
+      "numline" : 234,
+      "size" : 32,
+      "var_id" : 7801135,
+      "variablename" : "h",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/Mips/MipsMapping.c:234:10",
+      "varlabel" : -1
+   },
+   "7801786" : {
+      "conditional_var_id" : 7801786,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/Mips/MipsMapping.c",
+      "funname" : "Mips_insn_name",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 891,
+      "size" : 32,
+      "var_id" : 7801786,
+      "variablename" : "id",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/Mips/MipsMapping.c:891:6",
+      "varlabel" : -1
+   },
+   "7802270" : {
+      "conditional_var_id" : 7802270,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/Mips/MipsMapping.c",
+      "funname" : "Mips_map_insn",
+      "newbbs" : 0,
+      "numcolumn" : 10,
+      "numline" : 972,
+      "size" : 32,
+      "var_id" : 7802270,
+      "variablename" : "i",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/Mips/MipsMapping.c:972:10",
+      "varlabel" : -1
+   },
+   "7802669" : {
+      "conditional_var_id" : 7802669,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/Mips/MipsMapping.c",
+      "funname" : "Mips_map_register",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 1063,
+      "size" : 32,
+      "var_id" : 7802669,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/Mips/MipsMapping.c:1063:6",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 6,
+   "variable_count" : 6
+}

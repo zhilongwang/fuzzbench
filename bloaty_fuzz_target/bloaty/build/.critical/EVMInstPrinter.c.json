@@ -1,0 +1,30 @@
+{
+   "5654923" : {
+      "conditional_var_id" : 5654923,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/EVM/EVMInstPrinter.c",
+      "funname" : "EVM_printInst",
+      "newbbs" : 0,
+      "numcolumn" : 10,
+      "numline" : 12,
+      "size" : 32,
+      "var_id" : 5654923,
+      "variablename" : "MI",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/EVM/EVMInstPrinter.c:12:10",
+      "varlabel" : -1
+   },
+   "5655719" : {
+      "conditional_var_id" : 5655719,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/EVM/EVMInstPrinter.c",
+      "funname" : "EVM_printInst",
+      "newbbs" : 0,
+      "numcolumn" : 41,
+      "numline" : 12,
+      "size" : 32,
+      "var_id" : 5655719,
+      "variablename" : "MI",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/EVM/EVMInstPrinter.c:12:41",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 2,
+   "variable_count" : 2
+}

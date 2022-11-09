@@ -1,0 +1,17 @@
+{
+   "8806376" : {
+      "conditional_var_id" : 8806376,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/Mips/MipsModule.c",
+      "funname" : "Mips_option",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 44,
+      "size" : 32,
+      "var_id" : 8806376,
+      "variablename" : "type",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/Mips/MipsModule.c:44:6",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

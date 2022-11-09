@@ -1,0 +1,1 @@
+/usr/bin/g++   -Dprotobuf_HAVE_BUILTIN_ATOMICS -std=c++11    -rdynamic CMakeFiles/cmTC_00551.dir/src.cxx.o  -o cmTC_00551 

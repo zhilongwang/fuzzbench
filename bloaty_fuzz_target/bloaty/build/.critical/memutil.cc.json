@@ -1,0 +1,82 @@
+{
+   "13101211" : {
+      "conditional_var_id" : 13101211,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/abseil-cpp/absl/strings/internal/memutil.cc",
+      "funname" : "_ZN4absl16strings_internal10memcasecmpEPKcS2_j",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 31,
+      "size" : 32,
+      "var_id" : 13101211,
+      "variablename" : "diff",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/abseil-cpp/absl/strings/internal/memutil.cc:31:9",
+      "varlabel" : -1
+   },
+   "13102625" : {
+      "conditional_var_id" : 13102625,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/abseil-cpp/absl/strings/internal/memutil.cc",
+      "funname" : "_ZN4absl16strings_internal7memrchrEPKcij",
+      "newbbs" : 0,
+      "numcolumn" : 15,
+      "numline" : 45,
+      "size" : 32,
+      "var_id" : 13102625,
+      "variablename" : "c",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/abseil-cpp/absl/strings/internal/memutil.cc:45:15",
+      "varlabel" : -1
+   },
+   "13104261" : {
+      "conditional_var_id" : 13104261,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/abseil-cpp/absl/strings/internal/memutil.cc",
+      "funname" : "_ZN4absl16strings_internal7mempbrkEPKcjS2_",
+      "newbbs" : 0,
+      "numcolumn" : 11,
+      "numline" : 82,
+      "size" : 32,
+      "var_id" : 13104261,
+      "variablename" : "sc",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/abseil-cpp/absl/strings/internal/memutil.cc:82:11",
+      "varlabel" : -1
+   },
+   "13104917" : {
+      "conditional_var_id" : 13104917,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/abseil-cpp/absl/strings/internal/memutil.cc",
+      "funname" : "_ZN4absl16strings_internal8memmatchEPKcjS2_j",
+      "newbbs" : 0,
+      "numcolumn" : 12,
+      "numline" : 91,
+      "size" : 32,
+      "var_id" : 13104917,
+      "variablename" : "neelen",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/abseil-cpp/absl/strings/internal/memutil.cc:91:12",
+      "varlabel" : -1
+   },
+   "13105198" : {
+      "conditional_var_id" : 13105198,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/abseil-cpp/absl/strings/internal/memutil.cc",
+      "funname" : "_ZN4absl16strings_internal8memmatchEPKcjS2_j",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 94,
+      "size" : 32,
+      "var_id" : 13105198,
+      "variablename" : "haylen",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/abseil-cpp/absl/strings/internal/memutil.cc:94:7",
+      "varlabel" : -1
+   },
+   "13105522" : {
+      "conditional_var_id" : 13105522,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/abseil-cpp/absl/strings/internal/memutil.cc",
+      "funname" : "_ZN4absl16strings_internal8memmatchEPKcjS2_j",
+      "newbbs" : 0,
+      "numcolumn" : 16,
+      "numline" : 94,
+      "size" : 32,
+      "var_id" : 13104917,
+      "variablename" : "neelen",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/abseil-cpp/absl/strings/internal/memutil.cc:94:16",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 6,
+   "variable_count" : 5
+}

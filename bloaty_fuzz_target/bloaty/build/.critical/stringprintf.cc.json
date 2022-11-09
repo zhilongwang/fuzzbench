@@ -1,0 +1,82 @@
+{
+   "7589587" : {
+      "conditional_var_id" : 7589587,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/protobuf/src/google/protobuf/stubs/stringprintf.cc",
+      "funname" : "_ZN6google8protobuf13StringAppendVEPNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEPKcPc",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 70,
+      "size" : 32,
+      "var_id" : 7589587,
+      "variablename" : "result",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/protobuf/src/google/protobuf/stubs/stringprintf.cc:70:7",
+      "varlabel" : -1
+   },
+   "7590593" : {
+      "conditional_var_id" : 7590593,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/protobuf/src/google/protobuf/stubs/stringprintf.cc",
+      "funname" : "_ZN6google8protobuf13StringAppendVEPNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEPKcPc",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 71,
+      "size" : 32,
+      "var_id" : 7589587,
+      "variablename" : "result",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/protobuf/src/google/protobuf/stubs/stringprintf.cc:71:9",
+      "varlabel" : -1
+   },
+   "7590836" : {
+      "conditional_var_id" : 7590836,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/protobuf/src/google/protobuf/stubs/stringprintf.cc",
+      "funname" : "_ZN6google8protobuf13StringAppendVEPNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEPKcPc",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 85,
+      "size" : 32,
+      "var_id" : 7589587,
+      "variablename" : "result",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/protobuf/src/google/protobuf/stubs/stringprintf.cc:85:9",
+      "varlabel" : -1
+   },
+   "7591239" : {
+      "conditional_var_id" : 7591239,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/protobuf/src/google/protobuf/stubs/stringprintf.cc",
+      "funname" : "_ZN6google8protobuf13StringAppendVEPNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEPKcPc",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 101,
+      "size" : 32,
+      "var_id" : 7589587,
+      "variablename" : "result",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/protobuf/src/google/protobuf/stubs/stringprintf.cc:101:7",
+      "varlabel" : -1
+   },
+   "7591538" : {
+      "conditional_var_id" : 7591538,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/protobuf/src/google/protobuf/stubs/stringprintf.cc",
+      "funname" : "_ZN6google8protobuf13StringAppendVEPNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEPKcPc",
+      "newbbs" : 0,
+      "numcolumn" : 22,
+      "numline" : 101,
+      "size" : 32,
+      "var_id" : 7589587,
+      "variablename" : "result",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/protobuf/src/google/protobuf/stubs/stringprintf.cc:101:22",
+      "varlabel" : -1
+   },
+   "7591678" : {
+      "conditional_var_id" : 7591678,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/protobuf/src/google/protobuf/stubs/stringprintf.cc",
+      "funname" : "_ZN6google8protobuf13StringAppendVEPNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEPKcPc",
+      "newbbs" : 0,
+      "numcolumn" : 31,
+      "numline" : 101,
+      "size" : 32,
+      "var_id" : 7591678,
+      "variablename" : "length",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/protobuf/cmake//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/protobuf/src/google/protobuf/stubs/stringprintf.cc:101:31",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 6,
+   "variable_count" : 2
+}

@@ -1,0 +1,82 @@
+{
+   "5018147" : {
+      "conditional_var_id" : 5018147,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/XCore/XCoreMapping.c",
+      "funname" : "XCore_reg_name",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 52,
+      "size" : 32,
+      "var_id" : 5018147,
+      "variablename" : "reg",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/XCore/XCoreMapping.c:52:6",
+      "varlabel" : -1
+   },
+   "5020169" : {
+      "conditional_var_id" : 5020169,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/XCore/XCoreMapping.c",
+      "funname" : "XCore_get_insn_id",
+      "newbbs" : 0,
+      "numcolumn" : 10,
+      "numline" : 95,
+      "size" : 32,
+      "var_id" : 5020169,
+      "variablename" : "h",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/XCore/XCoreMapping.c:95:10",
+      "varlabel" : -1
+   },
+   "5020953" : {
+      "conditional_var_id" : 5020953,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/XCore/XCoreMapping.c",
+      "funname" : "XCore_insn_name",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 253,
+      "size" : 32,
+      "var_id" : 5020953,
+      "variablename" : "id",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/XCore/XCoreMapping.c:253:6",
+      "varlabel" : -1
+   },
+   "5021416" : {
+      "conditional_var_id" : 5021416,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/XCore/XCoreMapping.c",
+      "funname" : "XCore_insn_name",
+      "newbbs" : 0,
+      "numcolumn" : 27,
+      "numline" : 258,
+      "size" : 32,
+      "var_id" : 5021416,
+      "variablename" : "alias_insn_names",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/XCore/XCoreMapping.c:258:27",
+      "varlabel" : -1
+   },
+   "5021838" : {
+      "conditional_var_id" : 5021838,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/XCore/XCoreMapping.c",
+      "funname" : "XCore_insn_name",
+      "newbbs" : 0,
+      "numcolumn" : 33,
+      "numline" : 258,
+      "size" : 32,
+      "var_id" : 5020953,
+      "variablename" : "id",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/XCore/XCoreMapping.c:258:33",
+      "varlabel" : -1
+   },
+   "5022490" : {
+      "conditional_var_id" : 5022490,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/XCore/XCoreMapping.c",
+      "funname" : "XCore_map_register",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 290,
+      "size" : 32,
+      "var_id" : 5022490,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/XCore/XCoreMapping.c:290:6",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 6,
+   "variable_count" : 5
+}

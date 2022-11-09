@@ -1,0 +1,17 @@
+{
+   "264954" : {
+      "conditional_var_id" : 264954,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/SystemZ/SystemZModule.c",
+      "funname" : "SystemZ_option",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 35,
+      "size" : 32,
+      "var_id" : 264954,
+      "variablename" : "type",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/SystemZ/SystemZModule.c:35:6",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

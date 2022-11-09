@@ -1,0 +1,30 @@
+{
+   "2780349" : {
+      "conditional_var_id" : 2780349,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/PowerPC/PPCModule.c",
+      "funname" : "PPC_option",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 35,
+      "size" : 32,
+      "var_id" : 2780349,
+      "variablename" : "type",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/PowerPC/PPCModule.c:35:6",
+      "varlabel" : -1
+   },
+   "2781344" : {
+      "conditional_var_id" : 2781344,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/PowerPC/PPCModule.c",
+      "funname" : "PPC_option",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 38,
+      "size" : 32,
+      "var_id" : 2780349,
+      "variablename" : "type",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build/third_party/capstone//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/capstone/arch/PowerPC/PPCModule.c:38:6",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 2,
+   "variable_count" : 1
+}

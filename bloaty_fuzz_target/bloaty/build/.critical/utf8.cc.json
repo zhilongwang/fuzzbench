@@ -1,0 +1,43 @@
+{
+   "10436927" : {
+      "conditional_var_id" : 10436927,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/abseil-cpp/absl/strings/internal/utf8.cc",
+      "funname" : "_ZN4absl16strings_internal14EncodeUTF8CharEPcDi",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 24,
+      "size" : 32,
+      "var_id" : 10436927,
+      "variablename" : "utf8_char",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/abseil-cpp/absl/strings/internal/utf8.cc:24:7",
+      "varlabel" : -1
+   },
+   "10438330" : {
+      "conditional_var_id" : 10438330,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/abseil-cpp/absl/strings/internal/utf8.cc",
+      "funname" : "_ZN4absl16strings_internal14EncodeUTF8CharEPcDi",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 27,
+      "size" : 32,
+      "var_id" : 10436927,
+      "variablename" : "utf8_char",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/abseil-cpp/absl/strings/internal/utf8.cc:27:14",
+      "varlabel" : -1
+   },
+   "10438594" : {
+      "conditional_var_id" : 10438594,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/abseil-cpp/absl/strings/internal/utf8.cc",
+      "funname" : "_ZN4absl16strings_internal14EncodeUTF8CharEPcDi",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 32,
+      "size" : 32,
+      "var_id" : 10436927,
+      "variablename" : "utf8_char",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/build//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/bloaty_fuzz_target/bloaty/third_party/abseil-cpp/absl/strings/internal/utf8.cc:32:14",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 1
+}
