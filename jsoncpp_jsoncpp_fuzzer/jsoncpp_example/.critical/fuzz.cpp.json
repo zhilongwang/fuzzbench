@@ -1,0 +1,30 @@
+{
+   "11565276" : {
+      "conditional_var_id" : 11565276,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp/build/src/test_lib_json//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp/src/test_lib_json/fuzz.cpp",
+      "funname" : "LLVMFuzzerTestOneInput",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 21,
+      "size" : 32,
+      "var_id" : 11565276,
+      "variablename" : "size",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp/build/src/test_lib_json//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp/src/test_lib_json/fuzz.cpp:21:7",
+      "varlabel" : -1
+   },
+   "11569453" : {
+      "conditional_var_id" : 11569453,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp/build/src/test_lib_json//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp/src/test_lib_json/fuzz.cpp",
+      "funname" : "LLVMFuzzerTestOneInput",
+      "newbbs" : 0,
+      "numcolumn" : 3,
+      "numline" : 50,
+      "size" : 32,
+      "var_id" : 11569453,
+      "variablename" : "null",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp/build/src/test_lib_json//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp/src/test_lib_json/fuzz.cpp:50:3",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 2,
+   "variable_count" : 2
+}

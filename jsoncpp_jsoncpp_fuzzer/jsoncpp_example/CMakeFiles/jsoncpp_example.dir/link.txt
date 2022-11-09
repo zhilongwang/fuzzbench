@@ -1,0 +1,1 @@
+/home/vagrant/touch_of_death/AFL/afl-clang-fast++   -g -O0 -rtlib=compiler-rt -lgcc_s  -std=c++11  -rdynamic CMakeFiles/jsoncpp_example.dir/main.cpp.o CMakeFiles/jsoncpp_example.dir/value_check.cpp.o CMakeFiles/jsoncpp_example.dir/read_write.cpp.o CMakeFiles/jsoncpp_example.dir/simple_checker.cpp.o  -o jsoncpp_example ../jsoncpp/build/lib/libjsoncpp.a

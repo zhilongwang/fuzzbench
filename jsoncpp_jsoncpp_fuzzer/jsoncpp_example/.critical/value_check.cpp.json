@@ -1,0 +1,17 @@
+{
+   "10614176" : {
+      "conditional_var_id" : 10614176,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp_example//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/stl_deque.h",
+      "funname" : "_ZSt16__deque_buf_sizej",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 93,
+      "size" : 32,
+      "var_id" : 10614176,
+      "variablename" : "__size",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp_example//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/stl_deque.h:93:13",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

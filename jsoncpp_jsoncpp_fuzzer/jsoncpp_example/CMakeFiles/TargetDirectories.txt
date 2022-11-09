@@ -1,0 +1,3 @@
+/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp_example/CMakeFiles/rebuild_cache.dir
+/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp_example/CMakeFiles/jsoncpp_example.dir
+/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp_example/CMakeFiles/edit_cache.dir
