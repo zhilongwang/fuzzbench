@@ -1,0 +1,56 @@
+{
+   "9327727" : {
+      "conditional_var_id" : 9327727,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/rsa_mp_test.c",
+      "funname" : "test_rsa_mp",
+      "newbbs" : 0,
+      "numcolumn" : 10,
+      "numline" : 279,
+      "size" : 32,
+      "var_id" : 9327727,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/rsa_mp_test.c:279:10",
+      "varlabel" : -1
+   },
+   "9328156" : {
+      "conditional_var_id" : 9328156,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/rsa_mp_test.c",
+      "funname" : "test_rsa_mp",
+      "newbbs" : 0,
+      "numcolumn" : 10,
+      "numline" : 279,
+      "size" : 32,
+      "var_id" : 9328156,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/rsa_mp_test.c:279:10",
+      "varlabel" : -1
+   },
+   "9328465" : {
+      "conditional_var_id" : 9328465,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/rsa_mp_test.c",
+      "funname" : "test_rsa_mp",
+      "newbbs" : 0,
+      "numcolumn" : 10,
+      "numline" : 283,
+      "size" : 32,
+      "var_id" : 9327727,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/rsa_mp_test.c:283:10",
+      "varlabel" : -1
+   },
+   "9328591" : {
+      "conditional_var_id" : 9328591,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/rsa_mp_test.c",
+      "funname" : "test_rsa_mp",
+      "newbbs" : 0,
+      "numcolumn" : 10,
+      "numline" : 283,
+      "size" : 32,
+      "var_id" : 9328591,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/rsa_mp_test.c:283:10",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 3
+}

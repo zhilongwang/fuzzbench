@@ -1,0 +1,17 @@
+{
+   "8124308" : {
+      "conditional_var_id" : 8124308,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp_example//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp_example/simple_checker.cpp",
+      "funname" : "_ZZN13SimpleChecker14CheckJsonValueERKN4Json5ValueERKSt3mapINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE8JsonTypeSt4lessISA_ESaISt4pairIKSA_SB_EEEENK3$_0clERKSG_",
+      "newbbs" : 0,
+      "numcolumn" : 50,
+      "numline" : 55,
+      "size" : 64,
+      "var_id" : 8124308,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp_example//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp_example/simple_checker.cpp:55:50",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

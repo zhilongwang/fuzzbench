@@ -1,0 +1,17 @@
+{
+   "4598224" : {
+      "conditional_var_id" : 4598224,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/crmf/crmf_err.c",
+      "funname" : "ossl_err_load_CRMF_strings",
+      "newbbs" : 0,
+      "numcolumn" : 53,
+      "numline" : 67,
+      "size" : 32,
+      "var_id" : 4598224,
+      "variablename" : "CRMF_str_reasons",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/crmf/crmf_err.c:67:53",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

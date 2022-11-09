@@ -1,0 +1,17 @@
+{
+   "11550284" : {
+      "conditional_var_id" : 11550284,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/http/http_err.c",
+      "funname" : "ossl_err_load_HTTP_strings",
+      "newbbs" : 0,
+      "numcolumn" : 53,
+      "numline" : 78,
+      "size" : 32,
+      "var_id" : 11550284,
+      "variablename" : "HTTP_str_reasons",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/http/http_err.c:78:53",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

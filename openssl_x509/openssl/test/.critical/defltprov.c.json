@@ -1,0 +1,17 @@
+{
+   "10605069" : {
+      "conditional_var_id" : 10605069,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/defltprov.c",
+      "funname" : "ossl_default_provider_init",
+      "newbbs" : 0,
+      "numcolumn" : 16,
+      "numline" : 556,
+      "size" : 32,
+      "var_id" : 10605069,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/defltprov.c:556:16",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

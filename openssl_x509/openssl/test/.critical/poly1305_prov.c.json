@@ -1,0 +1,30 @@
+{
+   "3478707" : {
+      "conditional_var_id" : 3478707,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/macs/poly1305_prov.c",
+      "funname" : "poly1305_update",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 113,
+      "size" : 32,
+      "var_id" : 3478707,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/macs/poly1305_prov.c:113:9",
+      "varlabel" : -1
+   },
+   "3479560" : {
+      "conditional_var_id" : 3479560,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/macs/poly1305_prov.c",
+      "funname" : "poly1305_setkey",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 84,
+      "size" : 32,
+      "var_id" : 3479560,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/macs/poly1305_prov.c:84:9",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 2,
+   "variable_count" : 2
+}

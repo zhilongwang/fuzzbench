@@ -1,0 +1,56 @@
+{
+   "4330739" : {
+      "conditional_var_id" : 4330739,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/ciphername_test.c",
+      "funname" : "test_cipher_name",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 434,
+      "size" : 32,
+      "var_id" : 4330739,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/ciphername_test.c:434:14",
+      "varlabel" : -1
+   },
+   "4331199" : {
+      "conditional_var_id" : 4331199,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/ciphername_test.c",
+      "funname" : "test_cipher_name",
+      "newbbs" : 0,
+      "numcolumn" : 32,
+      "numline" : 434,
+      "size" : 32,
+      "var_id" : 4330739,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/ciphername_test.c:434:32",
+      "varlabel" : -1
+   },
+   "4331296" : {
+      "conditional_var_id" : 4331296,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/ciphername_test.c",
+      "funname" : "test_cipher_name",
+      "newbbs" : 0,
+      "numcolumn" : 49,
+      "numline" : 434,
+      "size" : 32,
+      "var_id" : 4330739,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/ciphername_test.c:434:49",
+      "varlabel" : -1
+   },
+   "4331974" : {
+      "conditional_var_id" : 4331974,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/ciphername_test.c",
+      "funname" : "get_std_name_by_id",
+      "newbbs" : 0,
+      "numcolumn" : 29,
+      "numline" : 373,
+      "size" : 32,
+      "var_id" : 4331974,
+      "variablename" : "cipher_names",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/ciphername_test.c:373:29",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 2
+}

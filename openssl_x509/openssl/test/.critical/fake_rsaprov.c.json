@@ -1,0 +1,56 @@
+{
+   "4151762" : {
+      "conditional_var_id" : 4151762,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/fake_rsaprov.c",
+      "funname" : "fake_rsa_sig_sign_init",
+      "newbbs" : 0,
+      "numcolumn" : 32,
+      "numline" : 181,
+      "size" : 8,
+      "var_id" : 4151762,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/fake_rsaprov.c:181:32",
+      "varlabel" : -1
+   },
+   "4152381" : {
+      "conditional_var_id" : 4152381,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/fake_rsaprov.c",
+      "funname" : "fake_rsa_sig_sign",
+      "newbbs" : 0,
+      "numcolumn" : 31,
+      "numline" : 196,
+      "size" : 8,
+      "var_id" : 4152381,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/fake_rsaprov.c:196:31",
+      "varlabel" : -1
+   },
+   "4152515" : {
+      "conditional_var_id" : 4152515,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/fake_rsaprov.c",
+      "funname" : "fake_rsa_sig_sign",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 202,
+      "size" : 32,
+      "var_id" : 4152515,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/fake_rsaprov.c:202:14",
+      "varlabel" : -1
+   },
+   "4152738" : {
+      "conditional_var_id" : 4152738,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/fake_rsaprov.c",
+      "funname" : "fake_rsa_sig_sign",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 202,
+      "size" : 32,
+      "var_id" : 4152738,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/fake_rsaprov.c:202:14",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 4
+}

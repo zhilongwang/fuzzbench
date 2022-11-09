@@ -1,0 +1,17 @@
+{
+   "4216179" : {
+      "conditional_var_id" : 4216179,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_aes_siv_hw.c",
+      "funname" : "aes_siv_cipher",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 117,
+      "size" : 8,
+      "var_id" : 4216179,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_aes_siv_hw.c:117:14",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

@@ -1,0 +1,56 @@
+{
+   "5557182" : {
+      "conditional_var_id" : 5557182,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/a_dup.c",
+      "funname" : "ASN1_dup",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 27,
+      "size" : 32,
+      "var_id" : 5557182,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/a_dup.c:27:9",
+      "varlabel" : -1
+   },
+   "5559605" : {
+      "conditional_var_id" : 5559605,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/a_dup.c",
+      "funname" : "ASN1_item_dup",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 65,
+      "size" : 8,
+      "var_id" : 5559605,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/a_dup.c:65:13",
+      "varlabel" : -1
+   },
+   "5559750" : {
+      "conditional_var_id" : 5559750,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/a_dup.c",
+      "funname" : "ASN1_item_dup",
+      "newbbs" : 0,
+      "numcolumn" : 49,
+      "numline" : 65,
+      "size" : 8,
+      "var_id" : 5559750,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/a_dup.c:65:49",
+      "varlabel" : -1
+   },
+   "5559935" : {
+      "conditional_var_id" : 5559935,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/a_dup.c",
+      "funname" : "ASN1_item_dup",
+      "newbbs" : 0,
+      "numcolumn" : 16,
+      "numline" : 66,
+      "size" : 8,
+      "var_id" : 5559935,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/a_dup.c:66:16",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 4
+}

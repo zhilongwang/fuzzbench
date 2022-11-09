@@ -1,0 +1,56 @@
+{
+   "15081145" : {
+      "conditional_var_id" : 15081145,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/context.c",
+      "funname" : "context_init",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 190,
+      "size" : 32,
+      "var_id" : 15081145,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/context.c:190:9",
+      "varlabel" : -1
+   },
+   "15082068" : {
+      "conditional_var_id" : 15082068,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/context.c",
+      "funname" : "OSSL_LIB_CTX_free",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 431,
+      "size" : 8,
+      "var_id" : 15082068,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/context.c:431:14",
+      "varlabel" : -1
+   },
+   "15082702" : {
+      "conditional_var_id" : 15082702,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/context.c",
+      "funname" : "OSSL_LIB_CTX_get0_global_default",
+      "newbbs" : 0,
+      "numcolumn" : 10,
+      "numline" : 441,
+      "size" : 32,
+      "var_id" : 15082702,
+      "variablename" : "default_context_do_init_ossl_ret_",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/context.c:441:10",
+      "varlabel" : -1
+   },
+   "15085192" : {
+      "conditional_var_id" : 15085192,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/context.c",
+      "funname" : "get_thread_default_context",
+      "newbbs" : 0,
+      "numcolumn" : 10,
+      "numline" : 350,
+      "size" : 32,
+      "var_id" : 15082702,
+      "variablename" : "default_context_do_init_ossl_ret_",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/context.c:350:10",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 3
+}

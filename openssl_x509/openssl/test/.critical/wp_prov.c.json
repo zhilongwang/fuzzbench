@@ -1,0 +1,17 @@
+{
+   "8860730" : {
+      "conditional_var_id" : 8860730,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/digests/wp_prov.c",
+      "funname" : "wp_internal_final",
+      "newbbs" : 0,
+      "numcolumn" : 1,
+      "numline" : 22,
+      "size" : 32,
+      "var_id" : 8860730,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/digests/wp_prov.c:22:1",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

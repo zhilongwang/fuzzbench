@@ -1,0 +1,30 @@
+{
+   "8569697" : {
+      "conditional_var_id" : 8569697,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_camellia_cts.inc",
+      "funname" : "camellia_cbc_cts_set_ctx_params",
+      "newbbs" : 0,
+      "numcolumn" : 16,
+      "numline" : 75,
+      "size" : 32,
+      "var_id" : 8569697,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_camellia_cts.inc:75:16",
+      "varlabel" : -1
+   },
+   "8570024" : {
+      "conditional_var_id" : 8570024,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_camellia_cts.inc",
+      "funname" : "camellia_cbc_cts_set_ctx_params",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 78,
+      "size" : 32,
+      "var_id" : 8570024,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_camellia_cts.inc:78:13",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 2,
+   "variable_count" : 2
+}

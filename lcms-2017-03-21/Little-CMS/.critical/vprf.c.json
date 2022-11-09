@@ -1,0 +1,56 @@
+{
+   "11549334" : {
+      "conditional_var_id" : 11549334,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/utils/transicc/../common/vprf.c",
+      "funname" : "MyErrorLogHandler",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 51,
+      "size" : 32,
+      "var_id" : 11549334,
+      "variablename" : "Verbose",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/utils/transicc/../common/vprf.c:51:9",
+      "varlabel" : -1
+   },
+   "11552905" : {
+      "conditional_var_id" : 11552905,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/utils/transicc/../common/vprf.c",
+      "funname" : "PrintProfileInformation",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 216,
+      "size" : 32,
+      "var_id" : 11549334,
+      "variablename" : "Verbose",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/utils/transicc/../common/vprf.c:216:9",
+      "varlabel" : -1
+   },
+   "11554453" : {
+      "conditional_var_id" : 11554453,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/utils/transicc/../common/vprf.c",
+      "funname" : "PrintInfo",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 157,
+      "size" : 32,
+      "var_id" : 11554453,
+      "variablename" : "len",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/utils/transicc/../common/vprf.c:157:9",
+      "varlabel" : -1
+   },
+   "11557635" : {
+      "conditional_var_id" : 11557635,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/utils/transicc/../common/vprf.c",
+      "funname" : "SaveMemoryBlock",
+      "newbbs" : 0,
+      "numcolumn" : 42,
+      "numline" : 256,
+      "size" : 32,
+      "var_id" : 11557635,
+      "variablename" : "dwLen",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/utils/transicc/../common/vprf.c:256:42",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 3
+}

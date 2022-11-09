@@ -1,0 +1,56 @@
+{
+   "6734224" : {
+      "conditional_var_id" : 6734224,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/encode_decode/encode_key2ms.c",
+      "funname" : "key2pvk_encode",
+      "newbbs" : 0,
+      "numcolumn" : 10,
+      "numline" : 158,
+      "size" : 32,
+      "var_id" : 6734224,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/encode_decode/encode_key2ms.c:158:10",
+      "varlabel" : -1
+   },
+   "6735241" : {
+      "conditional_var_id" : 6735241,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/encode_decode/encode_key2ms.c",
+      "funname" : "key2msblob_encode",
+      "newbbs" : 0,
+      "numcolumn" : 10,
+      "numline" : 137,
+      "size" : 32,
+      "var_id" : 6735241,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/encode_decode/encode_key2ms.c:137:10",
+      "varlabel" : -1
+   },
+   "6735447" : {
+      "conditional_var_id" : 6735447,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/encode_decode/encode_key2ms.c",
+      "funname" : "key2msblob_encode",
+      "newbbs" : 0,
+      "numcolumn" : 15,
+      "numline" : 139,
+      "size" : 32,
+      "var_id" : 6735241,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/encode_decode/encode_key2ms.c:139:15",
+      "varlabel" : -1
+   },
+   "6735717" : {
+      "conditional_var_id" : 6735717,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/encode_decode/encode_key2ms.c",
+      "funname" : "write_msblob",
+      "newbbs" : 0,
+      "numcolumn" : 11,
+      "numline" : 46,
+      "size" : 32,
+      "var_id" : 6735717,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/encode_decode/encode_key2ms.c:46:11",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 3
+}

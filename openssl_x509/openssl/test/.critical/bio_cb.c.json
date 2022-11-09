@@ -1,0 +1,69 @@
+{
+   "15994901" : {
+      "conditional_var_id" : 15994901,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/bio/bio_cb.c",
+      "funname" : "BIO_debug_callback_ex",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 34,
+      "size" : 32,
+      "var_id" : 15994901,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/bio/bio_cb.c:34:9",
+      "varlabel" : -1
+   },
+   "15995340" : {
+      "conditional_var_id" : 15995340,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/bio/bio_cb.c",
+      "funname" : "BIO_debug_callback_ex",
+      "newbbs" : 0,
+      "numcolumn" : 26,
+      "numline" : 44,
+      "size" : 32,
+      "var_id" : 15995340,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/bio/bio_cb.c:44:26",
+      "varlabel" : -1
+   },
+   "15995478" : {
+      "conditional_var_id" : 15995478,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/bio/bio_cb.c",
+      "funname" : "BIO_debug_callback_ex",
+      "newbbs" : 0,
+      "numcolumn" : 26,
+      "numline" : 53,
+      "size" : 32,
+      "var_id" : 15995478,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/bio/bio_cb.c:53:26",
+      "varlabel" : -1
+   },
+   "15995926" : {
+      "conditional_var_id" : 15995926,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/bio/bio_cb.c",
+      "funname" : "BIO_debug_callback",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 108,
+      "size" : 32,
+      "var_id" : 15995926,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/bio/bio_cb.c:108:9",
+      "varlabel" : -1
+   },
+   "15996036" : {
+      "conditional_var_id" : 15996036,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/bio/bio_cb.c",
+      "funname" : "BIO_debug_callback",
+      "newbbs" : 0,
+      "numcolumn" : 39,
+      "numline" : 111,
+      "size" : 32,
+      "var_id" : 15995926,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/bio/bio_cb.c:111:39",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 5,
+   "variable_count" : 4
+}

@@ -1,0 +1,43 @@
+{
+   "12118003" : {
+      "conditional_var_id" : 12118003,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/rsa/rsa_chk.c",
+      "funname" : "rsa_validate_keypair_multiprime",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 36,
+      "size" : 32,
+      "var_id" : 12118003,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/rsa/rsa_chk.c:36:14",
+      "varlabel" : -1
+   },
+   "12118495" : {
+      "conditional_var_id" : 12118495,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/rsa/rsa_chk.c",
+      "funname" : "rsa_validate_keypair_multiprime",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 38,
+      "size" : 32,
+      "var_id" : 12118495,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/rsa/rsa_chk.c:38:13",
+      "varlabel" : -1
+   },
+   "12119058" : {
+      "conditional_var_id" : 12119058,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/rsa/rsa_chk.c",
+      "funname" : "rsa_validate_keypair_multiprime",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 102,
+      "size" : 32,
+      "var_id" : 12118495,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/rsa/rsa_chk.c:102:13",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 2
+}

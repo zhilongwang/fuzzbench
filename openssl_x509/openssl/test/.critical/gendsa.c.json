@@ -1,0 +1,69 @@
+{
+   "11318734" : {
+      "conditional_var_id" : 11318734,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/apps/gendsa.c",
+      "funname" : "gendsa_main",
+      "newbbs" : 0,
+      "numcolumn" : 27,
+      "numline" : 89,
+      "size" : 32,
+      "var_id" : 11318734,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/apps/gendsa.c:89:27",
+      "varlabel" : -1
+   },
+   "11319498" : {
+      "conditional_var_id" : 11319498,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/apps/gendsa.c",
+      "funname" : "gendsa_main",
+      "newbbs" : 0,
+      "numcolumn" : 31,
+      "numline" : 93,
+      "size" : 32,
+      "var_id" : 11318734,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/apps/gendsa.c:93:31",
+      "varlabel" : -1
+   },
+   "11319816" : {
+      "conditional_var_id" : 11319816,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/apps/gendsa.c",
+      "funname" : "gendsa_main",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 133,
+      "size" : 32,
+      "var_id" : 11319816,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/apps/gendsa.c:133:9",
+      "varlabel" : -1
+   },
+   "11319973" : {
+      "conditional_var_id" : 11319973,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/apps/gendsa.c",
+      "funname" : "gendsa_main",
+      "newbbs" : 0,
+      "numcolumn" : 5,
+      "numline" : 152,
+      "size" : 32,
+      "var_id" : 11319973,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/apps/gendsa.c:152:5",
+      "varlabel" : -1
+   },
+   "11320112" : {
+      "conditional_var_id" : 11320112,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/apps/gendsa.c",
+      "funname" : "gendsa_main",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 159,
+      "size" : 32,
+      "var_id" : 11320112,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/apps/gendsa.c:159:9",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 5,
+   "variable_count" : 4
+}

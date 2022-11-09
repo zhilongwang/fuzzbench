@@ -1,0 +1,56 @@
+{
+   "13579598" : {
+      "conditional_var_id" : 13579598,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libjpeg-turbo-07-2017/libjpeg-turbo/jcinit.c",
+      "funname" : "jinit_compress_master",
+      "newbbs" : 0,
+      "numcolumn" : 16,
+      "numline" : 37,
+      "size" : 32,
+      "var_id" : 13579598,
+      "variablename" : "cinfo",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libjpeg-turbo-07-2017/libjpeg-turbo/jcinit.c:37:16",
+      "varlabel" : -1
+   },
+   "13580138" : {
+      "conditional_var_id" : 13580138,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libjpeg-turbo-07-2017/libjpeg-turbo/jcinit.c",
+      "funname" : "jinit_compress_master",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 45,
+      "size" : 32,
+      "var_id" : 13580138,
+      "variablename" : "cinfo",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libjpeg-turbo-07-2017/libjpeg-turbo/jcinit.c:45:14",
+      "varlabel" : -1
+   },
+   "13580302" : {
+      "conditional_var_id" : 13580302,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libjpeg-turbo-07-2017/libjpeg-turbo/jcinit.c",
+      "funname" : "jinit_compress_master",
+      "newbbs" : 0,
+      "numcolumn" : 16,
+      "numline" : 52,
+      "size" : 32,
+      "var_id" : 13580302,
+      "variablename" : "cinfo",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libjpeg-turbo-07-2017/libjpeg-turbo/jcinit.c:52:16",
+      "varlabel" : -1
+   },
+   "13580475" : {
+      "conditional_var_id" : 13580475,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libjpeg-turbo-07-2017/libjpeg-turbo/jcinit.c",
+      "funname" : "jinit_compress_master",
+      "newbbs" : 0,
+      "numcolumn" : 35,
+      "numline" : 64,
+      "size" : 32,
+      "var_id" : 13580475,
+      "variablename" : "cinfo",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libjpeg-turbo-07-2017/libjpeg-turbo/jcinit.c:64:35",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 4
+}

@@ -1,0 +1,56 @@
+{
+   "13455343" : {
+      "conditional_var_id" : 13455343,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/SAX.c",
+      "funname" : "initxmlDefaultSAXHandler",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 45,
+      "size" : 32,
+      "var_id" : 13455343,
+      "variablename" : "hdlr",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/SAX.c:45:14",
+      "varlabel" : -1
+   },
+   "13455949" : {
+      "conditional_var_id" : 13455949,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/SAX.c",
+      "funname" : "initxmlDefaultSAXHandler",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 71,
+      "size" : 32,
+      "var_id" : 13455949,
+      "variablename" : "warning",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/SAX.c:71:9",
+      "varlabel" : -1
+   },
+   "13456232" : {
+      "conditional_var_id" : 13456232,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/SAX.c",
+      "funname" : "inithtmlDefaultSAXHandler",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 93,
+      "size" : 32,
+      "var_id" : 13456232,
+      "variablename" : "hdlr",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/SAX.c:93:14",
+      "varlabel" : -1
+   },
+   "13456469" : {
+      "conditional_var_id" : 13456469,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/SAX.c",
+      "funname" : "initdocbDefaultSAXHandler",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 140,
+      "size" : 32,
+      "var_id" : 13456469,
+      "variablename" : "hdlr",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/SAX.c:140:14",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 4
+}

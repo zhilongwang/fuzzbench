@@ -1,0 +1,56 @@
+{
+   "14852567" : {
+      "conditional_var_id" : 14852567,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/apps/lib/app_rand.c",
+      "funname" : "loadfiles",
+      "newbbs" : 0,
+      "numcolumn" : 24,
+      "numline" : 48,
+      "size" : 8,
+      "var_id" : 14852567,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/apps/lib/app_rand.c:48:24",
+      "varlabel" : -1
+   },
+   "14853271" : {
+      "conditional_var_id" : 14853271,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/apps/lib/app_rand.c",
+      "funname" : "loadfiles",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 50,
+      "size" : 8,
+      "var_id" : 14853271,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/apps/lib/app_rand.c:50:13",
+      "varlabel" : -1
+   },
+   "14853426" : {
+      "conditional_var_id" : 14853426,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/apps/lib/app_rand.c",
+      "funname" : "loadfiles",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 58,
+      "size" : 32,
+      "var_id" : 14853426,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/apps/lib/app_rand.c:58:13",
+      "varlabel" : -1
+   },
+   "14853607" : {
+      "conditional_var_id" : 14853607,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/apps/lib/app_rand.c",
+      "funname" : "loadfiles",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 61,
+      "size" : 8,
+      "var_id" : 14853607,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/apps/lib/app_rand.c:61:13",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 4
+}

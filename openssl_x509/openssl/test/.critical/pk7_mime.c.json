@@ -1,0 +1,17 @@
+{
+   "3538576" : {
+      "conditional_var_id" : 3538576,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/pkcs7/pk7_mime.c",
+      "funname" : "SMIME_write_PKCS7",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 36,
+      "size" : 32,
+      "var_id" : 3538576,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/pkcs7/pk7_mime.c:36:9",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

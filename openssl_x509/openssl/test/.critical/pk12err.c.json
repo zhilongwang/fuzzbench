@@ -1,0 +1,17 @@
+{
+   "511553" : {
+      "conditional_var_id" : 511553,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/pkcs12/pk12err.c",
+      "funname" : "ossl_err_load_PKCS12_strings",
+      "newbbs" : 0,
+      "numcolumn" : 55,
+      "numline" : 57,
+      "size" : 32,
+      "var_id" : 511553,
+      "variablename" : "PKCS12_str_reasons",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/pkcs12/pk12err.c:57:55",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

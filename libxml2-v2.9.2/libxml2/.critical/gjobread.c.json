@@ -1,0 +1,17 @@
+{
+   "4200341" : {
+      "conditional_var_id" : 4200341,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/example/gjobread.c",
+      "funname" : "parseGjobFile",
+      "newbbs" : 0,
+      "numcolumn" : 22,
+      "numline" : 269,
+      "size" : 32,
+      "var_id" : 4200341,
+      "variablename" : "ret",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/example/gjobread.c:269:22",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

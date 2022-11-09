@@ -1,0 +1,56 @@
+{
+   "154443" : {
+      "conditional_var_id" : 154443,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/pkcs12_format_test.c",
+      "funname" : "setup_tests",
+      "newbbs" : 0,
+      "numcolumn" : 10,
+      "numline" : 838,
+      "size" : 32,
+      "var_id" : 154443,
+      "variablename" : "default_libctx",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/pkcs12_format_test.c:838:10",
+      "varlabel" : -1
+   },
+   "154945" : {
+      "conditional_var_id" : 154945,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/pkcs12_format_test.c",
+      "funname" : "setup_tests",
+      "newbbs" : 0,
+      "numcolumn" : 10,
+      "numline" : 858,
+      "size" : 32,
+      "var_id" : 154443,
+      "variablename" : "default_libctx",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/pkcs12_format_test.c:858:10",
+      "varlabel" : -1
+   },
+   "155183" : {
+      "conditional_var_id" : 155183,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/pkcs12_format_test.c",
+      "funname" : "setup_tests",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 873,
+      "size" : 32,
+      "var_id" : 154443,
+      "variablename" : "default_libctx",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/pkcs12_format_test.c:873:9",
+      "varlabel" : -1
+   },
+   "156503" : {
+      "conditional_var_id" : 156503,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/pkcs12_format_test.c",
+      "funname" : "get_custom_oid",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 315,
+      "size" : 32,
+      "var_id" : 156503,
+      "variablename" : "get_custom_oid.sec_nid",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/pkcs12_format_test.c:315:9",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 2
+}

@@ -1,0 +1,56 @@
+{
+   "5312727" : {
+      "conditional_var_id" : 5312727,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/evp/p_seal.c",
+      "funname" : "EVP_SealInit",
+      "newbbs" : 0,
+      "numcolumn" : 10,
+      "numline" : 39,
+      "size" : 32,
+      "var_id" : 5312727,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/evp/p_seal.c:39:10",
+      "varlabel" : -1
+   },
+   "5313367" : {
+      "conditional_var_id" : 5313367,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/evp/p_seal.c",
+      "funname" : "EVP_SealInit",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 46,
+      "size" : 32,
+      "var_id" : 5313367,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/evp/p_seal.c:46:9",
+      "varlabel" : -1
+   },
+   "5313508" : {
+      "conditional_var_id" : 5313508,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/evp/p_seal.c",
+      "funname" : "EVP_SealInit",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 50,
+      "size" : 32,
+      "var_id" : 5313367,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/evp/p_seal.c:50:9",
+      "varlabel" : -1
+   },
+   "5313956" : {
+      "conditional_var_id" : 5313956,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/evp/p_seal.c",
+      "funname" : "EVP_SealFinal",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 83,
+      "size" : 32,
+      "var_id" : 5313956,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/evp/p_seal.c:83:9",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 3
+}

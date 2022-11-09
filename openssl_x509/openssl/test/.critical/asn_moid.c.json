@@ -1,0 +1,56 @@
+{
+   "14905252" : {
+      "conditional_var_id" : 14905252,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/asn_moid.c",
+      "funname" : "do_create",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 73,
+      "size" : 8,
+      "var_id" : 14905252,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/asn_moid.c:73:13",
+      "varlabel" : -1
+   },
+   "14905816" : {
+      "conditional_var_id" : 14905816,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/asn_moid.c",
+      "funname" : "do_create",
+      "newbbs" : 0,
+      "numcolumn" : 16,
+      "numline" : 75,
+      "size" : 8,
+      "var_id" : 14905816,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/asn_moid.c:75:16",
+      "varlabel" : -1
+   },
+   "14906106" : {
+      "conditional_var_id" : 14906106,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/asn_moid.c",
+      "funname" : "do_create",
+      "newbbs" : 0,
+      "numcolumn" : 16,
+      "numline" : 77,
+      "size" : 8,
+      "var_id" : 14906106,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/asn_moid.c:77:16",
+      "varlabel" : -1
+   },
+   "14906305" : {
+      "conditional_var_id" : 14906305,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/asn_moid.c",
+      "funname" : "do_create",
+      "newbbs" : 0,
+      "numcolumn" : 16,
+      "numline" : 80,
+      "size" : 8,
+      "var_id" : 14906305,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/asn_moid.c:80:16",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 4
+}

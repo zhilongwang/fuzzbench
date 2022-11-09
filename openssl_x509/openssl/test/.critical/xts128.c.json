@@ -1,0 +1,82 @@
+{
+   "16185869" : {
+      "conditional_var_id" : 16185869,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/modes/xts128.c",
+      "funname" : "CRYPTO_xts128_encrypt",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 36,
+      "size" : 32,
+      "var_id" : 16185869,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/modes/xts128.c:36:9",
+      "varlabel" : -1
+   },
+   "16186283" : {
+      "conditional_var_id" : 16186283,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/modes/xts128.c",
+      "funname" : "CRYPTO_xts128_encrypt",
+      "newbbs" : 0,
+      "numcolumn" : 10,
+      "numline" : 43,
+      "size" : 32,
+      "var_id" : 16186283,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/modes/xts128.c:43:10",
+      "varlabel" : -1
+   },
+   "16186400" : {
+      "conditional_var_id" : 16186400,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/modes/xts128.c",
+      "funname" : "CRYPTO_xts128_encrypt",
+      "newbbs" : 0,
+      "numcolumn" : 18,
+      "numline" : 43,
+      "size" : 32,
+      "var_id" : 16185869,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/modes/xts128.c:43:18",
+      "varlabel" : -1
+   },
+   "16186596" : {
+      "conditional_var_id" : 16186596,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/modes/xts128.c",
+      "funname" : "CRYPTO_xts128_encrypt",
+      "newbbs" : 0,
+      "numcolumn" : 12,
+      "numline" : 46,
+      "size" : 32,
+      "var_id" : 16185869,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/modes/xts128.c:46:12",
+      "varlabel" : -1
+   },
+   "16186676" : {
+      "conditional_var_id" : 16186676,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/modes/xts128.c",
+      "funname" : "CRYPTO_xts128_encrypt",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 68,
+      "size" : 32,
+      "var_id" : 16185869,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/modes/xts128.c:68:13",
+      "varlabel" : -1
+   },
+   "16186785" : {
+      "conditional_var_id" : 16186785,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/modes/xts128.c",
+      "funname" : "CRYPTO_xts128_encrypt",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 92,
+      "size" : 32,
+      "var_id" : 16186283,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/modes/xts128.c:92:9",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 6,
+   "variable_count" : 2
+}

@@ -1,0 +1,56 @@
+{
+   "4917543" : {
+      "conditional_var_id" : 4917543,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/ocsp/ocsp_lib.c",
+      "funname" : "OCSP_cert_id_new",
+      "newbbs" : 0,
+      "numcolumn" : 39,
+      "numline" : 62,
+      "size" : 32,
+      "var_id" : 4917543,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/ocsp/ocsp_lib.c:62:39",
+      "varlabel" : -1
+   },
+   "4918718" : {
+      "conditional_var_id" : 4918718,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/ocsp/ocsp_lib.c",
+      "funname" : "OCSP_id_issuer_cmp",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 96,
+      "size" : 32,
+      "var_id" : 4918718,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/ocsp/ocsp_lib.c:96:9",
+      "varlabel" : -1
+   },
+   "4919002" : {
+      "conditional_var_id" : 4919002,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/ocsp/ocsp_lib.c",
+      "funname" : "OCSP_id_issuer_cmp",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 99,
+      "size" : 32,
+      "var_id" : 4918718,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/ocsp/ocsp_lib.c:99:9",
+      "varlabel" : -1
+   },
+   "4919495" : {
+      "conditional_var_id" : 4919495,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/ocsp/ocsp_lib.c",
+      "funname" : "OCSP_id_cmp",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 108,
+      "size" : 32,
+      "var_id" : 4919495,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/ocsp/ocsp_lib.c:108:9",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 3
+}

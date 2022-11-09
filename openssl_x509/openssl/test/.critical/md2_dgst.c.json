@@ -1,0 +1,82 @@
+{
+   "11141281" : {
+      "conditional_var_id" : 11141281,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/md2/md2_dgst.c",
+      "funname" : "MD2_Update",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 90,
+      "size" : 32,
+      "var_id" : 11141281,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/md2/md2_dgst.c:90:9",
+      "varlabel" : -1
+   },
+   "11141665" : {
+      "conditional_var_id" : 11141665,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/md2/md2_dgst.c",
+      "funname" : "MD2_Update",
+      "newbbs" : 0,
+      "numcolumn" : 12,
+      "numline" : 94,
+      "size" : 32,
+      "var_id" : 11141665,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/md2/md2_dgst.c:94:12",
+      "varlabel" : -1
+   },
+   "11141775" : {
+      "conditional_var_id" : 11141775,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/md2/md2_dgst.c",
+      "funname" : "MD2_Update",
+      "newbbs" : 0,
+      "numcolumn" : 17,
+      "numline" : 95,
+      "size" : 32,
+      "var_id" : 11141775,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/md2/md2_dgst.c:95:17",
+      "varlabel" : -1
+   },
+   "11142011" : {
+      "conditional_var_id" : 11142011,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/md2/md2_dgst.c",
+      "funname" : "MD2_Update",
+      "newbbs" : 0,
+      "numcolumn" : 23,
+      "numline" : 95,
+      "size" : 32,
+      "var_id" : 11141281,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/md2/md2_dgst.c:95:23",
+      "varlabel" : -1
+   },
+   "11142175" : {
+      "conditional_var_id" : 11142175,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/md2/md2_dgst.c",
+      "funname" : "MD2_Update",
+      "newbbs" : 0,
+      "numcolumn" : 12,
+      "numline" : 113,
+      "size" : 32,
+      "var_id" : 11141281,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/md2/md2_dgst.c:113:12",
+      "varlabel" : -1
+   },
+   "11142603" : {
+      "conditional_var_id" : 11142603,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/md2/md2_dgst.c",
+      "funname" : "md2_block",
+      "newbbs" : 0,
+      "numcolumn" : 21,
+      "numline" : 140,
+      "size" : 32,
+      "var_id" : 11142603,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/md2/md2_dgst.c:140:21",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 6,
+   "variable_count" : 4
+}

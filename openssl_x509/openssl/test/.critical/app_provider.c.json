@@ -1,0 +1,17 @@
+{
+   "14882876" : {
+      "conditional_var_id" : 14882876,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/apps/lib/app_provider.c",
+      "funname" : "opt_provider_path",
+      "newbbs" : 0,
+      "numcolumn" : 25,
+      "numline" : 63,
+      "size" : 8,
+      "var_id" : 14882876,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/apps/lib/app_provider.c:63:25",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

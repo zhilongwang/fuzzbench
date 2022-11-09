@@ -1,0 +1,17 @@
+{
+   "2137062" : {
+      "conditional_var_id" : 2137062,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/macs/cmac_prov.c",
+      "funname" : "cmac_set_ctx_params",
+      "newbbs" : 0,
+      "numcolumn" : 16,
+      "numline" : 202,
+      "size" : 32,
+      "var_id" : 2137062,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/macs/cmac_prov.c:202:16",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

@@ -1,0 +1,69 @@
+{
+   "8891917" : {
+      "conditional_var_id" : 8891917,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp_example//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp_example/read_write.cpp",
+      "funname" : "_ZN9ReadWrite8ReadJsonEv",
+      "newbbs" : 0,
+      "numcolumn" : 26,
+      "numline" : 31,
+      "size" : 32,
+      "var_id" : 8891917,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp_example//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp_example/read_write.cpp:31:26",
+      "varlabel" : -1
+   },
+   "8897279" : {
+      "conditional_var_id" : 8897279,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp_example//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp_example/read_write.cpp",
+      "funname" : "_ZN9ReadWrite10OutputJsonERKN4Json5ValueERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 150,
+      "size" : 32,
+      "var_id" : 8897279,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp_example//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp_example/read_write.cpp:150:9",
+      "varlabel" : -1
+   },
+   "8897471" : {
+      "conditional_var_id" : 8897471,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp_example//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp_example/read_write.cpp",
+      "funname" : "_ZN9ReadWrite10OutputJsonERKN4Json5ValueERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE",
+      "newbbs" : 0,
+      "numcolumn" : 16,
+      "numline" : 152,
+      "size" : 32,
+      "var_id" : 8897279,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp_example//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp_example/read_write.cpp:152:16",
+      "varlabel" : -1
+   },
+   "8899956" : {
+      "conditional_var_id" : 8899956,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp_example//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/stl_vector.h",
+      "funname" : "_ZNSt12_Vector_baseINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE11_M_allocateEj",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 296,
+      "size" : 32,
+      "var_id" : 8899956,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp_example//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/stl_vector.h:296:9",
+      "varlabel" : -1
+   },
+   "8900264" : {
+      "conditional_var_id" : 8900264,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp_example//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/stl_algobase.h",
+      "funname" : "_ZSt3maxIjERKT_S2_S2_",
+      "newbbs" : 0,
+      "numcolumn" : 11,
+      "numline" : 224,
+      "size" : 32,
+      "var_id" : 8900264,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/jsoncpp_jsoncpp_fuzzer/jsoncpp_example//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/stl_algobase.h:224:11",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 5,
+   "variable_count" : 4
+}

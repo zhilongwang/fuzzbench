@@ -1,0 +1,30 @@
+{
+   "192132" : {
+      "conditional_var_id" : 192132,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/pkcs12/p12_p8e.c",
+      "funname" : "PKCS8_encrypt_ex",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 25,
+      "size" : 32,
+      "var_id" : 192132,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/pkcs12/p12_p8e.c:25:9",
+      "varlabel" : -1
+   },
+   "193078" : {
+      "conditional_var_id" : 193078,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/pkcs12/p12_p8e.c",
+      "funname" : "PKCS8_encrypt_ex",
+      "newbbs" : 0,
+      "numcolumn" : 44,
+      "numline" : 34,
+      "size" : 32,
+      "var_id" : 192132,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/pkcs12/p12_p8e.c:34:44",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 2,
+   "variable_count" : 1
+}

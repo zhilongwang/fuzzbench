@@ -1,0 +1,17 @@
+{
+   "7537622" : {
+      "conditional_var_id" : 7537622,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/sm2/sm2_err.c",
+      "funname" : "ossl_err_load_SM2_strings",
+      "newbbs" : 0,
+      "numcolumn" : 52,
+      "numline" : 43,
+      "size" : 32,
+      "var_id" : 7537622,
+      "variablename" : "SM2_str_reasons",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/sm2/sm2_err.c:43:52",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

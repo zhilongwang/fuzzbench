@@ -1,0 +1,30 @@
+{
+   "8620783" : {
+      "conditional_var_id" : 8620783,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libpng-1.2.56/libpng-1.2.56/pngrio.c",
+      "funname" : "png_default_read_data",
+      "newbbs" : 0,
+      "numcolumn" : 8,
+      "numline" : 68,
+      "size" : 32,
+      "var_id" : 8620783,
+      "variablename" : "check",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libpng-1.2.56/libpng-1.2.56/pngrio.c:68:8",
+      "varlabel" : -1
+   },
+   "8621123" : {
+      "conditional_var_id" : 8621123,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libpng-1.2.56/libpng-1.2.56/pngrio.c",
+      "funname" : "png_default_read_data",
+      "newbbs" : 0,
+      "numcolumn" : 17,
+      "numline" : 68,
+      "size" : 32,
+      "var_id" : 8621123,
+      "variablename" : "length",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libpng-1.2.56/libpng-1.2.56/pngrio.c:68:17",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 2,
+   "variable_count" : 2
+}

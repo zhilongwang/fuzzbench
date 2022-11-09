@@ -1,0 +1,56 @@
+{
+   "5410805" : {
+      "conditional_var_id" : 5410805,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libjpeg-turbo-07-2017/libjpeg-turbo/jdatasrc-tj.c",
+      "funname" : "jpeg_mem_src_tj",
+      "newbbs" : 0,
+      "numcolumn" : 27,
+      "numline" : 165,
+      "size" : 32,
+      "var_id" : 5410805,
+      "variablename" : "insize",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libjpeg-turbo-07-2017/libjpeg-turbo/jdatasrc-tj.c:165:27",
+      "varlabel" : -1
+   },
+   "5411662" : {
+      "conditional_var_id" : 5411662,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libjpeg-turbo-07-2017/libjpeg-turbo/jdatasrc-tj.c",
+      "funname" : "skip_input_data",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 115,
+      "size" : 32,
+      "var_id" : 5411662,
+      "variablename" : "num_bytes",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libjpeg-turbo-07-2017/libjpeg-turbo/jdatasrc-tj.c:115:7",
+      "varlabel" : -1
+   },
+   "5411799" : {
+      "conditional_var_id" : 5411799,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libjpeg-turbo-07-2017/libjpeg-turbo/jdatasrc-tj.c",
+      "funname" : "skip_input_data",
+      "newbbs" : 0,
+      "numcolumn" : 12,
+      "numline" : 116,
+      "size" : 32,
+      "var_id" : 5411662,
+      "variablename" : "num_bytes",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libjpeg-turbo-07-2017/libjpeg-turbo/jdatasrc-tj.c:116:12",
+      "varlabel" : -1
+   },
+   "5411932" : {
+      "conditional_var_id" : 5411932,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libjpeg-turbo-07-2017/libjpeg-turbo/jdatasrc-tj.c",
+      "funname" : "skip_input_data",
+      "newbbs" : 0,
+      "numcolumn" : 36,
+      "numline" : 116,
+      "size" : 32,
+      "var_id" : 5411932,
+      "variablename" : "src",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libjpeg-turbo-07-2017/libjpeg-turbo/jdatasrc-tj.c:116:36",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 3
+}

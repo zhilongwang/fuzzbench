@@ -1,0 +1,82 @@
+{
+   "9414502" : {
+      "conditional_var_id" : 9414502,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_chacha20.c",
+      "funname" : "ossl_chacha20_einit",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 156,
+      "size" : 32,
+      "var_id" : 9414502,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_chacha20.c:156:9",
+      "varlabel" : -1
+   },
+   "9415125" : {
+      "conditional_var_id" : 9415125,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_chacha20.c",
+      "funname" : "ossl_chacha20_einit",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 162,
+      "size" : 32,
+      "var_id" : 9414502,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_chacha20.c:162:9",
+      "varlabel" : -1
+   },
+   "9415906" : {
+      "conditional_var_id" : 9415906,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_chacha20.c",
+      "funname" : "chacha20_set_ctx_params",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 118,
+      "size" : 32,
+      "var_id" : 9415906,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_chacha20.c:118:13",
+      "varlabel" : -1
+   },
+   "9416195" : {
+      "conditional_var_id" : 9416195,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_chacha20.c",
+      "funname" : "chacha20_set_ctx_params",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 129,
+      "size" : 32,
+      "var_id" : 9415906,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_chacha20.c:129:13",
+      "varlabel" : -1
+   },
+   "9416805" : {
+      "conditional_var_id" : 9416805,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_chacha20.c",
+      "funname" : "ossl_chacha20_dinit",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 175,
+      "size" : 32,
+      "var_id" : 9416805,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_chacha20.c:175:9",
+      "varlabel" : -1
+   },
+   "9417038" : {
+      "conditional_var_id" : 9417038,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_chacha20.c",
+      "funname" : "ossl_chacha20_dinit",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 181,
+      "size" : 32,
+      "var_id" : 9416805,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_chacha20.c:181:9",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 6,
+   "variable_count" : 3
+}

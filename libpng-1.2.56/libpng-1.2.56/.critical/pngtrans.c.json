@@ -1,0 +1,17 @@
+{
+   "6392979" : {
+      "conditional_var_id" : 6392979,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libpng-1.2.56/libpng-1.2.56/pngtrans.c",
+      "funname" : "png_set_filler",
+      "newbbs" : 0,
+      "numcolumn" : 8,
+      "numline" : 126,
+      "size" : 32,
+      "var_id" : 6392979,
+      "variablename" : "filler_loc",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libpng-1.2.56/libpng-1.2.56/pngtrans.c:126:8",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

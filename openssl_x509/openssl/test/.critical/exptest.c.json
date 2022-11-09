@@ -1,0 +1,43 @@
+{
+   "1570727" : {
+      "conditional_var_id" : 1570727,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/exptest.c",
+      "funname" : "test_mod_exp_x2",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 226,
+      "size" : 32,
+      "var_id" : 1570727,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/exptest.c:226:9",
+      "varlabel" : -1
+   },
+   "1571435" : {
+      "conditional_var_id" : 1571435,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/exptest.c",
+      "funname" : "test_mod_exp_x2",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 228,
+      "size" : 32,
+      "var_id" : 1570727,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/exptest.c:228:14",
+      "varlabel" : -1
+   },
+   "1571666" : {
+      "conditional_var_id" : 1571666,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/exptest.c",
+      "funname" : "test_mod_exp_x2",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 230,
+      "size" : 32,
+      "var_id" : 1570727,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/exptest.c:230:14",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 1
+}

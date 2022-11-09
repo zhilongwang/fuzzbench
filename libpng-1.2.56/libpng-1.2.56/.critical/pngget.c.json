@@ -1,0 +1,56 @@
+{
+   "6090674" : {
+      "conditional_var_id" : 6090674,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libpng-1.2.56/libpng-1.2.56/pngget.c",
+      "funname" : "png_get_pixels_per_meter",
+      "newbbs" : 0,
+      "numcolumn" : 20,
+      "numline" : 169,
+      "size" : 32,
+      "var_id" : 6090674,
+      "variablename" : "info_ptr",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libpng-1.2.56/libpng-1.2.56/pngget.c:169:20",
+      "varlabel" : -1
+   },
+   "6091274" : {
+      "conditional_var_id" : 6091274,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libpng-1.2.56/libpng-1.2.56/pngget.c",
+      "funname" : "png_get_pixels_per_meter",
+      "newbbs" : 0,
+      "numcolumn" : 51,
+      "numline" : 169,
+      "size" : 32,
+      "var_id" : 6091274,
+      "variablename" : "info_ptr",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libpng-1.2.56/libpng-1.2.56/pngget.c:169:51",
+      "varlabel" : -1
+   },
+   "6091709" : {
+      "conditional_var_id" : 6091709,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libpng-1.2.56/libpng-1.2.56/pngget.c",
+      "funname" : "png_get_pixel_aspect_ratio",
+      "newbbs" : 0,
+      "numcolumn" : 21,
+      "numline" : 192,
+      "size" : 32,
+      "var_id" : 6091709,
+      "variablename" : "info_ptr",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libpng-1.2.56/libpng-1.2.56/pngget.c:192:21",
+      "varlabel" : -1
+   },
+   "6097573" : {
+      "conditional_var_id" : 6097573,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libpng-1.2.56/libpng-1.2.56/pngget.c",
+      "funname" : "png_get_text",
+      "newbbs" : 0,
+      "numcolumn" : 57,
+      "numline" : 767,
+      "size" : 32,
+      "var_id" : 6097573,
+      "variablename" : "info_ptr",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libpng-1.2.56/libpng-1.2.56/pngget.c:767:57",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 4
+}

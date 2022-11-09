@@ -1,0 +1,43 @@
+{
+   "1891952" : {
+      "conditional_var_id" : 1891952,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libjpeg-turbo-07-2017/libjpeg-turbo/jdatadst.c",
+      "funname" : "term_destination",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 178,
+      "size" : 32,
+      "var_id" : 1891952,
+      "variablename" : "datacount",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libjpeg-turbo-07-2017/libjpeg-turbo/jdatadst.c:178:7",
+      "varlabel" : -1
+   },
+   "1892409" : {
+      "conditional_var_id" : 1892409,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libjpeg-turbo-07-2017/libjpeg-turbo/jdatadst.c",
+      "funname" : "term_destination",
+      "newbbs" : 0,
+      "numcolumn" : 60,
+      "numline" : 179,
+      "size" : 32,
+      "var_id" : 1891952,
+      "variablename" : "datacount",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libjpeg-turbo-07-2017/libjpeg-turbo/jdatadst.c:179:60",
+      "varlabel" : -1
+   },
+   "1893008" : {
+      "conditional_var_id" : 1893008,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libjpeg-turbo-07-2017/libjpeg-turbo/jdatadst.c",
+      "funname" : "jpeg_mem_dest",
+      "newbbs" : 0,
+      "numcolumn" : 29,
+      "numline" : 282,
+      "size" : 32,
+      "var_id" : 1893008,
+      "variablename" : "outsize",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libjpeg-turbo-07-2017/libjpeg-turbo/jdatadst.c:282:29",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 2
+}

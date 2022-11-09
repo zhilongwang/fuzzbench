@@ -1,0 +1,56 @@
+{
+   "15472315" : {
+      "conditional_var_id" : 15472315,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/bio_ndef.c",
+      "funname" : "ndef_prefix",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 117,
+      "size" : 32,
+      "var_id" : 15472315,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/bio_ndef.c:117:9",
+      "varlabel" : -1
+   },
+   "15472684" : {
+      "conditional_var_id" : 15472684,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/bio_ndef.c",
+      "funname" : "ndef_prefix",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 119,
+      "size" : 32,
+      "var_id" : 15472315,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/bio_ndef.c:119:14",
+      "varlabel" : -1
+   },
+   "15473216" : {
+      "conditional_var_id" : 15473216,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/bio_ndef.c",
+      "funname" : "ndef_suffix",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 192,
+      "size" : 32,
+      "var_id" : 15473216,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/bio_ndef.c:192:9",
+      "varlabel" : -1
+   },
+   "15473320" : {
+      "conditional_var_id" : 15473320,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/bio_ndef.c",
+      "funname" : "ndef_suffix",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 194,
+      "size" : 32,
+      "var_id" : 15473216,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/bio_ndef.c:194:14",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 2
+}

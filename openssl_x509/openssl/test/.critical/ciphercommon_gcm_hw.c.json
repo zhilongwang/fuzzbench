@@ -1,0 +1,30 @@
+{
+   "1932422" : {
+      "conditional_var_id" : 1932422,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/ciphercommon_gcm_hw.c",
+      "funname" : "ossl_gcm_cipher_update",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 29,
+      "size" : 8,
+      "var_id" : 1932422,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/ciphercommon_gcm_hw.c:29:14",
+      "varlabel" : -1
+   },
+   "1933135" : {
+      "conditional_var_id" : 1933135,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/ciphercommon_gcm_hw.c",
+      "funname" : "ossl_gcm_cipher_final",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 41,
+      "size" : 8,
+      "var_id" : 1933135,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/ciphercommon_gcm_hw.c:41:14",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 2,
+   "variable_count" : 2
+}

@@ -1,0 +1,69 @@
+{
+   "4305230" : {
+      "conditional_var_id" : 4305230,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/poly1305/poly1305.c",
+      "funname" : "Poly1305_Update",
+      "newbbs" : 0,
+      "numcolumn" : 21,
+      "numline" : 481,
+      "size" : 32,
+      "var_id" : 4305230,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/poly1305/poly1305.c:481:21",
+      "varlabel" : -1
+   },
+   "4305821" : {
+      "conditional_var_id" : 4305821,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/poly1305/poly1305.c",
+      "funname" : "Poly1305_Update",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 483,
+      "size" : 32,
+      "var_id" : 4305821,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/poly1305/poly1305.c:483:13",
+      "varlabel" : -1
+   },
+   "4306031" : {
+      "conditional_var_id" : 4306031,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/poly1305/poly1305.c",
+      "funname" : "Poly1305_Update",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 499,
+      "size" : 32,
+      "var_id" : 4305821,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/poly1305/poly1305.c:499:9",
+      "varlabel" : -1
+   },
+   "4306145" : {
+      "conditional_var_id" : 4306145,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/poly1305/poly1305.c",
+      "funname" : "Poly1305_Update",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 504,
+      "size" : 32,
+      "var_id" : 4306145,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/poly1305/poly1305.c:504:9",
+      "varlabel" : -1
+   },
+   "4306680" : {
+      "conditional_var_id" : 4306680,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/poly1305/poly1305.c",
+      "funname" : "Poly1305_Final",
+      "newbbs" : 0,
+      "numcolumn" : 21,
+      "numline" : 518,
+      "size" : 32,
+      "var_id" : 4306680,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/poly1305/poly1305.c:518:21",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 5,
+   "variable_count" : 4
+}

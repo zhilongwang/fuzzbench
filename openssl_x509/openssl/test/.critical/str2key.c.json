@@ -1,0 +1,69 @@
+{
+   "13465879" : {
+      "conditional_var_id" : 13465879,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/des/str2key.c",
+      "funname" : "DES_string_to_key",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 29,
+      "size" : 32,
+      "var_id" : 13465879,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/des/str2key.c:29:14",
+      "varlabel" : -1
+   },
+   "13466785" : {
+      "conditional_var_id" : 13466785,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/des/str2key.c",
+      "funname" : "DES_string_to_2keys",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 57,
+      "size" : 32,
+      "var_id" : 13466785,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/des/str2key.c:57:14",
+      "varlabel" : -1
+   },
+   "13466955" : {
+      "conditional_var_id" : 13466955,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/des/str2key.c",
+      "funname" : "DES_string_to_2keys",
+      "newbbs" : 0,
+      "numcolumn" : 18,
+      "numline" : 58,
+      "size" : 32,
+      "var_id" : 13466785,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/des/str2key.c:58:18",
+      "varlabel" : -1
+   },
+   "13467103" : {
+      "conditional_var_id" : 13467103,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/des/str2key.c",
+      "funname" : "DES_string_to_2keys",
+      "newbbs" : 0,
+      "numcolumn" : 18,
+      "numline" : 66,
+      "size" : 32,
+      "var_id" : 13466785,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/des/str2key.c:66:18",
+      "varlabel" : -1
+   },
+   "13467319" : {
+      "conditional_var_id" : 13467319,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/des/str2key.c",
+      "funname" : "DES_string_to_2keys",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 72,
+      "size" : 32,
+      "var_id" : 13467319,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/des/str2key.c:72:9",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 5,
+   "variable_count" : 3
+}

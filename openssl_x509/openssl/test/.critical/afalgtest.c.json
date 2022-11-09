@@ -1,0 +1,17 @@
+{
+   "1299391" : {
+      "conditional_var_id" : 1299391,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/afalgtest.c",
+      "funname" : "test_afalg_aes_cbc",
+      "newbbs" : 0,
+      "numcolumn" : 10,
+      "numline" : 101,
+      "size" : 32,
+      "var_id" : 1299391,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/afalgtest.c:101:10",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

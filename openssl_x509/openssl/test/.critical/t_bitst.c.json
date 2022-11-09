@@ -1,0 +1,30 @@
+{
+   "4268665" : {
+      "conditional_var_id" : 4268665,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/t_bitst.c",
+      "funname" : "ASN1_BIT_STRING_name_print",
+      "newbbs" : 0,
+      "numcolumn" : 18,
+      "numline" : 23,
+      "size" : 8,
+      "var_id" : 4268665,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/t_bitst.c:23:18",
+      "varlabel" : -1
+   },
+   "4269397" : {
+      "conditional_var_id" : 4269397,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/t_bitst.c",
+      "funname" : "ASN1_BIT_STRING_set_asc",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 38,
+      "size" : 32,
+      "var_id" : 4269397,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/asn1/t_bitst.c:38:9",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 2,
+   "variable_count" : 2
+}

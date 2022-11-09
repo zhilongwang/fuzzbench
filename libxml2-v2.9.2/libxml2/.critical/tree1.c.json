@@ -1,0 +1,30 @@
+{
+   "10368194" : {
+      "conditional_var_id" : 10368194,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/doc/examples/tree1.c",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 56,
+      "size" : 32,
+      "var_id" : 10368194,
+      "variablename" : "argc",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/doc/examples/tree1.c:56:9",
+      "varlabel" : -1
+   },
+   "10369363" : {
+      "conditional_var_id" : 10369363,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/doc/examples/tree1.c",
+      "funname" : "print_element_names",
+      "newbbs" : 0,
+      "numcolumn" : 23,
+      "numline" : 36,
+      "size" : 32,
+      "var_id" : 10369363,
+      "variablename" : "cur_node",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/doc/examples/tree1.c:36:23",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 2,
+   "variable_count" : 2
+}

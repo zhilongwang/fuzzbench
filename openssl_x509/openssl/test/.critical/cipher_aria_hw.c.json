@@ -1,0 +1,56 @@
+{
+   "8198723" : {
+      "conditional_var_id" : 8198723,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_aria_hw.c",
+      "funname" : "cipher_hw_aria_initkey",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 20,
+      "size" : 8,
+      "var_id" : 8198723,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_aria_hw.c:20:14",
+      "varlabel" : -1
+   },
+   "8199220" : {
+      "conditional_var_id" : 8199220,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_aria_hw.c",
+      "funname" : "cipher_hw_aria_initkey",
+      "newbbs" : 0,
+      "numcolumn" : 22,
+      "numline" : 20,
+      "size" : 32,
+      "var_id" : 8199220,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_aria_hw.c:20:22",
+      "varlabel" : -1
+   },
+   "8199355" : {
+      "conditional_var_id" : 8199355,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_aria_hw.c",
+      "funname" : "cipher_hw_aria_initkey",
+      "newbbs" : 0,
+      "numcolumn" : 51,
+      "numline" : 20,
+      "size" : 32,
+      "var_id" : 8199220,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_aria_hw.c:20:51",
+      "varlabel" : -1
+   },
+   "8199459" : {
+      "conditional_var_id" : 8199459,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_aria_hw.c",
+      "funname" : "cipher_hw_aria_initkey",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 24,
+      "size" : 32,
+      "var_id" : 8199459,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_aria_hw.c:24:9",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 3
+}

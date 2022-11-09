@@ -1,0 +1,17 @@
+{
+   "13252033" : {
+      "conditional_var_id" : 13252033,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_sm4_gcm_hw.c",
+      "funname" : "hw_gcm_cipher_update",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 55,
+      "size" : 8,
+      "var_id" : 13252033,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/providers/implementations/ciphers/cipher_sm4_gcm_hw.c:55:14",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

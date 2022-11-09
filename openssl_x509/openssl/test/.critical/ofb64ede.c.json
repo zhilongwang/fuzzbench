@@ -1,0 +1,30 @@
+{
+   "12048054" : {
+      "conditional_var_id" : 12048054,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/des/ofb64ede.c",
+      "funname" : "DES_ede3_ofb64_encrypt",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 46,
+      "size" : 32,
+      "var_id" : 12048054,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/des/ofb64ede.c:46:13",
+      "varlabel" : -1
+   },
+   "12048669" : {
+      "conditional_var_id" : 12048669,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/des/ofb64ede.c",
+      "funname" : "DES_ede3_ofb64_encrypt",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 61,
+      "size" : 32,
+      "var_id" : 12048669,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/des/ofb64ede.c:61:9",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 2,
+   "variable_count" : 2
+}

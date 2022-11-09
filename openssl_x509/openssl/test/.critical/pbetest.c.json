@@ -1,0 +1,17 @@
+{
+   "13374608" : {
+      "conditional_var_id" : 13374608,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/pbetest.c",
+      "funname" : "test_pkcs5_pbe",
+      "newbbs" : 0,
+      "numcolumn" : 10,
+      "numline" : 101,
+      "size" : 32,
+      "var_id" : 13374608,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/pbetest.c:101:10",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

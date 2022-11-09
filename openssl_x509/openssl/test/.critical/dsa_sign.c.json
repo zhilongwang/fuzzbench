@@ -1,0 +1,56 @@
+{
+   "8268061" : {
+      "conditional_var_id" : 8268061,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/dsa/dsa_sign.c",
+      "funname" : "d2i_DSA_SIG",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 55,
+      "size" : 32,
+      "var_id" : 8268061,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/dsa/dsa_sign.c:55:9",
+      "varlabel" : -1
+   },
+   "8269370" : {
+      "conditional_var_id" : 8269370,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/dsa/dsa_sign.c",
+      "funname" : "DSA_size",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 129,
+      "size" : 32,
+      "var_id" : 8269370,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/dsa/dsa_sign.c:129:13",
+      "varlabel" : -1
+   },
+   "8270016" : {
+      "conditional_var_id" : 8270016,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/dsa/dsa_sign.c",
+      "funname" : "DSA_verify",
+      "newbbs" : 0,
+      "numcolumn" : 29,
+      "numline" : 198,
+      "size" : 32,
+      "var_id" : 8270016,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/dsa/dsa_sign.c:198:29",
+      "varlabel" : -1
+   },
+   "8270138" : {
+      "conditional_var_id" : 8270138,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/dsa/dsa_sign.c",
+      "funname" : "DSA_verify",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 202,
+      "size" : 32,
+      "var_id" : 8270138,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/dsa/dsa_sign.c:202:9",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 4
+}

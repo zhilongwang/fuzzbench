@@ -1,0 +1,43 @@
+{
+   "3860675" : {
+      "conditional_var_id" : 3860675,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/cipher_overhead_test.c",
+      "funname" : "cipher_overhead",
+      "newbbs" : 0,
+      "numcolumn" : 20,
+      "numline" : 41,
+      "size" : 32,
+      "var_id" : 3860675,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/cipher_overhead_test.c:41:20",
+      "varlabel" : -1
+   },
+   "3861328" : {
+      "conditional_var_id" : 3861328,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/cipher_overhead_test.c",
+      "funname" : "cipher_enabled",
+      "newbbs" : 0,
+      "numcolumn" : 16,
+      "numline" : 20,
+      "size" : 32,
+      "var_id" : 3861328,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/cipher_overhead_test.c:20:16",
+      "varlabel" : -1
+   },
+   "3861445" : {
+      "conditional_var_id" : 3861445,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/cipher_overhead_test.c",
+      "funname" : "cipher_enabled",
+      "newbbs" : 0,
+      "numcolumn" : 15,
+      "numline" : 23,
+      "size" : 32,
+      "var_id" : 3861445,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/cipher_overhead_test.c:23:15",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 3
+}

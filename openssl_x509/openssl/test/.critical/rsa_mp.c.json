@@ -1,0 +1,56 @@
+{
+   "14512830" : {
+      "conditional_var_id" : 14512830,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/rsa/rsa_mp.c",
+      "funname" : "ossl_rsa_multip_cap",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 104,
+      "size" : 32,
+      "var_id" : 14512830,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/rsa/rsa_mp.c:104:9",
+      "varlabel" : -1
+   },
+   "14513174" : {
+      "conditional_var_id" : 14513174,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/rsa/rsa_mp.c",
+      "funname" : "ossl_rsa_multip_cap",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 106,
+      "size" : 32,
+      "var_id" : 14512830,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/rsa/rsa_mp.c:106:14",
+      "varlabel" : -1
+   },
+   "14513279" : {
+      "conditional_var_id" : 14513279,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/rsa/rsa_mp.c",
+      "funname" : "ossl_rsa_multip_cap",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 108,
+      "size" : 32,
+      "var_id" : 14512830,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/rsa/rsa_mp.c:108:14",
+      "varlabel" : -1
+   },
+   "14513409" : {
+      "conditional_var_id" : 14513409,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/rsa/rsa_mp.c",
+      "funname" : "ossl_rsa_multip_cap",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 111,
+      "size" : 32,
+      "var_id" : 14513409,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/rsa/rsa_mp.c:111:9",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 2
+}

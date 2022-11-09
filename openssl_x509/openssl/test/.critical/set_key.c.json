@@ -1,0 +1,17 @@
+{
+   "13563833" : {
+      "conditional_var_id" : 13563833,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/des/set_key.c",
+      "funname" : "DES_set_key_unchecked",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 359,
+      "size" : 64,
+      "var_id" : 13563833,
+      "variablename" : "DES_set_key_unchecked.shifts2",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/des/set_key.c:359:13",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

@@ -1,0 +1,69 @@
+{
+   "11016200" : {
+      "conditional_var_id" : 11016200,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/python/types.c",
+      "funname" : "libxml_xmlXPathObjectPtrWrap",
+      "newbbs" : 0,
+      "numcolumn" : 21,
+      "numline" : 427,
+      "size" : 32,
+      "var_id" : 11016200,
+      "variablename" : "obj",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/python/types.c:427:21",
+      "varlabel" : -1
+   },
+   "11017000" : {
+      "conditional_var_id" : 11017000,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/python/types.c",
+      "funname" : "libxml_xmlXPathObjectPtrWrap",
+      "newbbs" : 0,
+      "numcolumn" : 38,
+      "numline" : 453,
+      "size" : 32,
+      "var_id" : 11017000,
+      "variablename" : "obj",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/python/types.c:453:38",
+      "varlabel" : -1
+   },
+   "11017277" : {
+      "conditional_var_id" : 11017277,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/python/types.c",
+      "funname" : "libxml_xmlXPathObjectPtrWrap",
+      "newbbs" : 0,
+      "numcolumn" : 31,
+      "numline" : 462,
+      "size" : 32,
+      "var_id" : 11017277,
+      "variablename" : "node",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/python/types.c:462:31",
+      "varlabel" : -1
+   },
+   "11017939" : {
+      "conditional_var_id" : 11017939,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/python/types.c",
+      "funname" : "libxml_xmlXPathObjectPtrWrap",
+      "newbbs" : 0,
+      "numcolumn" : 18,
+      "numline" : 506,
+      "size" : 16,
+      "var_id" : 11017939,
+      "variablename" : "bCollapsedRange",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/python/types.c:506:18",
+      "varlabel" : -1
+   },
+   "11018443" : {
+      "conditional_var_id" : 11018443,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/python/types.c",
+      "funname" : "libxml_xmlXPathObjectPtrWrap",
+      "newbbs" : 0,
+      "numcolumn" : 30,
+      "numline" : 559,
+      "size" : 32,
+      "var_id" : 11018443,
+      "variablename" : "set",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/python/types.c:559:30",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 5,
+   "variable_count" : 5
+}

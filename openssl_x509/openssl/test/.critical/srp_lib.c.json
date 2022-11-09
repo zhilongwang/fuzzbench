@@ -1,0 +1,17 @@
+{
+   "10228519" : {
+      "conditional_var_id" : 10228519,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/srp/srp_lib.c",
+      "funname" : "srp_Calc_xy",
+      "newbbs" : 0,
+      "numcolumn" : 16,
+      "numline" : 42,
+      "size" : 32,
+      "var_id" : 10228519,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/srp/srp_lib.c:42:16",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

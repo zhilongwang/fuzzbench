@@ -1,0 +1,17 @@
+{
+   "6828078" : {
+      "conditional_var_id" : 6828078,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/pem/pem_err.c",
+      "funname" : "ossl_err_load_PEM_strings",
+      "newbbs" : 0,
+      "numcolumn" : 52,
+      "numline" : 70,
+      "size" : 32,
+      "var_id" : 6828078,
+      "variablename" : "PEM_str_reasons",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/pem/pem_err.c:70:52",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

@@ -1,0 +1,17 @@
+{
+   "10170555" : {
+      "conditional_var_id" : 10170555,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/rc5/rc5_ecb.c",
+      "funname" : "RC5_32_ecb_encrypt",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 29,
+      "size" : 32,
+      "var_id" : 10170555,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/rc5/rc5_ecb.c:29:9",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

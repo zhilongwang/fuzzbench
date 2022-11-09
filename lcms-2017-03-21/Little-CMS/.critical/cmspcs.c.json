@@ -1,0 +1,82 @@
+{
+   "7036644" : {
+      "conditional_var_id" : 7036644,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/src/cmspcs.c",
+      "funname" : "_cmsReasonableGridpointsByColorspace",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 674,
+      "size" : 32,
+      "var_id" : 7036644,
+      "variablename" : "nChannels",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/src/cmspcs.c:674:13",
+      "varlabel" : -1
+   },
+   "7037157" : {
+      "conditional_var_id" : 7037157,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/src/cmspcs.c",
+      "funname" : "_cmsReasonableGridpointsByColorspace",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 677,
+      "size" : 32,
+      "var_id" : 7036644,
+      "variablename" : "nChannels",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/src/cmspcs.c:677:13",
+      "varlabel" : -1
+   },
+   "7037312" : {
+      "conditional_var_id" : 7037312,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/src/cmspcs.c",
+      "funname" : "_cmsReasonableGridpointsByColorspace",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 687,
+      "size" : 32,
+      "var_id" : 7036644,
+      "variablename" : "nChannels",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/src/cmspcs.c:687:13",
+      "varlabel" : -1
+   },
+   "7037456" : {
+      "conditional_var_id" : 7037456,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/src/cmspcs.c",
+      "funname" : "_cmsReasonableGridpointsByColorspace",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 690,
+      "size" : 32,
+      "var_id" : 7036644,
+      "variablename" : "nChannels",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/src/cmspcs.c:690:13",
+      "varlabel" : -1
+   },
+   "7037663" : {
+      "conditional_var_id" : 7037663,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/src/cmspcs.c",
+      "funname" : "_cmsReasonableGridpointsByColorspace",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 697,
+      "size" : 32,
+      "var_id" : 7036644,
+      "variablename" : "nChannels",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/src/cmspcs.c:697:9",
+      "varlabel" : -1
+   },
+   "7037897" : {
+      "conditional_var_id" : 7037897,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/src/cmspcs.c",
+      "funname" : "_cmsReasonableGridpointsByColorspace",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 700,
+      "size" : 32,
+      "var_id" : 7036644,
+      "variablename" : "nChannels",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/src/cmspcs.c:700:9",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 6,
+   "variable_count" : 1
+}

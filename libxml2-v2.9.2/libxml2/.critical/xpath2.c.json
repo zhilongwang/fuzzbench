@@ -1,0 +1,30 @@
+{
+   "11478654" : {
+      "conditional_var_id" : 11478654,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/doc/examples/xpath2.c",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 34,
+      "size" : 32,
+      "var_id" : 11478654,
+      "variablename" : "argc",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/doc/examples/xpath2.c:34:9",
+      "varlabel" : -1
+   },
+   "11487815" : {
+      "conditional_var_id" : 11487815,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/doc/examples/xpath2.c",
+      "funname" : "update_xpath_nodes",
+      "newbbs" : 0,
+      "numcolumn" : 25,
+      "numline" : 180,
+      "size" : 32,
+      "var_id" : 11487815,
+      "variablename" : "nodes",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/doc/examples/xpath2.c:180:25",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 2,
+   "variable_count" : 2
+}

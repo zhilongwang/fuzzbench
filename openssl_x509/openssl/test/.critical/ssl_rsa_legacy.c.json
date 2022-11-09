@@ -1,0 +1,82 @@
+{
+   "13524969" : {
+      "conditional_var_id" : 13524969,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/ssl/ssl_rsa_legacy.c",
+      "funname" : "SSL_use_RSAPrivateKey_file",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 59,
+      "size" : 32,
+      "var_id" : 13524969,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/ssl/ssl_rsa_legacy.c:59:9",
+      "varlabel" : -1
+   },
+   "13525395" : {
+      "conditional_var_id" : 13525395,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/ssl/ssl_rsa_legacy.c",
+      "funname" : "SSL_use_RSAPrivateKey_file",
+      "newbbs" : 0,
+      "numcolumn" : 16,
+      "numline" : 62,
+      "size" : 32,
+      "var_id" : 13524969,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/ssl/ssl_rsa_legacy.c:62:16",
+      "varlabel" : -1
+   },
+   "13525666" : {
+      "conditional_var_id" : 13525666,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/ssl/ssl_rsa_legacy.c",
+      "funname" : "SSL_use_RSAPrivateKey_ASN1",
+      "newbbs" : 0,
+      "numcolumn" : 50,
+      "numline" : 89,
+      "size" : 32,
+      "var_id" : 13525666,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/ssl/ssl_rsa_legacy.c:89:50",
+      "varlabel" : -1
+   },
+   "13526169" : {
+      "conditional_var_id" : 13526169,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/ssl/ssl_rsa_legacy.c",
+      "funname" : "SSL_CTX_use_RSAPrivateKey_file",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 141,
+      "size" : 32,
+      "var_id" : 13526169,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/ssl/ssl_rsa_legacy.c:141:9",
+      "varlabel" : -1
+   },
+   "13526307" : {
+      "conditional_var_id" : 13526307,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/ssl/ssl_rsa_legacy.c",
+      "funname" : "SSL_CTX_use_RSAPrivateKey_file",
+      "newbbs" : 0,
+      "numcolumn" : 16,
+      "numline" : 144,
+      "size" : 32,
+      "var_id" : 13526169,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/ssl/ssl_rsa_legacy.c:144:16",
+      "varlabel" : -1
+   },
+   "13526585" : {
+      "conditional_var_id" : 13526585,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/ssl/ssl_rsa_legacy.c",
+      "funname" : "SSL_CTX_use_RSAPrivateKey_ASN1",
+      "newbbs" : 0,
+      "numcolumn" : 50,
+      "numline" : 172,
+      "size" : 32,
+      "var_id" : 13526585,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/ssl/ssl_rsa_legacy.c:172:50",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 6,
+   "variable_count" : 4
+}

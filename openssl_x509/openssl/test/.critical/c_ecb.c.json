@@ -1,0 +1,17 @@
+{
+   "999467" : {
+      "conditional_var_id" : 999467,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/cast/c_ecb.c",
+      "funname" : "CAST_ecb_encrypt",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 29,
+      "size" : 32,
+      "var_id" : 999467,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/cast/c_ecb.c:29:9",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

@@ -1,0 +1,43 @@
+{
+   "10349414" : {
+      "conditional_var_id" : 10349414,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/doc/examples/reader3.c",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 79,
+      "size" : 32,
+      "var_id" : 10349414,
+      "variablename" : "argc",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/doc/examples/reader3.c:79:9",
+      "varlabel" : -1
+   },
+   "10351515" : {
+      "conditional_var_id" : 10351515,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/doc/examples/reader3.c",
+      "funname" : "extractFile",
+      "newbbs" : 0,
+      "numcolumn" : 16,
+      "numline" : 51,
+      "size" : 32,
+      "var_id" : 10351515,
+      "variablename" : "ret",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/doc/examples/reader3.c:51:16",
+      "varlabel" : -1
+   },
+   "10351849" : {
+      "conditional_var_id" : 10351849,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/doc/examples/reader3.c",
+      "funname" : "extractFile",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 54,
+      "size" : 32,
+      "var_id" : 10351515,
+      "variablename" : "ret",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/libxml2-v2.9.2/libxml2/doc/examples/reader3.c:54:13",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 2
+}

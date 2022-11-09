@@ -1,0 +1,56 @@
+{
+   "11088636" : {
+      "conditional_var_id" : 11088636,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/src/cmsgmt.c",
+      "funname" : "_cmsChain2Lab",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 52,
+      "size" : 32,
+      "var_id" : 11088636,
+      "variablename" : "nProfiles",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/src/cmsgmt.c:52:9",
+      "varlabel" : -1
+   },
+   "11091202" : {
+      "conditional_var_id" : 11091202,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/src/cmsgmt.c",
+      "funname" : "_cmsCreateGamutCheckPipeline",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 311,
+      "size" : 32,
+      "var_id" : 11091202,
+      "variablename" : "nGamutPCSposition",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/src/cmsgmt.c:311:9",
+      "varlabel" : -1
+   },
+   "11091356" : {
+      "conditional_var_id" : 11091356,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/src/cmsgmt.c",
+      "funname" : "_cmsCreateGamutCheckPipeline",
+      "newbbs" : 0,
+      "numcolumn" : 35,
+      "numline" : 311,
+      "size" : 32,
+      "var_id" : 11091202,
+      "variablename" : "nGamutPCSposition",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/src/cmsgmt.c:311:35",
+      "varlabel" : -1
+   },
+   "11093144" : {
+      "conditional_var_id" : 11093144,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/src/cmsgmt.c",
+      "funname" : "cmsDetectTAC",
+      "newbbs" : 0,
+      "numcolumn" : 12,
+      "numline" : 479,
+      "size" : 32,
+      "var_id" : 11093144,
+      "variablename" : "bp",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/lcms-2017-03-21/Little-CMS/src/cmsgmt.c:479:12",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 3
+}

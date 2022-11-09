@@ -1,0 +1,17 @@
+{
+   "7685055" : {
+      "conditional_var_id" : 7685055,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/ess/ess_err.c",
+      "funname" : "ossl_err_load_ESS_strings",
+      "newbbs" : 0,
+      "numcolumn" : 52,
+      "numline" : 44,
+      "size" : 32,
+      "var_id" : 7685055,
+      "variablename" : "ESS_str_reasons",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/ess/ess_err.c:44:52",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

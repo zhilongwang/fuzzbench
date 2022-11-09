@@ -1,0 +1,56 @@
+{
+   "905392" : {
+      "conditional_var_id" : 905392,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/pkey_meth_test.c",
+      "funname" : "test_asn1_meths",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 33,
+      "size" : 32,
+      "var_id" : 905392,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/pkey_meth_test.c:33:13",
+      "varlabel" : -1
+   },
+   "905840" : {
+      "conditional_var_id" : 905840,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/pkey_meth_test.c",
+      "funname" : "test_asn1_meths",
+      "newbbs" : 0,
+      "numcolumn" : 10,
+      "numline" : 38,
+      "size" : 32,
+      "var_id" : 905840,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/pkey_meth_test.c:38:10",
+      "varlabel" : -1
+   },
+   "906424" : {
+      "conditional_var_id" : 906424,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/pkey_meth_test.c",
+      "funname" : "test_pkey_meths",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 66,
+      "size" : 32,
+      "var_id" : 906424,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/pkey_meth_test.c:66:13",
+      "varlabel" : -1
+   },
+   "906608" : {
+      "conditional_var_id" : 906608,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/pkey_meth_test.c",
+      "funname" : "test_pkey_meths",
+      "newbbs" : 0,
+      "numcolumn" : 10,
+      "numline" : 71,
+      "size" : 32,
+      "var_id" : 906608,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/pkey_meth_test.c:71:10",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 4
+}

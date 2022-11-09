@@ -1,0 +1,17 @@
+{
+   "11278754" : {
+      "conditional_var_id" : 11278754,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/threadstest_fips.c",
+      "funname" : "test_fips_rand_leak",
+      "newbbs" : 0,
+      "numcolumn" : 10,
+      "numline" : 36,
+      "size" : 32,
+      "var_id" : 11278754,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/test/threadstest_fips.c:36:10",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

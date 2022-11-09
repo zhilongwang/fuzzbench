@@ -1,0 +1,43 @@
+{
+   "448185" : {
+      "conditional_var_id" : 448185,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/evp/mac_lib.c",
+      "funname" : "evp_mac_final",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 155,
+      "size" : 32,
+      "var_id" : 448185,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/evp/mac_lib.c:155:9",
+      "varlabel" : -1
+   },
+   "448646" : {
+      "conditional_var_id" : 448646,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/evp/mac_lib.c",
+      "funname" : "evp_mac_final",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 159,
+      "size" : 32,
+      "var_id" : 448646,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/evp/mac_lib.c:159:9",
+      "varlabel" : -1
+   },
+   "449760" : {
+      "conditional_var_id" : 449760,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/evp/mac_lib.c",
+      "funname" : "EVP_Q_mac",
+      "newbbs" : 0,
+      "numcolumn" : 24,
+      "numline" : 279,
+      "size" : 32,
+      "var_id" : 449760,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/evp/mac_lib.c:279:24",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 3
+}

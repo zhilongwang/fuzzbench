@@ -1,0 +1,30 @@
+{
+   "5484831" : {
+      "conditional_var_id" : 5484831,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/evp/p_sign.c",
+      "funname" : "EVP_SignFinal_ex",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 40,
+      "size" : 32,
+      "var_id" : 5484831,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/evp/p_sign.c:40:13",
+      "varlabel" : -1
+   },
+   "5485344" : {
+      "conditional_var_id" : 5485344,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/evp/p_sign.c",
+      "funname" : "EVP_SignFinal_ex",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 43,
+      "size" : 32,
+      "var_id" : 5484831,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openssl_x509/openssl/crypto/evp/p_sign.c:43:14",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 2,
+   "variable_count" : 1
+}
