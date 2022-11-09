@@ -1,0 +1,43 @@
+{
+   "270453" : {
+      "conditional_var_id" : 270453,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/vorbis-2017-12-11/decode_fuzzer.cc",
+      "funname" : "LLVMFuzzerTestOneInput",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 33,
+      "size" : 32,
+      "var_id" : 270453,
+      "variablename" : "result",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/vorbis-2017-12-11/decode_fuzzer.cc:33:7",
+      "varlabel" : -1
+   },
+   "271177" : {
+      "conditional_var_id" : 271177,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/vorbis-2017-12-11/decode_fuzzer.cc",
+      "funname" : "LLVMFuzzerTestOneInput",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 42,
+      "size" : 32,
+      "var_id" : 271177,
+      "variablename" : "read_result",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/vorbis-2017-12-11/decode_fuzzer.cc:42:9",
+      "varlabel" : -1
+   },
+   "271385" : {
+      "conditional_var_id" : 271385,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/vorbis-2017-12-11/decode_fuzzer.cc",
+      "funname" : "LLVMFuzzerTestOneInput",
+      "newbbs" : 0,
+      "numcolumn" : 35,
+      "numline" : 42,
+      "size" : 32,
+      "var_id" : 271177,
+      "variablename" : "read_result",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/vorbis-2017-12-11/decode_fuzzer.cc:42:35",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 2
+}

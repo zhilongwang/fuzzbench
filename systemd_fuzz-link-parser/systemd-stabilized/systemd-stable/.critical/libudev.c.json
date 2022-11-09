@@ -1,0 +1,56 @@
+{
+   "11624803" : {
+      "conditional_var_id" : 11624803,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libudev/libudev.c",
+      "funname" : "udev_new",
+      "newbbs" : 0,
+      "numcolumn" : 29,
+      "numline" : 168,
+      "size" : 32,
+      "var_id" : 11624803,
+      "variablename" : "len",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libudev/libudev.c:168:29",
+      "varlabel" : -1
+   },
+   "11625971" : {
+      "conditional_var_id" : 11625971,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libudev/libudev.c",
+      "funname" : "udev_new",
+      "newbbs" : 0,
+      "numcolumn" : 29,
+      "numline" : 176,
+      "size" : 32,
+      "var_id" : 11624803,
+      "variablename" : "len",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libudev/libudev.c:176:29",
+      "varlabel" : -1
+   },
+   "11626300" : {
+      "conditional_var_id" : 11626300,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libudev/libudev.c",
+      "funname" : "udev_new",
+      "newbbs" : 0,
+      "numcolumn" : 29,
+      "numline" : 182,
+      "size" : 32,
+      "var_id" : 11624803,
+      "variablename" : "len",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libudev/libudev.c:182:29",
+      "varlabel" : -1
+   },
+   "11628552" : {
+      "conditional_var_id" : 11628552,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libudev/libudev.c",
+      "funname" : "udev_unref",
+      "newbbs" : 0,
+      "numcolumn" : 19,
+      "numline" : 241,
+      "size" : 32,
+      "var_id" : 11628552,
+      "variablename" : "udev",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libudev/libudev.c:241:19",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 2
+}

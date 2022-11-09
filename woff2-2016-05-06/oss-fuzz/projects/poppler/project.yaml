@@ -1,0 +1,10 @@
+homepage: https://poppler.freedesktop.org/
+language: c++
+primary_contact: tsdgeos@gmail.com
+sanitizers:
+  - address
+  - memory
+  - undefined
+auto_ccs:
+  - jonathan@titanous.com
+  - adam.reichold@t-online.de

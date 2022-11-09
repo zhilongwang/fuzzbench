@@ -1,0 +1,43 @@
+{
+   "1994020" : {
+      "conditional_var_id" : 1994020,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/md.c",
+      "funname" : "mbedtls_md_setup",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 230,
+      "size" : 32,
+      "var_id" : 1994020,
+      "variablename" : "hmac",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/md.c:230:9",
+      "varlabel" : -1
+   },
+   "1998802" : {
+      "conditional_var_id" : 1998802,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/md.c",
+      "funname" : "mbedtls_md_hmac_starts",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 329,
+      "size" : 32,
+      "var_id" : 1998802,
+      "variablename" : "keylen",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/md.c:329:9",
+      "varlabel" : -1
+   },
+   "1999191" : {
+      "conditional_var_id" : 1999191,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/md.c",
+      "funname" : "mbedtls_md_hmac_starts",
+      "newbbs" : 0,
+      "numcolumn" : 41,
+      "numline" : 329,
+      "size" : 32,
+      "var_id" : 1999191,
+      "variablename" : "ctx",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/md.c:329:41",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 3
+}

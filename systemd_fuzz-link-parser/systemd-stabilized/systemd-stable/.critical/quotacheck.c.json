@@ -1,0 +1,56 @@
+{
+   "14125167" : {
+      "conditional_var_id" : 14125167,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/quotacheck/quotacheck.c",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 78,
+      "size" : 32,
+      "var_id" : 14125167,
+      "variablename" : "argc",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/quotacheck/quotacheck.c:78:13",
+      "varlabel" : -1
+   },
+   "14126436" : {
+      "conditional_var_id" : 14126436,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/quotacheck/quotacheck.c",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 101,
+      "size" : 32,
+      "var_id" : 14126436,
+      "variablename" : "pid",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/quotacheck/quotacheck.c:101:13",
+      "varlabel" : -1
+   },
+   "14127102" : {
+      "conditional_var_id" : 14127102,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/quotacheck/quotacheck.c",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 20,
+      "numline" : 104,
+      "size" : 32,
+      "var_id" : 14126436,
+      "variablename" : "pid",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/quotacheck/quotacheck.c:104:20",
+      "varlabel" : -1
+   },
+   "14127765" : {
+      "conditional_var_id" : 14127765,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/quotacheck/quotacheck.c",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 17,
+      "numline" : 106,
+      "size" : 32,
+      "var_id" : 14127765,
+      "variablename" : "cmdline",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/quotacheck/quotacheck.c:106:17",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 3
+}

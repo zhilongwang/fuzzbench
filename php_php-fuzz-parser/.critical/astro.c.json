@@ -1,0 +1,17 @@
+{
+   "8364086" : {
+      "conditional_var_id" : 8364086,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/ext/date/lib/astro.c",
+      "funname" : "timelib_astro_rise_set_altitude",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 259,
+      "size" : 32,
+      "var_id" : 8364086,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/ext/date/lib/astro.c:259:6",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

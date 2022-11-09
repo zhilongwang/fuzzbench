@@ -1,0 +1,82 @@
+{
+   "1422294" : {
+      "conditional_var_id" : 1422294,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/network/networkd-address-pool.c",
+      "funname" : "address_pool_new_from_string",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 69,
+      "size" : 32,
+      "var_id" : 1422294,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/network/networkd-address-pool.c:69:13",
+      "varlabel" : -1
+   },
+   "1424764" : {
+      "conditional_var_id" : 1424764,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/network/networkd-address-pool.c",
+      "funname" : "address_pool_acquire",
+      "newbbs" : 0,
+      "numcolumn" : 16,
+      "numline" : 143,
+      "size" : 32,
+      "var_id" : 1424764,
+      "variablename" : "p",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/network/networkd-address-pool.c:143:16",
+      "varlabel" : -1
+   },
+   "1424941" : {
+      "conditional_var_id" : 1424941,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/network/networkd-address-pool.c",
+      "funname" : "address_pool_acquire",
+      "newbbs" : 0,
+      "numcolumn" : 28,
+      "numline" : 143,
+      "size" : 32,
+      "var_id" : 1424941,
+      "variablename" : "prefixlen",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/network/networkd-address-pool.c:143:28",
+      "varlabel" : -1
+   },
+   "1427067" : {
+      "conditional_var_id" : 1427067,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/network/networkd-address-pool.c",
+      "funname" : "address_pool_prefix_is_taken",
+      "newbbs" : 0,
+      "numcolumn" : 45,
+      "numline" : 103,
+      "size" : 32,
+      "var_id" : 1427067,
+      "variablename" : "p",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/network/networkd-address-pool.c:103:45",
+      "varlabel" : -1
+   },
+   "1427449" : {
+      "conditional_var_id" : 1427449,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/network/networkd-address-pool.c",
+      "funname" : "address_pool_prefix_is_taken",
+      "newbbs" : 0,
+      "numcolumn" : 45,
+      "numline" : 112,
+      "size" : 32,
+      "var_id" : 1427449,
+      "variablename" : "p",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/network/networkd-address-pool.c:112:45",
+      "varlabel" : -1
+   },
+   "1427930" : {
+      "conditional_var_id" : 1427930,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/network/networkd-address-pool.c",
+      "funname" : "address_pool_prefix_is_taken",
+      "newbbs" : 0,
+      "numcolumn" : 45,
+      "numline" : 125,
+      "size" : 32,
+      "var_id" : 1427930,
+      "variablename" : "p",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/network/networkd-address-pool.c:125:45",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 6,
+   "variable_count" : 6
+}

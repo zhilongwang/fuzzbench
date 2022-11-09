@@ -1,0 +1,17 @@
+{
+   "6779483" : {
+      "conditional_var_id" : 6779483,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/Zend/zend_llist.c",
+      "funname" : "zend_llist_sort",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 203,
+      "size" : 32,
+      "var_id" : 6779483,
+      "variablename" : "l",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/Zend/zend_llist.c:203:9",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

@@ -1,0 +1,56 @@
+{
+   "7446724" : {
+      "conditional_var_id" : 7446724,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/pk.c",
+      "funname" : "pk_hashlen_helper",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 192,
+      "size" : 32,
+      "var_id" : 7446724,
+      "variablename" : "hash_len",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/pk.c:192:9",
+      "varlabel" : -1
+   },
+   "7449657" : {
+      "conditional_var_id" : 7449657,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/pk.c",
+      "funname" : "mbedtls_pk_verify_ext",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 294,
+      "size" : 32,
+      "var_id" : 7449657,
+      "variablename" : "type",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/pk.c:294:9",
+      "varlabel" : -1
+   },
+   "7453089" : {
+      "conditional_var_id" : 7453089,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/pk.c",
+      "funname" : "mbedtls_pk_check_pair",
+      "newbbs" : 0,
+      "numcolumn" : 23,
+      "numline" : 442,
+      "size" : 32,
+      "var_id" : 7453089,
+      "variablename" : "prv",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/pk.c:442:23",
+      "varlabel" : -1
+   },
+   "7453473" : {
+      "conditional_var_id" : 7453473,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/pk.c",
+      "funname" : "mbedtls_pk_check_pair",
+      "newbbs" : 0,
+      "numcolumn" : 27,
+      "numline" : 444,
+      "size" : 32,
+      "var_id" : 7453473,
+      "variablename" : "pub",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/pk.c:444:27",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 4
+}

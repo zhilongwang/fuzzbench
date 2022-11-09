@@ -1,0 +1,16 @@
+homepage: "https://hg.mozilla.org/mozilla-central/file/tip/gfx/qcms/"
+language: c++
+primary_contact: "twsmith@mozilla.com"
+auto_ccs:
+  - "aosmond@mozilla.com"
+  - "jmuizelaar@mozilla.com"
+fuzzing_engines:
+  - libfuzzer
+  - afl
+  - honggfuzz
+  - dataflow
+sanitizers:
+  - address
+  - undefined
+  - memory
+  - dataflow

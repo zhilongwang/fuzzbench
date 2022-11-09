@@ -1,0 +1,82 @@
+{
+   "15000469" : {
+      "conditional_var_id" : 15000469,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/tests/fuzz/fuzzer_platform.c",
+      "funname" : "FuzzerPlatformProcess",
+      "newbbs" : 0,
+      "numcolumn" : 38,
+      "numline" : 68,
+      "size" : 32,
+      "var_id" : 15000469,
+      "variablename" : "fire",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/tests/fuzz/fuzzer_platform.c:68:38",
+      "varlabel" : -1
+   },
+   "15001623" : {
+      "conditional_var_id" : 15001623,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/tests/fuzz/fuzzer_platform.c",
+      "funname" : "FuzzerPlatformProcess",
+      "newbbs" : 0,
+      "numcolumn" : 57,
+      "numline" : 68,
+      "size" : 32,
+      "var_id" : 15001623,
+      "variablename" : "sAlarmMilli",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/tests/fuzz/fuzzer_platform.c:68:57",
+      "varlabel" : -1
+   },
+   "15002230" : {
+      "conditional_var_id" : 15002230,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/tests/fuzz/fuzzer_platform.c",
+      "funname" : "FuzzerPlatformProcess",
+      "newbbs" : 0,
+      "numcolumn" : 38,
+      "numline" : 73,
+      "size" : 32,
+      "var_id" : 15000469,
+      "variablename" : "fire",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/tests/fuzz/fuzzer_platform.c:73:38",
+      "varlabel" : -1
+   },
+   "15002677" : {
+      "conditional_var_id" : 15002677,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/tests/fuzz/fuzzer_platform.c",
+      "funname" : "FuzzerPlatformProcess",
+      "newbbs" : 0,
+      "numcolumn" : 57,
+      "numline" : 73,
+      "size" : 32,
+      "var_id" : 15002677,
+      "variablename" : "sAlarmMicro",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/tests/fuzz/fuzzer_platform.c:73:57",
+      "varlabel" : -1
+   },
+   "15003292" : {
+      "conditional_var_id" : 15003292,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/tests/fuzz/fuzzer_platform.c",
+      "funname" : "FuzzerPlatformProcess",
+      "newbbs" : 0,
+      "numcolumn" : 38,
+      "numline" : 80,
+      "size" : 32,
+      "var_id" : 15003292,
+      "variablename" : "sAlarmNow",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/tests/fuzz/fuzzer_platform.c:80:38",
+      "varlabel" : -1
+   },
+   "15003768" : {
+      "conditional_var_id" : 15003768,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/tests/fuzz/fuzzer_platform.c",
+      "funname" : "FuzzerPlatformProcess",
+      "newbbs" : 0,
+      "numcolumn" : 63,
+      "numline" : 80,
+      "size" : 32,
+      "var_id" : 15001623,
+      "variablename" : "sAlarmMilli",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/tests/fuzz/fuzzer_platform.c:80:63",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 6,
+   "variable_count" : 4
+}

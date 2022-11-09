@@ -1,0 +1,69 @@
+{
+   "6264201" : {
+      "conditional_var_id" : 6264201,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libudev/libudev-queue.c",
+      "funname" : "udev_queue_unref",
+      "newbbs" : 0,
+      "numcolumn" : 25,
+      "numline" : 110,
+      "size" : 32,
+      "var_id" : 6264201,
+      "variablename" : "udev_queue",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libudev/libudev-queue.c:110:25",
+      "varlabel" : -1
+   },
+   "6267368" : {
+      "conditional_var_id" : 6267368,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libudev/libudev-queue.c",
+      "funname" : "udev_queue_get_fd",
+      "newbbs" : 0,
+      "numcolumn" : 25,
+      "numline" : 241,
+      "size" : 32,
+      "var_id" : 6267368,
+      "variablename" : "udev_queue",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libudev/libudev-queue.c:241:25",
+      "varlabel" : -1
+   },
+   "6267644" : {
+      "conditional_var_id" : 6267644,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libudev/libudev-queue.c",
+      "funname" : "udev_queue_get_fd",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 245,
+      "size" : 32,
+      "var_id" : 6267644,
+      "variablename" : "fd",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libudev/libudev-queue.c:245:13",
+      "varlabel" : -1
+   },
+   "6268012" : {
+      "conditional_var_id" : 6268012,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libudev/libudev-queue.c",
+      "funname" : "udev_queue_get_fd",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 249,
+      "size" : 32,
+      "var_id" : 6268012,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libudev/libudev-queue.c:249:13",
+      "varlabel" : -1
+   },
+   "6268462" : {
+      "conditional_var_id" : 6268462,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libudev/libudev-queue.c",
+      "funname" : "udev_queue_flush",
+      "newbbs" : 0,
+      "numcolumn" : 25,
+      "numline" : 266,
+      "size" : 32,
+      "var_id" : 6268462,
+      "variablename" : "udev_queue",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libudev/libudev-queue.c:266:25",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 5,
+   "variable_count" : 5
+}

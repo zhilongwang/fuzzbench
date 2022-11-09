@@ -1,0 +1,9 @@
+homepage: "www.grinninglizard.com/tinyxml2"
+language: c++
+auto_ccs:
+  - "leethomason@gmail.com"
+  - "pranjal.jumde@gmail.com"
+sanitizers:
+  - address
+  - memory
+  - undefined

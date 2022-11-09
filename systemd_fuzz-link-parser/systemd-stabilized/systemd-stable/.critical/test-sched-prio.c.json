@@ -1,0 +1,56 @@
+{
+   "7141609" : {
+      "conditional_var_id" : 7141609,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-sched-prio.c",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 39,
+      "size" : 32,
+      "var_id" : 7141609,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-sched-prio.c:39:13",
+      "varlabel" : -1
+   },
+   "7142402" : {
+      "conditional_var_id" : 7142402,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-sched-prio.c",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 28,
+      "numline" : 39,
+      "size" : 32,
+      "var_id" : 7141609,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-sched-prio.c:39:28",
+      "varlabel" : -1
+   },
+   "7142568" : {
+      "conditional_var_id" : 7142568,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-sched-prio.c",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 44,
+      "numline" : 39,
+      "size" : 32,
+      "var_id" : 7141609,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-sched-prio.c:39:44",
+      "varlabel" : -1
+   },
+   "7142722" : {
+      "conditional_var_id" : 7142722,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-sched-prio.c",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 64,
+      "numline" : 39,
+      "size" : 32,
+      "var_id" : 7141609,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-sched-prio.c:39:64",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 1
+}

@@ -1,0 +1,56 @@
+{
+   "13166329" : {
+      "conditional_var_id" : 13166329,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/Zend/zend_system_id.c",
+      "funname" : "zend_add_system_entropy",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 31,
+      "size" : 32,
+      "var_id" : 13166329,
+      "variablename" : "finalized",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/Zend/zend_system_id.c:31:6",
+      "varlabel" : -1
+   },
+   "13166861" : {
+      "conditional_var_id" : 13166861,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/Zend/zend_system_id.c",
+      "funname" : "zend_add_system_entropy",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 34,
+      "size" : 32,
+      "var_id" : 13166861,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/Zend/zend_system_id.c:34:7",
+      "varlabel" : -1
+   },
+   "13167597" : {
+      "conditional_var_id" : 13167597,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/Zend/zend_system_id.c",
+      "funname" : "zend_finalize_system_id",
+      "newbbs" : 0,
+      "numcolumn" : 22,
+      "numline" : 82,
+      "size" : 16,
+      "var_id" : 13167597,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/Zend/zend_system_id.c:82:22",
+      "varlabel" : -1
+   },
+   "13167757" : {
+      "conditional_var_id" : 13167757,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/Zend/zend_system_id.c",
+      "funname" : "zend_finalize_system_id",
+      "newbbs" : 0,
+      "numcolumn" : 49,
+      "numline" : 83,
+      "size" : 16,
+      "var_id" : 13167597,
+      "variablename" : "",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/Zend/zend_system_id.c:83:49",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 3
+}

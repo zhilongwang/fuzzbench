@@ -1,0 +1,82 @@
+{
+   "13703528" : {
+      "conditional_var_id" : 13703528,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/ssl_cookie.c",
+      "funname" : "mbedtls_ssl_cookie_setup",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 114,
+      "size" : 32,
+      "var_id" : 13703528,
+      "variablename" : "ret",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/ssl_cookie.c:114:9",
+      "varlabel" : -1
+   },
+   "13854209" : {
+      "conditional_var_id" : 13854209,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/ssl_cookie.c",
+      "funname" : "mbedtls_ssl_cookie_setup",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 118,
+      "size" : 32,
+      "var_id" : 13703528,
+      "variablename" : "ret",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/ssl_cookie.c:118:9",
+      "varlabel" : -1
+   },
+   "13874107" : {
+      "conditional_var_id" : 13874107,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/ssl_cookie.c",
+      "funname" : "mbedtls_ssl_cookie_check",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 215,
+      "size" : 32,
+      "var_id" : 13874107,
+      "variablename" : "cookie_len",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/ssl_cookie.c:215:9",
+      "varlabel" : -1
+   },
+   "13874558" : {
+      "conditional_var_id" : 13874558,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/ssl_cookie.c",
+      "funname" : "mbedtls_ssl_cookie_check",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 234,
+      "size" : 32,
+      "var_id" : 13874558,
+      "variablename" : "ret",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/ssl_cookie.c:234:9",
+      "varlabel" : -1
+   },
+   "13875052" : {
+      "conditional_var_id" : 13875052,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/ssl_cookie.c",
+      "funname" : "mbedtls_ssl_cookie_check",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 251,
+      "size" : 32,
+      "var_id" : 13875052,
+      "variablename" : "ctx",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/ssl_cookie.c:251:14",
+      "varlabel" : -1
+   },
+   "13875294" : {
+      "conditional_var_id" : 13875294,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/ssl_cookie.c",
+      "funname" : "mbedtls_ssl_cookie_check",
+      "newbbs" : 0,
+      "numcolumn" : 60,
+      "numline" : 251,
+      "size" : 32,
+      "var_id" : 13875294,
+      "variablename" : "ctx",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/ssl_cookie.c:251:60",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 6,
+   "variable_count" : 5
+}

@@ -1,0 +1,9 @@
+homepage: "https://usbguard.github.io/"
+language: c++
+primary_contact: "dkopecek@redhat.com"
+sanitizers:
+ - address
+ - undefined
+ - memory
+auto_ccs:
+ - "allenwebb@google.com"

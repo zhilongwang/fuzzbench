@@ -1,0 +1,56 @@
+{
+   "12461030" : {
+      "conditional_var_id" : 12461030,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/pj_gridlist.c",
+      "funname" : "pj_gridlist_from_nadgrids",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 194,
+      "size" : 32,
+      "var_id" : 12461030,
+      "variablename" : "end_char",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/pj_gridlist.c:194:13",
+      "varlabel" : -1
+   },
+   "12464537" : {
+      "conditional_var_id" : 12464537,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/pj_gridlist.c",
+      "funname" : "pj_gridlist_from_nadgrids",
+      "newbbs" : 0,
+      "numcolumn" : 16,
+      "numline" : 211,
+      "size" : 32,
+      "var_id" : 12464537,
+      "variablename" : "required",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/pj_gridlist.c:211:16",
+      "varlabel" : -1
+   },
+   "12466173" : {
+      "conditional_var_id" : 12466173,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/pj_gridlist.c",
+      "funname" : "pj_gridlist_merge_gridfile",
+      "newbbs" : 0,
+      "numcolumn" : 17,
+      "numline" : 100,
+      "size" : 32,
+      "var_id" : 12466173,
+      "variablename" : "p_gridcount",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/pj_gridlist.c:100:17",
+      "varlabel" : -1
+   },
+   "12466768" : {
+      "conditional_var_id" : 12466768,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/pj_gridlist.c",
+      "funname" : "pj_gridlist_merge_gridfile",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 125,
+      "size" : 32,
+      "var_id" : 12466768,
+      "variablename" : "got_match",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/pj_gridlist.c:125:9",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 4
+}

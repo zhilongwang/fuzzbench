@@ -1,0 +1,30 @@
+{
+   "14144261" : {
+      "conditional_var_id" : 14144261,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/ext/date/lib/unixtime2tm.c",
+      "funname" : "timelib_unixtime2date",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 43,
+      "size" : 64,
+      "var_id" : 14144261,
+      "variablename" : "days",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/ext/date/lib/unixtime2tm.c:43:9",
+      "varlabel" : -1
+   },
+   "14146250" : {
+      "conditional_var_id" : 14146250,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/ext/date/lib/unixtime2tm.c",
+      "funname" : "timelib_apply_localtime",
+      "newbbs" : 0,
+      "numcolumn" : 6,
+      "numline" : 221,
+      "size" : 32,
+      "var_id" : 14146250,
+      "variablename" : "localtime",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/ext/date/lib/unixtime2tm.c:221:6",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 2,
+   "variable_count" : 2
+}

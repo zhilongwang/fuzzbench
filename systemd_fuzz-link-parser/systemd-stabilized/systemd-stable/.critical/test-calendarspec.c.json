@@ -1,0 +1,17 @@
+{
+   "13711688" : {
+      "conditional_var_id" : 13711688,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-calendarspec.c",
+      "funname" : "test_one",
+      "newbbs" : 0,
+      "numcolumn" : 30,
+      "numline" : 43,
+      "size" : 32,
+      "var_id" : 13711688,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-calendarspec.c:43:30",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

@@ -1,0 +1,17 @@
+{
+   "3693657" : {
+      "conditional_var_id" : 3693657,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd-network/test-icmp6-rs.c",
+      "funname" : "test_rs_done",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 104,
+      "size" : 32,
+      "var_id" : 3693657,
+      "variablename" : "idx",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd-network/test-icmp6-rs.c:104:13",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

@@ -1,0 +1,56 @@
+{
+   "2792467" : {
+      "conditional_var_id" : 2792467,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-rtnl-manual.c",
+      "funname" : "test_tunnel_configure",
+      "newbbs" : 0,
+      "numcolumn" : 12,
+      "numline" : 77,
+      "size" : 32,
+      "var_id" : 2792467,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-rtnl-manual.c:77:12",
+      "varlabel" : -1
+   },
+   "2795120" : {
+      "conditional_var_id" : 2795120,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-rtnl-manual.c",
+      "funname" : "test_tunnel_configure",
+      "newbbs" : 0,
+      "numcolumn" : 12,
+      "numline" : 108,
+      "size" : 32,
+      "var_id" : 2792467,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-rtnl-manual.c:108:12",
+      "varlabel" : -1
+   },
+   "2797890" : {
+      "conditional_var_id" : 2797890,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-rtnl-manual.c",
+      "funname" : "load_module",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 49,
+      "size" : 32,
+      "var_id" : 2797890,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-rtnl-manual.c:49:13",
+      "varlabel" : -1
+   },
+   "2798190" : {
+      "conditional_var_id" : 2798190,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-rtnl-manual.c",
+      "funname" : "load_module",
+      "newbbs" : 0,
+      "numcolumn" : 21,
+      "numline" : 56,
+      "size" : 32,
+      "var_id" : 2797890,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-rtnl-manual.c:56:21",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 2
+}

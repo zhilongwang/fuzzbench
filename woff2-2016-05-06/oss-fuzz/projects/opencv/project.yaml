@@ -1,0 +1,21 @@
+homepage: "https://opencv.org/"
+language: c++
+primary_contact: "garybradski@gmail.com"
+
+auto_ccs:
+  - "alexander.a.alekhin@gmail.com"
+  - "garybradski@gmail.com"
+  - "vrabaud@google.com"
+  - "kusano@google.com"
+  - "maksim.shabunin@gmail.com"
+
+sanitizers:
+  - address
+  - undefined
+  - memory
+
+labels:
+  imdecode_fuzzer:
+    - sundew
+  imread_fuzzer:
+    - sundew

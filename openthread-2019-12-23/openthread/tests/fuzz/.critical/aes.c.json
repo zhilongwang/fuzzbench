@@ -1,0 +1,30 @@
+{
+   "16023488" : {
+      "conditional_var_id" : 16023488,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/aes.c",
+      "funname" : "mbedtls_aes_setkey_dec",
+      "newbbs" : 0,
+      "numcolumn" : 21,
+      "numline" : 701,
+      "size" : 32,
+      "var_id" : 16023488,
+      "variablename" : "j",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/aes.c:701:21",
+      "varlabel" : -1
+   },
+   "16027251" : {
+      "conditional_var_id" : 16027251,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/aes.c",
+      "funname" : "mbedtls_aes_crypt_ecb",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 1001,
+      "size" : 32,
+      "var_id" : 16027251,
+      "variablename" : "mode",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/third_party/mbedtls/repo/library/aes.c:1001:9",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 2,
+   "variable_count" : 2
+}

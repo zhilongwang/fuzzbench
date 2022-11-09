@@ -1,0 +1,17 @@
+{
+   "7377344" : {
+      "conditional_var_id" : 7377344,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/zlib_zlib_uncompress_fuzzer/zlib/gzclose.c",
+      "funname" : "gzclose",
+      "newbbs" : 0,
+      "numcolumn" : 19,
+      "numline" : 21,
+      "size" : 32,
+      "var_id" : 7377344,
+      "variablename" : "state",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/zlib_zlib_uncompress_fuzzer/zlib/gzclose.c:21:19",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

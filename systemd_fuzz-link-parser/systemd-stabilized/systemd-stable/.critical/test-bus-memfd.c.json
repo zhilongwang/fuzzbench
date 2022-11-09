@@ -1,0 +1,30 @@
+{
+   "13334347" : {
+      "conditional_var_id" : 13334347,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-bus/test-bus-memfd.c",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 44,
+      "size" : 32,
+      "var_id" : 13334347,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-bus/test-bus-memfd.c:44:13",
+      "varlabel" : -1
+   },
+   "13338590" : {
+      "conditional_var_id" : 13338590,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-bus/test-bus-memfd.c",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 111,
+      "size" : 32,
+      "var_id" : 13334347,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-bus/test-bus-memfd.c:111:9",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 2,
+   "variable_count" : 1
+}

@@ -1,0 +1,30 @@
+{
+   "16107385" : {
+      "conditional_var_id" : 16107385,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/tests/fuzz/ip6_send.cpp",
+      "funname" : "LLVMFuzzerTestOneInput",
+      "newbbs" : 0,
+      "numcolumn" : 5,
+      "numline" : 57,
+      "size" : 32,
+      "var_id" : 16107385,
+      "variablename" : "size",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/tests/fuzz/ip6_send.cpp:57:5",
+      "varlabel" : -1
+   },
+   "16108976" : {
+      "conditional_var_id" : 16108976,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/tests/fuzz/ip6_send.cpp",
+      "funname" : "LLVMFuzzerTestOneInput",
+      "newbbs" : 0,
+      "numcolumn" : 5,
+      "numline" : 74,
+      "size" : 32,
+      "var_id" : 16108976,
+      "variablename" : "error",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/tests/fuzz/ip6_send.cpp:74:5",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 2,
+   "variable_count" : 2
+}

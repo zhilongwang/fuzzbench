@@ -1,0 +1,6 @@
+homepage: "https://www.strongswan.org"
+language: c++
+primary_contact: "security@strongswan.org"
+auto_ccs:
+  - "tobias@strongswan.org"
+  - "andreas.steffen@strongswan.org"

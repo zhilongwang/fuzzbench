@@ -1,0 +1,46 @@
+total variable:0
+total variable:0
+total variable:1 12577026
+total variable:2 12335270
+total variable:3 3845593
+total variable:4 3856757
+total variable:5 12359829
+total variable:6 12341539
+total variable:7 12342044
+total variable:8 12357561
+total variable:9 12338537
+total variable:10 7447345
+total variable:11 7738603
+total variable:12 7740225
+total variable:13 7741167
+total variable:14 7451391
+total variable:15 7745371
+total variable:16 7746771
+total variable:17 12339143
+total variable:18 7741780
+total variable:19 12358261
+total variable:20 12360283
+total variable:21 12360498
+total variable:22 12360675
+total variable:23 12360872
+total variable:24 3861473
+total variable:25 3862413
+total variable:26 3862676
+total variable:27 15106363
+total variable:28 4209973
+total variable:29 4213173
+total variable:30 4215538
+total variable:31 4216073
+total variable:32 4216620
+total variable:33 4216837
+total variable:34 4217199
+total variable:35 4218514
+total variable:36 15543559
+total variable:37 15550725
+total variable:38 15551184
+total variable:39 12580392
+ttotal variable:42
+total variable:42
+otal variable:40 11845649
+total variable:41 11847974
+total variable:42 11849985

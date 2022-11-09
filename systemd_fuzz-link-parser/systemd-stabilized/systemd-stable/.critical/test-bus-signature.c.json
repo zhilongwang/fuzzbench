@@ -1,0 +1,43 @@
+{
+   "10497310" : {
+      "conditional_var_id" : 10497310,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-bus/test-bus-signature.c",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 17,
+      "numline" : 155,
+      "size" : 32,
+      "var_id" : 10497310,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-bus/test-bus-signature.c:155:17",
+      "varlabel" : -1
+   },
+   "10498064" : {
+      "conditional_var_id" : 10498064,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-bus/test-bus-signature.c",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 17,
+      "numline" : 156,
+      "size" : 32,
+      "var_id" : 10497310,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-bus/test-bus-signature.c:156:17",
+      "varlabel" : -1
+   },
+   "10498247" : {
+      "conditional_var_id" : 10498247,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-bus/test-bus-signature.c",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 17,
+      "numline" : 157,
+      "size" : 32,
+      "var_id" : 10497310,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libsystemd/sd-bus/test-bus-signature.c:157:17",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 1
+}

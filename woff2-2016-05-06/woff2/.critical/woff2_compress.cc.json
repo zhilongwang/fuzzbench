@@ -1,0 +1,43 @@
+{
+   "13527529" : {
+      "conditional_var_id" : 13527529,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2/src/woff2_compress.cc",
+      "funname" : "main",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 26,
+      "size" : 32,
+      "var_id" : 13527529,
+      "variablename" : "argc",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2/src/woff2_compress.cc:26:7",
+      "varlabel" : -1
+   },
+   "13531413" : {
+      "conditional_var_id" : 13531413,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/basic_string.tcc",
+      "funname" : "_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructISt19istreambuf_iteratorIcS2_EEEvT_S8_St18input_iterator_tag",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 180,
+      "size" : 32,
+      "var_id" : 13531413,
+      "variablename" : "__len",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/basic_string.tcc:180:7",
+      "varlabel" : -1
+   },
+   "13531584" : {
+      "conditional_var_id" : 13531584,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/basic_string.tcc",
+      "funname" : "_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructISt19istreambuf_iteratorIcS2_EEEvT_S8_St18input_iterator_tag",
+      "newbbs" : 0,
+      "numcolumn" : 16,
+      "numline" : 180,
+      "size" : 32,
+      "var_id" : 13531584,
+      "variablename" : "__capacity",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2//usr/bin/../lib/gcc/i686-linux-gnu/8/../../../../include/c++/8/bits/basic_string.tcc:180:16",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 3
+}

@@ -1,0 +1,56 @@
+{
+   "1816628" : {
+      "conditional_var_id" : 1816628,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/pj_log.c",
+      "funname" : "pj_vlog",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 55,
+      "size" : 32,
+      "var_id" : 1816628,
+      "variablename" : "level",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/pj_log.c:55:9",
+      "varlabel" : -1
+   },
+   "1817504" : {
+      "conditional_var_id" : 1817504,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/pj_log.c",
+      "funname" : "pj_vlog",
+      "newbbs" : 0,
+      "numcolumn" : 22,
+      "numline" : 55,
+      "size" : 32,
+      "var_id" : 1817504,
+      "variablename" : "ctx",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/pj_log.c:55:22",
+      "varlabel" : -1
+   },
+   "1818055" : {
+      "conditional_var_id" : 1818055,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/pj_log.c",
+      "funname" : "pj_log",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 80,
+      "size" : 32,
+      "var_id" : 1818055,
+      "variablename" : "level",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/pj_log.c:80:9",
+      "varlabel" : -1
+   },
+   "1818201" : {
+      "conditional_var_id" : 1818201,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/pj_log.c",
+      "funname" : "pj_log",
+      "newbbs" : 0,
+      "numcolumn" : 22,
+      "numline" : 80,
+      "size" : 32,
+      "var_id" : 1818201,
+      "variablename" : "ctx",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/pj_log.c:80:22",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 4
+}

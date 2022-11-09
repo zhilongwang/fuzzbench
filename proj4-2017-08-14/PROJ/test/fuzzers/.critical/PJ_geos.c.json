@@ -1,0 +1,56 @@
+{
+   "13589909" : {
+      "conditional_var_id" : 13589909,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_geos.c",
+      "funname" : "e_inverse",
+      "newbbs" : 0,
+      "numcolumn" : 11,
+      "numline" : 160,
+      "size" : 32,
+      "var_id" : 13589909,
+      "variablename" : "Q",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_geos.c:160:11",
+      "varlabel" : -1
+   },
+   "13591820" : {
+      "conditional_var_id" : 13591820,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_geos.c",
+      "funname" : "e_forward",
+      "newbbs" : 0,
+      "numcolumn" : 11,
+      "numline" : 103,
+      "size" : 32,
+      "var_id" : 13591820,
+      "variablename" : "Q",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_geos.c:103:11",
+      "varlabel" : -1
+   },
+   "13592813" : {
+      "conditional_var_id" : 13592813,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_geos.c",
+      "funname" : "s_inverse",
+      "newbbs" : 0,
+      "numcolumn" : 11,
+      "numline" : 122,
+      "size" : 32,
+      "var_id" : 13592813,
+      "variablename" : "Q",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_geos.c:122:11",
+      "varlabel" : -1
+   },
+   "13593757" : {
+      "conditional_var_id" : 13593757,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_geos.c",
+      "funname" : "s_forward",
+      "newbbs" : 0,
+      "numcolumn" : 11,
+      "numline" : 67,
+      "size" : 32,
+      "var_id" : 13593757,
+      "variablename" : "Q",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/proj4-2017-08-14/PROJ/src/PJ_geos.c:67:11",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 4
+}

@@ -1,0 +1,56 @@
+{
+   "8945817" : {
+      "conditional_var_id" : 8945817,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-hwdb.c",
+      "funname" : "builtin_hwdb",
+      "newbbs" : 0,
+      "numcolumn" : 21,
+      "numline" : 143,
+      "size" : 32,
+      "var_id" : 8945817,
+      "variablename" : "option",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-hwdb.c:143:21",
+      "varlabel" : -1
+   },
+   "8948915" : {
+      "conditional_var_id" : 8948915,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-hwdb.c",
+      "funname" : "udev_builtin_hwdb_search",
+      "newbbs" : 0,
+      "numcolumn" : 21,
+      "numline" : 115,
+      "size" : 32,
+      "var_id" : 8948915,
+      "variablename" : "n",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-hwdb.c:115:21",
+      "varlabel" : -1
+   },
+   "8952678" : {
+      "conditional_var_id" : 8952678,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-hwdb.c",
+      "funname" : "modalias_usb",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 77,
+      "size" : 32,
+      "var_id" : 8952678,
+      "variablename" : "vn",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-hwdb.c:77:13",
+      "varlabel" : -1
+   },
+   "8952931" : {
+      "conditional_var_id" : 8952931,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-hwdb.c",
+      "funname" : "modalias_usb",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 80,
+      "size" : 32,
+      "var_id" : 8952931,
+      "variablename" : "pn",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udev-builtin-hwdb.c:80:13",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 4
+}

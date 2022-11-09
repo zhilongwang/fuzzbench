@@ -1,0 +1,69 @@
+{
+   "1036137" : {
+      "conditional_var_id" : 1036137,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/shared/errno-list.c",
+      "funname" : "errno_to_name",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 36,
+      "size" : 32,
+      "var_id" : 1036137,
+      "variablename" : "id",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/shared/errno-list.c:36:13",
+      "varlabel" : -1
+   },
+   "1037164" : {
+      "conditional_var_id" : 1037164,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/shared/errno-list.c",
+      "funname" : "errno_to_name",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 39,
+      "size" : 32,
+      "var_id" : 1036137,
+      "variablename" : "id",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/shared/errno-list.c:39:13",
+      "varlabel" : -1
+   },
+   "1038315" : {
+      "conditional_var_id" : 1038315,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/./src/shared/errno-from-name.h",
+      "funname" : "lookup_errno",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 359,
+      "size" : 32,
+      "var_id" : 1038315,
+      "variablename" : "len",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/./src/shared/errno-from-name.h:359:7",
+      "varlabel" : -1
+   },
+   "1038516" : {
+      "conditional_var_id" : 1038516,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/./src/shared/errno-from-name.h",
+      "funname" : "lookup_errno",
+      "newbbs" : 0,
+      "numcolumn" : 33,
+      "numline" : 359,
+      "size" : 32,
+      "var_id" : 1038315,
+      "variablename" : "len",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/./src/shared/errno-from-name.h:359:33",
+      "varlabel" : -1
+   },
+   "1038782" : {
+      "conditional_var_id" : 1038782,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/./src/shared/errno-from-name.h",
+      "funname" : "lookup_errno",
+      "newbbs" : 0,
+      "numcolumn" : 11,
+      "numline" : 363,
+      "size" : 32,
+      "var_id" : 1038782,
+      "variablename" : "key",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/./src/shared/errno-from-name.h:363:11",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 5,
+   "variable_count" : 3
+}

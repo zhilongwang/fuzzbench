@@ -1,0 +1,13 @@
+homepage: https://webkit.org/
+language: c++
+fuzzing_engines:
+  - none
+sanitizers:
+  - address
+auto_ccs:
+  - "mark.lam@apple.com"
+  - "akilsrin@apple.com"
+  - "ddkilzer@apple.com"
+  - "jfb@chromium.org"
+  - "sbarati@apple.com"
+  - "ysuzuki@apple.com"

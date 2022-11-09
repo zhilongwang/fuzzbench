@@ -1,0 +1,157 @@
+# Copyright 2016 Google Inc.
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
+################################################################################
+
+FROM gcr.io/oss-fuzz-base/base-clang
+
+RUN dpkg --add-architecture i386 && \
+    apt-get update && \
+    apt-get install -y software-properties-common && \
+    add-apt-repository ppa:git-core/ppa && \
+    apt-get update && \
+    apt-get install -y \
+        binutils-dev \
+        build-essential \
+        curl \
+        git \
+        jq \
+        libc6-dev-i386 \
+        subversion \
+        zip
+
+# Install cmake.
+ENV CMAKE_VERSION 3.17.3
+RUN curl -L -O https://github.com/Kitware/CMake/releases/download/v$CMAKE_VERSION/cmake-$CMAKE_VERSION-Linux-x86_64.sh && \
+    chmod +x cmake-$CMAKE_VERSION-Linux-x86_64.sh && \
+    ./cmake-$CMAKE_VERSION-Linux-x86_64.sh --skip-license --prefix="/usr/local" && \
+    rm cmake-$CMAKE_VERSION-Linux-x86_64.sh
+
+# Build and install latest Python 3 (3.8.3).
+ENV PYTHON_VERSION 3.8.3
+RUN export PYTHON_DEPS="\
+        zlib1g-dev \
+        libncurses5-dev \
+        libgdbm-dev \
+        libnss3-dev \
+        libssl-dev \
+        libsqlite3-dev \
+        libreadline-dev \
+        libffi-dev \
+        libbz2-dev \
+        liblzma-dev" && \
+    apt-get install -y $PYTHON_DEPS && \
+    cd /tmp/ && \
+    curl -O https://www.python.org/ftp/python/$PYTHON_VERSION/Python-$PYTHON_VERSION.tar.xz && \
+    tar -xvf Python-$PYTHON_VERSION.tar.xz && \
+    cd Python-$PYTHON_VERSION && \
+    ./configure --enable-optimizations && \
+    make -j install && \
+    cd .. && \
+    rm -r /tmp/Python-$PYTHON_VERSION.tar.xz /tmp/Python-$PYTHON_VERSION && \
+    apt-get remove -y $PYTHON_DEPS  # https://github.com/google/oss-fuzz/issues/3888
+
+# Download and install the latest stable Go.
+ADD https://storage.googleapis.com/golang/getgo/installer_linux $SRC/
+RUN chmod +x $SRC/installer_linux && \
+    SHELL="bash" $SRC/installer_linux && \
+    rm $SRC/installer_linux
+
+# Set up Golang environment variables (copied from /root/.bash_profile).
+ENV GOPATH /root/go
+
+# /root/.go/bin is for the standard Go binaries (i.e. go, gofmt, etc).
+# $GOPATH/bin is for the binaries from the dependencies installed via "go get".
+ENV PATH $PATH:/root/.go/bin:$GOPATH/bin
+
+# Uses golang 1.14+ cmd/compile's native libfuzzer instrumentation.
+RUN go get -u github.com/mdempsky/go114-fuzz-build && \
+    ln -s $GOPATH/bin/go114-fuzz-build $GOPATH/bin/go-fuzz
+
+# Install Rust and cargo-fuzz for libFuzzer instrumentation.
+ENV CARGO_HOME=/rust
+ENV RUSTUP_HOME=/rust/rustup
+ENV PATH=$PATH:/rust/bin
+RUN curl https://sh.rustup.rs | sh -s -- -y --default-toolchain=nightly
+RUN cargo install cargo-fuzz
+
+# Default build flags for various sanitizers.
+ENV SANITIZER_FLAGS_address "-fsanitize=address -fsanitize-address-use-after-scope"
+
+# Set of '-fsanitize' flags matches '-fno-sanitize-recover' + 'unsigned-integer-overflow'.
+ENV SANITIZER_FLAGS_undefined "-fsanitize=array-bounds,bool,builtin,enum,float-divide-by-zero,function,integer-divide-by-zero,null,object-size,return,returns-nonnull-attribute,shift,signed-integer-overflow,unsigned-integer-overflow,unreachable,vla-bound,vptr -fno-sanitize-recover=array-bounds,bool,builtin,enum,float-divide-by-zero,function,integer-divide-by-zero,null,object-size,return,returns-nonnull-attribute,shift,signed-integer-overflow,unreachable,vla-bound,vptr"
+
+ENV SANITIZER_FLAGS_memory "-fsanitize=memory -fsanitize-memory-track-origins"
+
+ENV SANITIZER_FLAGS_dataflow "-fsanitize=dataflow"
+
+# Do not use any sanitizers in the coverage build.
+ENV SANITIZER_FLAGS_coverage ""
+
+# We use unsigned-integer-overflow as an additional coverage signal and have to
+# suppress error messages. See https://github.com/google/oss-fuzz/issues/910.
+ENV UBSAN_OPTIONS="silence_unsigned_overflow=1"
+
+# To suppress warnings from binaries running during compilation.
+ENV DFSAN_OPTIONS='warn_unimplemented=0'
+
+# Default build flags for coverage feedback.
+ENV COVERAGE_FLAGS="-fsanitize=fuzzer-no-link"
+
+# Use '-Wno-unused-command-line-argument' to suppress "warning: -ldl: 'linker' input unused"
+# messages which are treated as errors by some projects.
+ENV COVERAGE_FLAGS_coverage "-fprofile-instr-generate -fcoverage-mapping -pthread -Wl,--no-as-needed -Wl,-ldl -Wl,-lm -Wno-unused-command-line-argument"
+
+# Coverage isntrumentation flags for dataflow builds.
+ENV COVERAGE_FLAGS_dataflow="-fsanitize-coverage=trace-pc-guard,pc-table,bb,trace-cmp"
+
+# Default sanitizer, fuzzing engine and architecture to use.
+ENV SANITIZER="address"
+ENV FUZZING_ENGINE="libfuzzer"
+ENV ARCHITECTURE="x86_64"
+
+# DEPRECATED - NEW CODE SHOULD NOT USE THIS. OLD CODE SHOULD STOP. Please use
+# LIB_FUZZING_ENGINE instead.
+# Path to fuzzing engine library to support some old users of
+# LIB_FUZZING_ENGINE.
+ENV LIB_FUZZING_ENGINE_DEPRECATED="/usr/lib/libFuzzingEngine.a"
+
+# Argument passed to compiler to link against fuzzing engine.
+# Defaults to the path, but is "-fsanitize=fuzzer" in libFuzzer builds.
+ENV LIB_FUZZING_ENGINE="/usr/lib/libFuzzingEngine.a"
+
+# TODO: remove after tpm2 catchup.
+ENV FUZZER_LDFLAGS ""
+
+ENV PRECOMPILED_DIR="/usr/lib/precompiled"
+RUN mkdir $PRECOMPILED_DIR
+
+WORKDIR $SRC
+
+RUN git clone -b stable https://github.com/google/AFL.git afl
+
+ADD https://github.com/google/honggfuzz/archive/oss-fuzz.tar.gz $SRC/
+RUN mkdir honggfuzz && \
+    cd honggfuzz && \
+    tar -xzv --strip-components=1 -f $SRC/oss-fuzz.tar.gz && \
+    rm -rf $SRC/oss-fuzz.tar.gz
+
+COPY compile compile_afl compile_dataflow compile_libfuzzer compile_honggfuzz \
+    precompile_honggfuzz srcmap write_labels.py /usr/local/bin/
+
+COPY detect_repo.py /opt/cifuzz/
+
+RUN precompile_honggfuzz
+
+CMD ["compile"]

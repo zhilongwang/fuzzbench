@@ -1,0 +1,17 @@
+{
+   "9402645" : {
+      "conditional_var_id" : 9402645,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/gudev/gudevmarshal.c",
+      "funname" : "g_udev_marshal_VOID__STRING_OBJECT",
+      "newbbs" : 0,
+      "numcolumn" : 3,
+      "numline" : 68,
+      "size" : 32,
+      "var_id" : 9402645,
+      "variablename" : "n_param_values",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/gudev/gudevmarshal.c:68:3",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

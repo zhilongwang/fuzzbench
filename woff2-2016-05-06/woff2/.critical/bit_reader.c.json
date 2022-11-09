@@ -1,0 +1,56 @@
+{
+   "1838281" : {
+      "conditional_var_id" : 1838281,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2/brotli/dec/././bit_reader.h",
+      "funname" : "BrotliWarmupBitReader",
+      "newbbs" : 0,
+      "numcolumn" : 11,
+      "numline" : 224,
+      "size" : 32,
+      "var_id" : 1838281,
+      "variablename" : "br",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2/brotli/dec/././bit_reader.h:224:11",
+      "varlabel" : -1
+   },
+   "1838824" : {
+      "conditional_var_id" : 1838824,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2/brotli/dec/././bit_reader.h",
+      "funname" : "BrotliWarmupBitReader",
+      "newbbs" : 0,
+      "numcolumn" : 1,
+      "numline" : 237,
+      "size" : 32,
+      "var_id" : 1838824,
+      "variablename" : "null",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2/brotli/dec/././bit_reader.h:237:1",
+      "varlabel" : -1
+   },
+   "1838996" : {
+      "conditional_var_id" : 1838996,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2/brotli/dec/././bit_reader.h",
+      "funname" : "BrotliWarmupBitReader",
+      "newbbs" : 0,
+      "numcolumn" : 11,
+      "numline" : 224,
+      "size" : 32,
+      "var_id" : 1838996,
+      "variablename" : "br",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2/brotli/dec/././bit_reader.h:224:11",
+      "varlabel" : -1
+   },
+   "1839139" : {
+      "conditional_var_id" : 1839139,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2/brotli/dec/././bit_reader.h",
+      "funname" : "BrotliWarmupBitReader",
+      "newbbs" : 0,
+      "numcolumn" : 1,
+      "numline" : 237,
+      "size" : 32,
+      "var_id" : 1839139,
+      "variablename" : "null",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2/brotli/dec/././bit_reader.h:237:1",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 4
+}

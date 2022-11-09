@@ -1,0 +1,43 @@
+{
+   "10283332" : {
+      "conditional_var_id" : 10283332,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/shared/clock-util.c",
+      "funname" : "clock_get_hwclock",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 52,
+      "size" : 32,
+      "var_id" : 10283332,
+      "variablename" : "fd",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/shared/clock-util.c:52:13",
+      "varlabel" : -1
+   },
+   "10285274" : {
+      "conditional_var_id" : 10285274,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/shared/clock-util.c",
+      "funname" : "clock_set_hwclock",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 73,
+      "size" : 32,
+      "var_id" : 10285274,
+      "variablename" : "fd",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/shared/clock-util.c:73:13",
+      "varlabel" : -1
+   },
+   "10286466" : {
+      "conditional_var_id" : 10286466,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/shared/clock-util.c",
+      "funname" : "clock_is_localtime",
+      "newbbs" : 0,
+      "numcolumn" : 20,
+      "numline" : 106,
+      "size" : 32,
+      "var_id" : 10286466,
+      "variablename" : "null",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/shared/clock-util.c:106:20",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 3
+}

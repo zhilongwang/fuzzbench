@@ -1,0 +1,17 @@
+{
+   "7735674" : {
+      "conditional_var_id" : 7735674,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/examples/platforms/utils/mac_frame.cpp",
+      "funname" : "otMacFrameGetSrcAddr",
+      "newbbs" : 0,
+      "numcolumn" : 5,
+      "numline" : 91,
+      "size" : 32,
+      "var_id" : 7735674,
+      "variablename" : "error",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/openthread-2019-12-23/openthread/examples/platforms/utils/mac_frame.cpp:91:5",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

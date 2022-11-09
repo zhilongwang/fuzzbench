@@ -1,0 +1,17 @@
+{
+   "5399228" : {
+      "conditional_var_id" : 5399228,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-fdset.c",
+      "funname" : "test_fdset_put_dup",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 52,
+      "size" : 32,
+      "var_id" : 5399228,
+      "variablename" : "copyfd",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/test/test-fdset.c:52:9",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

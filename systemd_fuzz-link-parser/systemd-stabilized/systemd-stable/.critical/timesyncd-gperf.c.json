@@ -1,0 +1,43 @@
+{
+   "6360991" : {
+      "conditional_var_id" : 6360991,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/timesync/timesyncd-gperf.c",
+      "funname" : "timesyncd_gperf_lookup",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 40,
+      "size" : 32,
+      "var_id" : 6360991,
+      "variablename" : "len",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/timesync/timesyncd-gperf.c:40:7",
+      "varlabel" : -1
+   },
+   "6362065" : {
+      "conditional_var_id" : 6362065,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/timesync/timesyncd-gperf.c",
+      "funname" : "timesyncd_gperf_lookup",
+      "newbbs" : 0,
+      "numcolumn" : 33,
+      "numline" : 40,
+      "size" : 32,
+      "var_id" : 6360991,
+      "variablename" : "len",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/timesync/timesyncd-gperf.c:40:33",
+      "varlabel" : -1
+   },
+   "6362363" : {
+      "conditional_var_id" : 6362363,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/timesync/timesyncd-gperf.c",
+      "funname" : "timesyncd_gperf_lookup",
+      "newbbs" : 0,
+      "numcolumn" : 11,
+      "numline" : 44,
+      "size" : 32,
+      "var_id" : 6362363,
+      "variablename" : "key",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/timesync/timesyncd-gperf.c:44:11",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 2
+}

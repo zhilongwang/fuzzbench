@@ -1,0 +1,56 @@
+{
+   "7336882" : {
+      "conditional_var_id" : 7336882,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udevadm-settle.c",
+      "funname" : "adm_settle",
+      "newbbs" : 0,
+      "numcolumn" : 29,
+      "numline" : 71,
+      "size" : 32,
+      "var_id" : 7336882,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udevadm-settle.c:71:29",
+      "varlabel" : -1
+   },
+   "7337983" : {
+      "conditional_var_id" : 7337983,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udevadm-settle.c",
+      "funname" : "adm_settle",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 91,
+      "size" : 32,
+      "var_id" : 7337983,
+      "variablename" : "null",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udevadm-settle.c:91:13",
+      "varlabel" : -1
+   },
+   "7338147" : {
+      "conditional_var_id" : 7338147,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udevadm-settle.c",
+      "funname" : "adm_settle",
+      "newbbs" : 0,
+      "numcolumn" : 22,
+      "numline" : 91,
+      "size" : 32,
+      "var_id" : 7338147,
+      "variablename" : "argc",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udevadm-settle.c:91:22",
+      "varlabel" : -1
+   },
+   "7339119" : {
+      "conditional_var_id" : 7339119,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udevadm-settle.c",
+      "funname" : "adm_settle",
+      "newbbs" : 0,
+      "numcolumn" : 20,
+      "numline" : 119,
+      "size" : 32,
+      "var_id" : 7339119,
+      "variablename" : "pfd",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/udevadm-settle.c:119:20",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 4,
+   "variable_count" : 4
+}

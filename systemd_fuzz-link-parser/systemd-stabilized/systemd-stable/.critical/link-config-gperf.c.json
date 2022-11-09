@@ -1,0 +1,43 @@
+{
+   "15662356" : {
+      "conditional_var_id" : 15662356,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/net/link-config-gperf.c",
+      "funname" : "link_config_gperf_lookup",
+      "newbbs" : 0,
+      "numcolumn" : 7,
+      "numline" : 125,
+      "size" : 32,
+      "var_id" : 15662356,
+      "variablename" : "len",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/net/link-config-gperf.c:125:7",
+      "varlabel" : -1
+   },
+   "15663371" : {
+      "conditional_var_id" : 15663371,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/net/link-config-gperf.c",
+      "funname" : "link_config_gperf_lookup",
+      "newbbs" : 0,
+      "numcolumn" : 33,
+      "numline" : 125,
+      "size" : 32,
+      "var_id" : 15662356,
+      "variablename" : "len",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/net/link-config-gperf.c:125:33",
+      "varlabel" : -1
+   },
+   "15663748" : {
+      "conditional_var_id" : 15663748,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/net/link-config-gperf.c",
+      "funname" : "link_config_gperf_lookup",
+      "newbbs" : 0,
+      "numcolumn" : 11,
+      "numline" : 129,
+      "size" : 32,
+      "var_id" : 15663748,
+      "variablename" : "key",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/udev/net/link-config-gperf.c:129:11",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 2
+}

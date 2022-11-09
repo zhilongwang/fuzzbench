@@ -1,0 +1,17 @@
+{
+   "9452853" : {
+      "conditional_var_id" : 9452853,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2/brotli/dec/state.c",
+      "funname" : "BrotliStateIsStreamStart",
+      "newbbs" : 0,
+      "numcolumn" : 14,
+      "numline" : 153,
+      "size" : 32,
+      "var_id" : 9452853,
+      "variablename" : "s",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/woff2-2016-05-06/woff2/brotli/dec/state.c:153:14",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 1,
+   "variable_count" : 1
+}

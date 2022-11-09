@@ -1,0 +1,30 @@
+{
+   "9613318" : {
+      "conditional_var_id" : 9613318,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libudev/libudev-device-private.c",
+      "funname" : "udev_device_tag",
+      "newbbs" : 0,
+      "numcolumn" : 21,
+      "numline" : 47,
+      "size" : 32,
+      "var_id" : 9613318,
+      "variablename" : "fd",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libudev/libudev-device-private.c:47:21",
+      "varlabel" : -1
+   },
+   "9617776" : {
+      "conditional_var_id" : 9617776,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libudev/libudev-device-private.c",
+      "funname" : "udev_device_update_db",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 173,
+      "size" : 32,
+      "var_id" : 9617776,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/libudev/libudev-device-private.c:173:13",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 2,
+   "variable_count" : 2
+}

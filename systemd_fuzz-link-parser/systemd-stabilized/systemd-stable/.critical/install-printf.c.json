@@ -1,0 +1,30 @@
+{
+   "16604676" : {
+      "conditional_var_id" : 16604676,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/shared/install-printf.c",
+      "funname" : "specifier_instance",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 66,
+      "size" : 32,
+      "var_id" : 16604676,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/shared/install-printf.c:66:13",
+      "varlabel" : -1
+   },
+   "16606396" : {
+      "conditional_var_id" : 16606396,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/shared/install-printf.c",
+      "funname" : "specifier_user_name",
+      "newbbs" : 0,
+      "numcolumn" : 21,
+      "numline" : 103,
+      "size" : 32,
+      "var_id" : 16606396,
+      "variablename" : "r",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/systemd_fuzz-link-parser/systemd-stabilized/systemd-stable/src/shared/install-printf.c:103:21",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 2,
+   "variable_count" : 2
+}

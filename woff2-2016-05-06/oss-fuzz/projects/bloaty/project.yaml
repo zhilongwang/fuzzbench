@@ -1,0 +1,6 @@
+homepage: "https://github.com/google/bloaty"
+language: c++
+primary_contact: "jhaberman@gmail.com"
+architectures:
+  - x86_64
+  - i386

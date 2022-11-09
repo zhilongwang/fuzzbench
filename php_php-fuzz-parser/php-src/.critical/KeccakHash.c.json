@@ -1,0 +1,43 @@
+{
+   "13386206" : {
+      "conditional_var_id" : 13386206,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/ext/hash/sha3/generic32lc/KeccakHash.c",
+      "funname" : "Keccak_HashInitialize",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 28,
+      "size" : 32,
+      "var_id" : 13386206,
+      "variablename" : "result",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/ext/hash/sha3/generic32lc/KeccakHash.c:28:9",
+      "varlabel" : -1
+   },
+   "13387033" : {
+      "conditional_var_id" : 13387033,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/ext/hash/sha3/generic32lc/KeccakHash.c",
+      "funname" : "Keccak_HashUpdate",
+      "newbbs" : 0,
+      "numcolumn" : 13,
+      "numline" : 43,
+      "size" : 32,
+      "var_id" : 13387033,
+      "variablename" : "ret",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/ext/hash/sha3/generic32lc/KeccakHash.c:43:13",
+      "varlabel" : -1
+   },
+   "13387498" : {
+      "conditional_var_id" : 13387498,
+      "filename" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/ext/hash/sha3/generic32lc/KeccakHash.c",
+      "funname" : "Keccak_HashFinal",
+      "newbbs" : 0,
+      "numcolumn" : 9,
+      "numline" : 67,
+      "size" : 32,
+      "var_id" : 13387498,
+      "variablename" : "ret",
+      "varkey" : "/home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src//home/vagrant/touch_of_death/critial-data-trace/fuzzbench/benchmarks/php_php-fuzz-parser/php-src/ext/hash/sha3/generic32lc/KeccakHash.c:67:9",
+      "varlabel" : -1
+   },
+   "conditional_var_count" : 3,
+   "variable_count" : 3
+}
